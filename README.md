@@ -1,5 +1,6 @@
 # ICCV-2025-Papers
-![Alt text](71b01f14605d807ad78d267e5528243.jpg)
+![image](https://github.com/user-attachments/assets/0b93ce8a-4383-46ba-9672-6c746728c9f9)
+
 ## 会议时间：2025年10月19日至23日
 ## 会议网址：https://iccv.thecvf.com/
 
