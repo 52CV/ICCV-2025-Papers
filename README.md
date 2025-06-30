@@ -116,7 +116,8 @@
   * [OracleFusion: Assisting the Decipherment of Oracle Bone Script with Structurally Constrained Semantic Typography](http://arxiv.org/pdf/2506.21101v1)
 
 ## Video
-* [Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs](http://arxiv.org/pdf/2506.22139v1)
+* 视频理解
+  * [Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs](http://arxiv.org/pdf/2506.22139v1)
 
 ## Action Recognition(动作识别)
 * [Frequency-Semantic Enhanced Variational Autoencoder for Zero-Shot Skeleton-based Action Recognition](http://arxiv.org/pdf/2506.22179v1)
