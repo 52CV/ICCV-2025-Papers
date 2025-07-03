@@ -26,20 +26,23 @@
 
 
 
-## 7月1日更新 13 篇，共计 73+13 篇。
-* [Rectifying Magnitude Neglect in Linear Attention](https://arxiv.org/pdf/2507.00698v1)<br>:star:[code](https://github.com/qhfan/MALA)
-* [Beyond Low-Rank Tuning: Model Prior-Guided Rank Allocation for Effective Transfer in Low-Data and Large-Gap Regimes](https://arxiv.org/pdf/2507.00327v1)<br>:star:[code](https://github.com/EndoluminalSurgicalVision-IMR/SR-LoRA)
-* [DiGA3D: Coarse-to-Fine Diffusional Propagation of Geometry and Appearance for Versatile 3D Inpainting](https://arxiv.org/pdf/2507.00429v1)<br>:star:[code](https://rorisis.github.io/DiGA3D/)
-* [ARIG: Autoregressive Interactive Head Generation for Real-time Conversations](https://arxiv.org/pdf/2507.00472v1)<br>:star:[code](https://jinyugy21.github.io/ARIG/)
-* [Context-Aware Academic Emotion Dataset and Benchmark](https://arxiv.org/pdf/2507.00586v1)<br>:star:[code](https://zgsfer.github.io/CAER)
-* [World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model](https://arxiv.org/pdf/2507.00603v1)<br>:star:[code](https://github.com/ucaszyp/World4Drive)
-* [UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions](https://arxiv.org/pdf/2507.00648v1)<br>:star:[code](https://github.com/Z-Z188/UMDATrack)
-* [LoD-Loc v2: Aerial Visual Localization over Low Level-of-Detail City Models using Explicit Silhouette Alignment](https://arxiv.org/pdf/2507.00659v1)
-* [UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement](https://arxiv.org/pdf/2507.00721v1)<br>:star:[code](https://github.com/AMAP-ML/UPRE)
-* [Is Visual in-Context Learning for Compositional Medical Tasks within Reach?](https://arxiv.org/pdf/2507.00868v1)
-* [ONLY: One-Layer Intervention Sufficiently Mitigates Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2507.00898v1)<br>:star:[code](https://github.com/zifuwan/ONLY)<br>:star:[code](https://zifuwan.github.io/ONLY/)
-* [VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers](https://arxiv.org/pdf/2507.01016v1)<br>:star:[code](https://xiaoxiao0406.github.io/vqvla.github.io)
-* [UniGlyph: Unified Segmentation-Conditioned Diffusion for Precise Visual Text Synthesis](https://arxiv.org/pdf/2507.00992v1)
+## 7月3日更新 15 篇，共计 86+15 篇。
+* [Frequency Domain-Based Diffusion Model for Unpaired Image Dehazing](https://arxiv.org/pdf/2507.01275v1)
+* [3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation](https://arxiv.org/pdf/2507.01367v1)<br>:star:[code](https://github.com/TRLou/PGA)
+* [MUG: Pseudo Labeling Augmented Audio-Visual Mamba Network for Audio-Visual Video Parsing](https://arxiv.org/pdf/2507.01384v1)<br>:star:[code](https://github.com/WangLY136/MUG)
+* [CaptionSmiths: Flexibly Controlling Language Pattern in Image Captioning](https://arxiv.org/pdf/2507.01409v1)<br>:star:[code](https://github.com/omron-sinicx/captionsmiths)
+* [Gradient Short-Circuit: Efficient Out-of-Distribution Detection via Feature Intervention](https://arxiv.org/pdf/2507.01417v1)
+* [TurboReg: TurboClique for Robust and Efficient Point Cloud Registration](https://arxiv.org/pdf/2507.01439v1)<br>:star:[code](https://github.com/Laka-3DV/TurboReg)
+* [ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation](https://arxiv.org/pdf/2507.01496v1)<br>:star:[code](https://wlaud1001.github.io/ReFlex/)
+* [DepthSync: Diffusion Guidance-Based Depth Synchronization for Scale- and Geometry-Consistent Video Depth Estimation](https://arxiv.org/pdf/2507.01603v1)
+* [Prompt Guidance and Human Proximal Perception for HOT Prediction with Regional Joint Loss](https://arxiv.org/pdf/2507.01630v1)<br>:star:[code](https://github.com/YuxiaoWang-AI/P3HOT)
+* [RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather](https://arxiv.org/pdf/2507.01653v1)
+* [DeRIS: Decoupling Perception and Cognition for Enhanced Referring Image Segmentation through Loopback Synergy](https://arxiv.org/pdf/2507.01738v1)<br>:star:[code](https://github.com/Dmmm1997/DeRIS)
+* [Rethinking Discrete Tokens: Treating Them as Conditions for Continuous Autoregressive Image Synthesis](https://arxiv.org/pdf/2507.01756v1)
+* [MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices](https://arxiv.org/pdf/2507.01838v1)<br>:star:[code](https://github.com/AVC2-UESTC/MobileIE.git)
+* [Self-Reinforcing Prototype Evolution with Dual-Knowledge Cooperation for Semi-Supervised Lifelong Person Re-Identification](https://arxiv.org/pdf/2507.01884v1)<br>:star:[code](https://github.com/zhoujiahuan1991/ICCV2025-SPRED)
+* [FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model](https://arxiv.org/pdf/2507.01953v1)<br>:star:[code](https://yukangcao.github.io/FreeMorph/)
+
 
 
 ## 计算成像
@@ -50,6 +53,9 @@
 
 ## Protecting copyright(保护版权)
 * [TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity](https://arxiv.org/pdf/2506.23484v1)
+
+## Sound
+* [MUG: Pseudo Labeling Augmented Audio-Visual Mamba Network for Audio-Visual Video Parsing](https://arxiv.org/pdf/2507.01384v1)<br>:star:[code](https://github.com/WangLY136/MUG)
 
 ## Dataset
 * [Context-Aware Academic Emotion Dataset and Benchmark](https://arxiv.org/pdf/2507.00586v1)<br>:star:[code](https://zgsfer.github.io/CAER)
@@ -90,6 +96,9 @@
   * [G$^{2}$D: Boosting Multimodal Learning with Gradient-Guided Distillation](http://arxiv.org/pdf/2506.21514v1)<br>:star:[code](https://github.com/rAIson-Lab/G2D)
 
 ##
+* [Gradient Short-Circuit: Efficient Out-of-Distribution Detection via Feature Intervention](https://arxiv.org/pdf/2507.01417v1)
+
+##
 * 零样本
   * [Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language Model](https://arxiv.org/pdf/2506.23822v1)<br>:star:[code](https://github.com/shiming-chen/LaZSL)
 
@@ -111,14 +120,20 @@
 * 机器人
   * [RoboPearls: Editable Video Simulation for Robot Manipulation](https://arxiv.org/pdf/2506.22756v1)
 
+## HOI
+* [Prompt Guidance and Human Proximal Perception for HOT Prediction with Regional Joint Loss](https://arxiv.org/pdf/2507.01630v1)<br>:star:[code](https://github.com/YuxiaoWang-AI/P3HOT)
+
 ## Autonomous Driving
 * [Epona: Autoregressive Diffusion World Model for Autonomous Driving](https://arxiv.org/pdf/2506.24113v1)<br>:star:[code](https://kevin-thu.github.io/Epona/)<br>:star:[code](https://github.com/Kevin-thu/Epona/)
 * [World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model](https://arxiv.org/pdf/2507.00603v1)<br>:star:[code](https://github.com/ucaszyp/World4Drive)
+* [3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation](https://arxiv.org/pdf/2507.01367v1)<br>:star:[code](https://github.com/TRLou/PGA)
 
 ## Point Cloud(点云)
 * [StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning](http://arxiv.org/pdf/2506.21541v1)
 * 3D 点云
   * [Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation](http://arxiv.org/pdf/2506.22375v1)
+* 点云配准
+  * [TurboReg: TurboClique for Robust and Efficient Point Cloud Registration](https://arxiv.org/pdf/2507.01439v1)<br>:star:[code](https://github.com/Laka-3DV/TurboReg)
 
 ## 3D
 * [GeoProg3D: Compositional Visual Reasoning for City-Scale 3D Language Fields](https://arxiv.org/pdf/2506.23352v1)<br>:star:[code](https://snskysk.github.io/GeoProg3D/)
@@ -128,6 +143,10 @@
   * [BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting](http://arxiv.org/pdf/2506.22099v1)<br>:star:[code](https://github.com/fudan-zvg/BezierGS)
 * 三维场景理解
   * [VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding](https://arxiv.org/pdf/2506.22799v1)<br>:star:[code](https://sy-ja.github.io/votesplat/)
+* 深度估计
+  * [DepthSync: Diffusion Guidance-Based Depth Synchronization for Scale- and Geometry-Consistent Video Depth Estimation](https://arxiv.org/pdf/2507.01603v1)
+* SM
+  * [RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather](https://arxiv.org/pdf/2507.01653v1)
 
 ## UAV/RS/Satellite Image(无人机/遥感/卫星图像)
 * [Cross-modal Ship Re-Identification via Optical and SAR Imagery: A Novel Dataset and Method](http://arxiv.org/pdf/2506.22027v1)<br>:star:[code](https://github.com/Alioth2000/Hoss-ReID)
@@ -144,7 +163,9 @@
   * [Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs](http://arxiv.org/pdf/2506.22139v1)
   * [Flash-VStream: Efficient Real-Time Understanding for Long Video Streams](https://arxiv.org/pdf/2506.23825v1)<br>:star:[code](https://github.com/IVGSZ/Flash-VStream)
 
-
+## Person Re-Identification(行人重识别)
+* 终身重识别
+  * [Self-Reinforcing Prototype Evolution with Dual-Knowledge Cooperation for Semi-Supervised Lifelong Person Re-Identification](https://arxiv.org/pdf/2507.01884v1)<br>:star:[code](https://github.com/zhoujiahuan1991/ICCV2025-SPRED)
 
 ## Action Recognition(动作识别)
 * [Frequency-Semantic Enhanced Variational Autoencoder for Zero-Shot Skeleton-based Action Recognition](http://arxiv.org/pdf/2506.22179v1)
@@ -194,15 +215,25 @@
 * 语义分割
   * 小样本语义分割
     * [Probabilistic Prototype Calibration of Vision-Language Models for Generalized Few-shot Semantic Segmentation](https://arxiv.org/pdf/2506.22979v1)<br>:star:[code](https://github.com/jliu4ai/FewCLIP)
+* 指代图像分割
+  * [DeRIS: Decoupling Perception and Cognition for Enhanced Referring Image Segmentation through Loopback Synergy](https://arxiv.org/pdf/2507.01738v1)<br>:star:[code](https://github.com/Dmmm1997/DeRIS)
 
 ## Image Generation(图像生成)
 * 图像合成
   * [Preserve Anything: Controllable Image Synthesis with Object Preservation](https://arxiv.org/pdf/2506.22531v1)
   * [PathDiff: Histopathology Image Synthesis with Unpaired Text and Mask Conditions](https://arxiv.org/pdf/2506.23440v1)
+  * [Rethinking Discrete Tokens: Treating Them as Conditions for Continuous Autoregressive Image Synthesis](https://arxiv.org/pdf/2507.01756v1)
 * 文本-图像
   * [Rethink Sparse Signals for Pose-guided Text-to-image Generation](http://arxiv.org/pdf/2506.20983v1)<br>:star:[code](https://github.com/DREAMXFAR/SP-Ctrl)
 * 视频合成
   * [Causal-Entity Reflected Egocentric Traffic Accident Video Synthesis](https://arxiv.org/pdf/2506.23263v1)
+* 图像编辑
+  * [ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation](https://arxiv.org/pdf/2507.01496v1)<br>:star:[code](https://wlaud1001.github.io/ReFlex/)
+* 图像渐变
+  * [FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model](https://arxiv.org/pdf/2507.01953v1)<br>:star:[code](https://yukangcao.github.io/FreeMorph/)
+
+## Image Captioning(图像字幕)
+* [CaptionSmiths: Flexibly Controlling Language Pattern in Image Captioning](https://arxiv.org/pdf/2507.01409v1)<br>:star:[code](https://github.com/omron-sinicx/captionsmiths)
 
 ## Super-Resolution(超分辨率)
 * 图像超分辨率
@@ -214,11 +245,14 @@
 ## Image Progress(图像/视频处理)
 * 去噪
   * [Consistent Time-of-Flight Depth Denoising via Graph-Informed Geometric Attention](https://arxiv.org/pdf/2506.23542v1)<br>:star:[code](https://github.com/davidweidawang/GIGA-ToF)
+* 图像去雾
+  * [Frequency Domain-Based Diffusion Model for Unpaired Image Dehazing](https://arxiv.org/pdf/2507.01275v1)
 * 修复
   * [DiGA3D: Coarse-to-Fine Diffusional Propagation of Geometry and Appearance for Versatile 3D Inpainting](https://arxiv.org/pdf/2507.00429v1)<br>:star:[code](https://rorisis.github.io/DiGA3D/)
 * 图像恢复
   * [EAMamba: Efficient All-Around Vision State Space Model for Image Restoration](http://arxiv.org/pdf/2506.22246v1)
-
+* 图像增强
+  * [MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices](https://arxiv.org/pdf/2507.01838v1)<br>:star:[code](https://github.com/AVC2-UESTC/MobileIE.git)
 
 ## Other
 * [PhysRig: Differentiable Physics-Based Skinning and Rigging Framework for Realistic Articulated Object Modeling](http://arxiv.org/pdf/2506.20936v1)
