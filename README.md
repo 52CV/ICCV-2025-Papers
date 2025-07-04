@@ -26,22 +26,17 @@
 
 
 
-## 7月3日更新 15 篇，共计 86+15 篇。
-* [Frequency Domain-Based Diffusion Model for Unpaired Image Dehazing](https://arxiv.org/pdf/2507.01275v1)
-* [3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation](https://arxiv.org/pdf/2507.01367v1)<br>:star:[code](https://github.com/TRLou/PGA)
-* [MUG: Pseudo Labeling Augmented Audio-Visual Mamba Network for Audio-Visual Video Parsing](https://arxiv.org/pdf/2507.01384v1)<br>:star:[code](https://github.com/WangLY136/MUG)
-* [CaptionSmiths: Flexibly Controlling Language Pattern in Image Captioning](https://arxiv.org/pdf/2507.01409v1)<br>:star:[code](https://github.com/omron-sinicx/captionsmiths)
-* [Gradient Short-Circuit: Efficient Out-of-Distribution Detection via Feature Intervention](https://arxiv.org/pdf/2507.01417v1)
-* [TurboReg: TurboClique for Robust and Efficient Point Cloud Registration](https://arxiv.org/pdf/2507.01439v1)<br>:star:[code](https://github.com/Laka-3DV/TurboReg)
-* [ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation](https://arxiv.org/pdf/2507.01496v1)<br>:star:[code](https://wlaud1001.github.io/ReFlex/)
-* [DepthSync: Diffusion Guidance-Based Depth Synchronization for Scale- and Geometry-Consistent Video Depth Estimation](https://arxiv.org/pdf/2507.01603v1)
-* [Prompt Guidance and Human Proximal Perception for HOT Prediction with Regional Joint Loss](https://arxiv.org/pdf/2507.01630v1)<br>:star:[code](https://github.com/YuxiaoWang-AI/P3HOT)
-* [RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather](https://arxiv.org/pdf/2507.01653v1)
-* [DeRIS: Decoupling Perception and Cognition for Enhanced Referring Image Segmentation through Loopback Synergy](https://arxiv.org/pdf/2507.01738v1)<br>:star:[code](https://github.com/Dmmm1997/DeRIS)
-* [Rethinking Discrete Tokens: Treating Them as Conditions for Continuous Autoregressive Image Synthesis](https://arxiv.org/pdf/2507.01756v1)
-* [MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices](https://arxiv.org/pdf/2507.01838v1)<br>:star:[code](https://github.com/AVC2-UESTC/MobileIE.git)
-* [Self-Reinforcing Prototype Evolution with Dual-Knowledge Cooperation for Semi-Supervised Lifelong Person Re-Identification](https://arxiv.org/pdf/2507.01884v1)<br>:star:[code](https://github.com/zhoujiahuan1991/ICCV2025-SPRED)
-* [FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model](https://arxiv.org/pdf/2507.01953v1)<br>:star:[code](https://yukangcao.github.io/FreeMorph/)
+## 7月4日更新 10 篇，共计 101+10 篇。
+* [LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling](https://arxiv.org/pdf/2507.02363v1)<br>:star:[code](https://wujh2001.github.io/LocalDyGS/)
+* [Continual Multiple Instance Learning with Enhanced Localization for Histopathological Whole Slide Image Analysis](https://arxiv.org/pdf/2507.02395v1)
+* [Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection](https://arxiv.org/pdf/2507.02398v1)<br>:star:[code](https://github.com/rama0126/PwTF-DVD)
+* [Structure-aware Semantic Discrepancy and Consistency for 3D Medical Image Self-supervised Learning](https://arxiv.org/pdf/2507.02581v1)
+* [AuroraLong: Bringing RNNs Back to Efficient Open-Ended Video Understanding](https://arxiv.org/pdf/2507.02591v1)
+* [AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models](https://arxiv.org/pdf/2507.02664v1)
+* [AnyI2V: Animating Any Conditional Image with Motion Control](https://arxiv.org/pdf/2507.02857v1)<br>:house:[project](https://henghuiding.com/AnyI2V/)
+* [Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation](https://arxiv.org/pdf/2507.02859v1)
+* [CanonSwap: High-Fidelity and Consistent Video Face Swapping via Canonical Space Modulation](https://arxiv.org/abs/2507.02691)<br>:house:[project](https://luoxyhappy.github.io/CanonSwap/)
+* [FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models](https://arxiv.org/pdf/2507.02714v1)
 
 
 
@@ -65,6 +60,7 @@
 
 ## Neural Radiance Fields
 * [UnMix-NeRF: Spectral Unmixing Meets Neural Radiance Fields](http://arxiv.org/pdf/2506.21884v1)<br>:house:[project](https://www.factral.co/UnMix-NeRF)
+* [LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling](https://arxiv.org/pdf/2507.02363v1)<br>:star:[code](https://wujh2001.github.io/LocalDyGS/)
 
 ## Vision Language
 * [NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2506.23468v1)<br>:star:[code](https://github.com/Feliciaxyao/NavMorph)
@@ -75,6 +71,7 @@
 * MLLM
   * [Token Activation Map to Visually Explain Multimodal LLMs](https://arxiv.org/pdf/2506.23270v1)
   * [UrbanLLaVA: A Multi-modal Large Language Model for Urban Intelligence with Spatial Reasoning and Understanding](https://arxiv.org/pdf/2506.23219v1)<br>:star:[code](https://github.com/tsinghua-fib-lab/UrbanLLaVA)
+  * [Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation](https://arxiv.org/pdf/2507.02859v1)
 
 ## Vision Transformer
 * [Boosting Generative Adversarial Transferability with Self-supervised Vision Transformer Features](http://arxiv.org/pdf/2506.21046v1)<br>:star:[code](https://github.com/spencerwooo/dSVA)
@@ -110,8 +107,11 @@
 * [Deterministic Object Pose Confidence Region Estimation](https://arxiv.org/pdf/2506.22720v1)
 
 ## Deepfake Detection/AI生成图像检测
+* [Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection](https://arxiv.org/pdf/2507.02398v1)<br>:star:[code](https://github.com/rama0126/PwTF-DVD)
 * 图像伪造定位
   * [M2SFormer: Multi-Spectral and Multi-Scale Attention with Edge-Aware Difficulty Guidance for Image Forgery Localization](http://arxiv.org/pdf/2506.20922v1)
+* AI生成图片检测
+  * [AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models](https://arxiv.org/pdf/2507.02664v1)
 
 ## Optical Flow Estimation(光流估计)
 * [MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation](https://arxiv.org/pdf/2506.23151v1)<br>:star:[code](https://github.com/msu-video-group/memfof)
@@ -162,6 +162,7 @@
 * 视频理解
   * [Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs](http://arxiv.org/pdf/2506.22139v1)
   * [Flash-VStream: Efficient Real-Time Understanding for Long Video Streams](https://arxiv.org/pdf/2506.23825v1)<br>:star:[code](https://github.com/IVGSZ/Flash-VStream)
+  * [AuroraLong: Bringing RNNs Back to Efficient Open-Ended Video Understanding](https://arxiv.org/pdf/2507.02591v1)
 
 ## Person Re-Identification(行人重识别)
 * 终身重识别
@@ -190,11 +191,15 @@
   * [Boosting Domain Generalized and Adaptive Detection with Diffusion Models: Fitness, Generalization, and Transferability](http://arxiv.org/pdf/2506.21042v1)<br>:star:[code](https://github.com/heboyong/Fitness-Generalization-Transferability)
 
 ## Face
+* [FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models](https://arxiv.org/pdf/2507.02714v1)
 * 人脸表情识别
   * [Multimodal Prompt Alignment for Facial Expression Recognition](http://arxiv.org/pdf/2506.21017v1)
 * 说话头
   * [GGTalker: Talking Head Systhesis with Generalizable Gaussian Priors and Identity-Specific Adaptation](http://arxiv.org/pdf/2506.21513v1)<br>:star:[code](https://vincenthu19.github.io/GGTalker/)
   * [ARIG: Autoregressive Interactive Head Generation for Real-time Conversations](https://arxiv.org/pdf/2507.00472v1)<br>:star:[code](https://jinyugy21.github.io/ARIG/)
+* 人脸交换
+  * [CanonSwap: High-Fidelity and Consistent Video Face Swapping via Canonical Space Modulation](https://arxiv.org/abs/2507.02691)<br>:house:[project](https://luoxyhappy.github.io/CanonSwap/)
+
 
 ## Medical Image Progress(医学图像处理)
 * [Is Visual in-Context Learning for Compositional Medical Tasks within Reach?](https://arxiv.org/pdf/2507.00868v1)
@@ -202,6 +207,10 @@
   * [UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments](https://arxiv.org/pdf/2506.22736v1)
 * 报告生成
   * [MedRegion-CT: Region-Focused Multimodal LLM for Comprehensive 3D CT Report Generation](https://arxiv.org/pdf/2506.23102v1)
+* 切片分析
+  * [Continual Multiple Instance Learning with Enhanced Localization for Histopathological Whole Slide Image Analysis](https://arxiv.org/pdf/2507.02395v1)
+* 3D医学
+  * [Structure-aware Semantic Discrepancy and Consistency for 3D Medical Image Self-supervised Learning](https://arxiv.org/pdf/2507.02581v1)
 
 ## Image Classification
 * [Competitive Distillation: A Simple Learning Strategy for Improving Visual Classification](https://arxiv.org/pdf/2506.23285v1)
@@ -231,6 +240,8 @@
   * [ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation](https://arxiv.org/pdf/2507.01496v1)<br>:star:[code](https://wlaud1001.github.io/ReFlex/)
 * 图像渐变
   * [FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model](https://arxiv.org/pdf/2507.01953v1)<br>:star:[code](https://yukangcao.github.io/FreeMorph/)
+* 视频生成
+  * [AnyI2V: Animating Any Conditional Image with Motion Control](https://arxiv.org/pdf/2507.02857v1)<br>:house:[project](https://henghuiding.com/AnyI2V/)
 
 ## Image Captioning(图像字幕)
 * [CaptionSmiths: Flexibly Controlling Language Pattern in Image Captioning](https://arxiv.org/pdf/2507.01409v1)<br>:star:[code](https://github.com/omron-sinicx/captionsmiths)
