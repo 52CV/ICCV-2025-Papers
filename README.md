@@ -26,42 +26,13 @@
 
 
 
-## 7月8日更新 35 篇，共计 111+35 篇。
-* [OBSER: Object-Based Sub-Environment Recognition for Zero-Shot Environmental Inference](https://arxiv.org/pdf/2507.02929v1)
-* [Frequency-Aligned Knowledge Distillation for Lightweight Spatiotemporal Forecasting](https://arxiv.org/pdf/2507.02939v1)<br>:star:[code](https://github.com/itsnotacie/SDKD)
-* [LACONIC: A 3D Layout Adapter for Controllable Image Creation](https://arxiv.org/pdf/2507.03257v1)
-* [Zero-shot Inexact CAD Model Alignment from a Single Image](https://arxiv.org/pdf/2507.03292v1)<br>:star:[code](https://zerocad9d.github.io/)
-* [Bridging Domain Generalization to Multimodal Domain Generalization via Unified Representations](https://arxiv.org/pdf/2507.03304v1)
-* [MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion](https://arxiv.org/pdf/2507.03306v1)<br>:star:[code](https://github.com/3dv-casia/MGSfM/)
-* [Learning Normals of Noisy Points by Local Gradient-Aware Surface Filtering](https://arxiv.org/pdf/2507.03394v1)<br>:star:[code](https://github.com/LeoQLi/LGSF)
-* [Pose-Star: Anatomy-Aware Editing for Open-World Fashion Images](https://arxiv.org/pdf/2507.03402v1)
-* [Unlearning the Noisy Correspondence Makes CLIP More Robust](https://arxiv.org/pdf/2507.03434v1)
-* [Information-Bottleneck Driven Binary Neural Network for Change Detection](https://arxiv.org/pdf/2507.03504v1)
-* [CLOT: Closed Loop Optimal Transport for Unsupervised Action Segmentation](https://arxiv.org/pdf/2507.03539v1)
-* [SciVid: Cross-Domain Evaluation of Video Models in Scientific Applications](https://arxiv.org/pdf/2507.03578v1)<br>:star:[code](https://github.com/google-deepmind/scivid)
-* [Less is More: Empowering GUI Agent with Context-Aware Simplification](https://arxiv.org/pdf/2507.03730v1)
-* [Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps](https://arxiv.org/pdf/2507.03737v1)<br>:star:[code](https://3dagentworld.github.io/S3PO-GS/)
-* [Group-wise Scaling and Orthogonal Decomposition for Domain-Invariant Feature Extraction in Face Anti-Spoofing](https://arxiv.org/pdf/2507.04006v1)<br>:star:[code](https://github.com/SeungjinJung/GD-FAS)
-* [Generate, Refine, and Encode: Leveraging Synthesized Novel Samples for On-the-Fly Fine-Grained Category Discovery](https://arxiv.org/pdf/2507.04051v1)
-* [Towards Accurate and Efficient 3D Object Detection for Autonomous Driving: A Mixture of Experts Computing System on Edge](https://arxiv.org/pdf/2507.04123v1)
-* [Voyaging into Unbounded Dynamic Scenes from a Single View](https://arxiv.org/pdf/2507.04183v1)<br>:star:[code](https://tianfr.github.io/DynamicVoyager)
-* [Domain Generalizable Portrait Style Transfer](https://arxiv.org/pdf/2507.04243v1)<br>:star:[code](https://github.com/wangxb29/DGPST)
-* [Adversarial Data Augmentation for Single Domain Generalization via Lyapunov Exponent-Guided Optimization](https://arxiv.org/pdf/2507.04302v1)
-* [MambaFusion: Height-Fidelity Dense Global Fusion for Multi-modal 3D Object Detection](https://arxiv.org/pdf/2507.04369v1)
-* [Sat2City: 3D City Generation from A Single Satellite Image with Cascaded Latent Diffusion](https://arxiv.org/pdf/2507.04403v1)
-* [DC-AR: Efficient Masked Autoregressive Image Generation with Deep Compression Hybrid Tokenizer](https://arxiv.org/pdf/2507.04947v1)
-* [A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields](https://arxiv.org/pdf/2507.04408v1)
-* [FB-Diff: Fourier Basis-guided Diffusion for Temporal Interpolation of 4D Medical Imaging](https://arxiv.org/pdf/2507.04547v1)
-* [QR-LoRA: Efficient and Disentangled Fine-tuning via QR Decomposition for Customized Generation](https://arxiv.org/pdf/2507.04599v1)
-* [Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts](https://arxiv.org/pdf/2507.04631v1)<br>:star:[code](https://github.com/cocowy1/SMoE-Stereo)
-* [What's Making That Sound Right Now? Video-centric Audio-Visual Localization](https://arxiv.org/pdf/2507.04667v1)<br>:star:[code](https://hahyeon610.github.io/Video-centric_Audio_Visual_Localization/)
-* [Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning](https://arxiv.org/pdf/2507.04790v1)
-* [PointGAC: Geometric-Aware Codebook for Masked Point Cloud Modeling](https://arxiv.org/pdf/2507.04801v1)<br>:star:[code](https://github.com/LAB123-tech/PointGAC)
-* [All in One: Visual-Description-Guided Unified Point Cloud Segmentation](https://arxiv.org/pdf/2507.05211v1)<br>:star:[code](https://github.com/Hanzy1996/VDG-Uni3DSeg)
-* [RIPE: Reinforcement Learning on Unlabeled Image Pairs for Robust Keypoint Extraction](https://arxiv.org/pdf/2507.04839v1)<br>:star:[code](https://github.com/fraunhoferhhi/RIPE)
-* [TeethGenerator: A two-stage framework for paired pre- and post-orthodontic 3D dental data generation](https://arxiv.org/pdf/2507.04685v1)<br>:star:[code](https://github.com/lcshhh/teeth_generator)
-* [Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations](https://arxiv.org/pdf/2507.05260v1)<br>:star:[code](http://github.com/Xiangxu-0103/LiMA)
-* [SegmentDreamer: Towards High-fidelity Text-to-3D Synthesis with Segmented Consistency Trajectory Distillation](https://arxiv.org/pdf/2507.05256v1)<br>:star:[code](https://zjhjojo.github.io/)
+## 7月9日更新 5 篇，共计 146+5 篇。
+* [Rethinking Layered Graphic Design Generation with a Top-Down Approach](https://arxiv.org/pdf/2507.05601v1)
+* [SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning](https://arxiv.org/pdf/2507.05798v1)
+* [What You Have is What You Track: Adaptive and Robust Multimodal Tracking](https://arxiv.org/pdf/2507.05899v1)<br>:star:[code](https://github.com/supertyd/FlexTrack/tree/main)
+* [MCAM: Multimodal Causal Analysis Model for Ego-Vehicle-Level Driving Video Understanding](https://arxiv.org/pdf/2507.06072v1)<br>:star:[code](https://github.com/SixCorePeach/MCAM)
+* [Feed-Forward SceneDINO for Unsupervised Semantic Scene Completion](https://arxiv.org/pdf/2507.06230v1)<br>:star:[code](https://visinf.github.io/scenedino)<br>:star:[code](https://github.com/tum-vision/scenedino)
+
 
 
 
@@ -140,6 +111,9 @@
 * KD
   * [Frequency-Aligned Knowledge Distillation for Lightweight Spatiotemporal Forecasting](https://arxiv.org/pdf/2507.02939v1)<br>:star:[code](https://github.com/itsnotacie/SDKD)
 
+## Scene Graph Generation(场景图生成)
+* [SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning](https://arxiv.org/pdf/2507.05798v1)
+
 ## Style Transfer(风格迁移)
 * [Domain Generalizable Portrait Style Transfer](https://arxiv.org/pdf/2507.04243v1)<br>:star:[code](https://github.com/wangxb29/DGPST)
 
@@ -194,6 +168,8 @@
 * SM
   * [RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather](https://arxiv.org/pdf/2507.01653v1)
   * [Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts](https://arxiv.org/pdf/2507.04631v1)<br>:star:[code](https://github.com/cocowy1/SMoE-Stereo)
+* Semantic Scene Completion(语义场景补全)
+  * [Feed-Forward SceneDINO for Unsupervised Semantic Scene Completion](https://arxiv.org/pdf/2507.06230v1)<br>:star:[code](https://visinf.github.io/scenedino)<br>:star:[code](https://github.com/tum-vision/scenedino)
 
 ## UAV/RS/Satellite Image(无人机/遥感/卫星图像)
 * [Cross-modal Ship Re-Identification via Optical and SAR Imagery: A Novel Dataset and Method](http://arxiv.org/pdf/2506.22027v1)<br>:star:[code](https://github.com/Alioth2000/Hoss-ReID)
@@ -213,6 +189,7 @@
   * [Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs](http://arxiv.org/pdf/2506.22139v1)
   * [Flash-VStream: Efficient Real-Time Understanding for Long Video Streams](https://arxiv.org/pdf/2506.23825v1)<br>:star:[code](https://github.com/IVGSZ/Flash-VStream)
   * [AuroraLong: Bringing RNNs Back to Efficient Open-Ended Video Understanding](https://arxiv.org/pdf/2507.02591v1)
+  * [MCAM: Multimodal Causal Analysis Model for Ego-Vehicle-Level Driving Video Understanding](https://arxiv.org/pdf/2507.06072v1)<br>:star:[code](https://github.com/SixCorePeach/MCAM)
 
 ## Person Re-Identification(行人重识别)
 * 终身重识别
@@ -230,6 +207,7 @@
 
 ## Object Track
 * [UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions](https://arxiv.org/pdf/2507.00648v1)<br>:star:[code](https://github.com/Z-Z188/UMDATrack)
+* [What You Have is What You Track: Adaptive and Robust Multimodal Tracking](https://arxiv.org/pdf/2507.05899v1)<br>:star:[code](https://github.com/supertyd/FlexTrack/tree/main)
 
 ## Object Detection(目标检测) 
 * [DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic](http://arxiv.org/pdf/2506.21260v1)
@@ -285,6 +263,7 @@
   * [CLOT: Closed Loop Optimal Transport for Unsupervised Action Segmentation](https://arxiv.org/pdf/2507.03539v1)
 
 ## Image Generation(图像生成)
+* [Rethinking Layered Graphic Design Generation with a Top-Down Approach](https://arxiv.org/pdf/2507.05601v1)
 * [Sat2City: 3D City Generation from A Single Satellite Image with Cascaded Latent Diffusion](https://arxiv.org/pdf/2507.04403v1)
 * [QR-LoRA: Efficient and Disentangled Fine-tuning via QR Decomposition for Customized Generation](https://arxiv.org/pdf/2507.04599v1)
 * 图像合成
