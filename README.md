@@ -26,12 +26,11 @@
 
 
 
-## 7月9日更新 5 篇，共计 146+5 篇。
-* [Rethinking Layered Graphic Design Generation with a Top-Down Approach](https://arxiv.org/pdf/2507.05601v1)
-* [SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning](https://arxiv.org/pdf/2507.05798v1)
-* [What You Have is What You Track: Adaptive and Robust Multimodal Tracking](https://arxiv.org/pdf/2507.05899v1)<br>:star:[code](https://github.com/supertyd/FlexTrack/tree/main)
-* [MCAM: Multimodal Causal Analysis Model for Ego-Vehicle-Level Driving Video Understanding](https://arxiv.org/pdf/2507.06072v1)<br>:star:[code](https://github.com/SixCorePeach/MCAM)
-* [Feed-Forward SceneDINO for Unsupervised Semantic Scene Completion](https://arxiv.org/pdf/2507.06230v1)<br>:star:[code](https://visinf.github.io/scenedino)<br>:star:[code](https://github.com/tum-vision/scenedino)
+## 7月10日更新 4 篇，共计 151+4 篇。
+* [Bilateral Collaboration with Large Vision-Language Models for Open Vocabulary Human-Object Interaction Detection](https://arxiv.org/pdf/2507.06510v1)
+* [Diff$^2$I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior](https://arxiv.org/pdf/2507.06651v1)
+* [Democratizing High-Fidelity Co-Speech Gesture Video Generation](https://arxiv.org/pdf/2507.06812v1)
+* [IAP: Invisible Adversarial Patch Attack through Perceptibility-Aware Localization and Perturbation Optimization](https://arxiv.org/pdf/2507.06856v1)
 
 
 
@@ -136,8 +135,9 @@
 * SLAM
   * [Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps](https://arxiv.org/pdf/2507.03737v1)<br>:star:[code](https://3dagentworld.github.io/S3PO-GS/)
 
-## HOI
+## Human-Object Interaction Detection(人机交互)
 * [Prompt Guidance and Human Proximal Perception for HOT Prediction with Regional Joint Loss](https://arxiv.org/pdf/2507.01630v1)<br>:star:[code](https://github.com/YuxiaoWang-AI/P3HOT)
+* [Bilateral Collaboration with Large Vision-Language Models for Open Vocabulary Human-Object Interaction Detection](https://arxiv.org/pdf/2507.06510v1)
 
 ## Autonomous Driving
 * [Epona: Autoregressive Diffusion World Model for Autonomous Driving](https://arxiv.org/pdf/2506.24113v1)<br>:star:[code](https://kevin-thu.github.io/Epona/)<br>:star:[code](https://github.com/Kevin-thu/Epona/)
@@ -152,6 +152,7 @@
   * [Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation](http://arxiv.org/pdf/2506.22375v1)
 * 点云配准
   * [TurboReg: TurboClique for Robust and Efficient Point Cloud Registration](https://arxiv.org/pdf/2507.01439v1)<br>:star:[code](https://github.com/Laka-3DV/TurboReg)
+  * [Diff$^2$I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior](https://arxiv.org/pdf/2507.06651v1)
 * 点云分割
   * [All in One: Visual-Description-Guided Unified Point Cloud Segmentation](https://arxiv.org/pdf/2507.05211v1)<br>:star:[code](https://github.com/Hanzy1996/VDG-Uni3DSeg)
 
@@ -276,6 +277,7 @@
   * [Rethink Sparse Signals for Pose-guided Text-to-image Generation](http://arxiv.org/pdf/2506.20983v1)<br>:star:[code](https://github.com/DREAMXFAR/SP-Ctrl)
 * 视频合成
   * [Causal-Entity Reflected Egocentric Traffic Accident Video Synthesis](https://arxiv.org/pdf/2506.23263v1)
+  * [Democratizing High-Fidelity Co-Speech Gesture Video Generation](https://arxiv.org/pdf/2507.06812v1)
 * 图像编辑
   * [ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation](https://arxiv.org/pdf/2507.01496v1)<br>:star:[code](https://wlaud1001.github.io/ReFlex/)
 * 图像渐变
@@ -334,6 +336,7 @@
 * [Voyaging into Unbounded Dynamic Scenes from a Single View](https://arxiv.org/pdf/2507.04183v1)<br>:star:[code](https://tianfr.github.io/DynamicVoyager)
 * [TeethGenerator: A two-stage framework for paired pre- and post-orthodontic 3D dental data generation](https://arxiv.org/pdf/2507.04685v1)<br>:star:[code](https://github.com/lcshhh/teeth_generator)
 * [Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations](https://arxiv.org/pdf/2507.05260v1)<br>:star:[code](http://github.com/Xiangxu-0103/LiMA)
+* [IAP: Invisible Adversarial Patch Attack through Perceptibility-Aware Localization and Perturbation Optimization](https://arxiv.org/pdf/2507.06856v1)
 
 ## 2020 年论文分类汇总戳这里
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers) 
