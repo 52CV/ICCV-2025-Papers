@@ -26,11 +26,19 @@
 
 
 
-## 7月10日更新 4 篇，共计 151+4 篇。
-* [Bilateral Collaboration with Large Vision-Language Models for Open Vocabulary Human-Object Interaction Detection](https://arxiv.org/pdf/2507.06510v1)
-* [Diff$^2$I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior](https://arxiv.org/pdf/2507.06651v1)
-* [Democratizing High-Fidelity Co-Speech Gesture Video Generation](https://arxiv.org/pdf/2507.06812v1)
-* [IAP: Invisible Adversarial Patch Attack through Perceptibility-Aware Localization and Perturbation Optimization](https://arxiv.org/pdf/2507.06856v1)
+## 7月11日更新 11 篇，共计 155+11 篇。
+* [Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection](https://arxiv.org/pdf/2507.07994v1)<br>:house:[project](https://subhajitmaity.me/DYKp)
+* [ViLU: Learning Vision-Language Uncertainties for Failure Prediction](https://arxiv.org/pdf/2507.07620v1)<br>:star:[code](https://github.com/ykrmm/ViLU)
+* [Synchronizing Task Behavior: Aligning Multiple Tasks during Test-Time Training](https://arxiv.org/pdf/2507.07778v1)
+* [Corvid: Improving Multimodal Large Language Models Towards Chain-of-Thought Reasoning](https://arxiv.org/pdf/2507.07424v1)<br>:star:[code](https://mm-vl.github.io/corvid)
+* [Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking](https://arxiv.org/pdf/2507.07483v1)
+* [DisenQ: Disentangling Q-Former for Activity-Biometrics](https://arxiv.org/pdf/2507.07262v1)
+* [Resolving Token-Space Gradient Conflicts: Token Space Manipulation for Transformer-Based Multi-Task Learning](https://arxiv.org/pdf/2507.07485v1)
+* [ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation](https://arxiv.org/pdf/2507.07317v1)
+* [Colors See Colors Ignore: Clothes Changing ReID with Color Disentanglement](https://arxiv.org/pdf/2507.07230v1)<br>:star:[code](https://github.com/ppriyank/ICCV-CSCI-Person-ReID)
+* [PacGDC: Label-Efficient Generalizable Depth Completion with Projection Ambiguity and Consistency](https://arxiv.org/pdf/2507.07374v1)<br>:star:[code](https://github.com/Wang-xjtu/PacGDC)
+* [Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs](https://arxiv.org/pdf/2507.07990v1)<br>:house:[project](https://www.jshyun.me/projects/sttm)
+
 
 
 
@@ -66,12 +74,15 @@
 * [NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2506.23468v1)<br>:star:[code](https://github.com/Feliciaxyao/NavMorph)
 * [ONLY: One-Layer Intervention Sufficiently Mitigates Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2507.00898v1)<br>:star:[code](https://github.com/zifuwan/ONLY)<br>:star:[code](https://zifuwan.github.io/ONLY/)
 * [VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers](https://arxiv.org/pdf/2507.01016v1)<br>:star:[code](https://xiaoxiao0406.github.io/vqvla.github.io)
+* [ViLU: Learning Vision-Language Uncertainties for Failure Prediction](https://arxiv.org/pdf/2507.07620v1)<br>:star:[code](https://github.com/ykrmm/ViLU)
 * LLM
   * [LLM-enhanced Action-aware Multi-modal Prompt Tuning for Image-Text Matching](https://arxiv.org/pdf/2506.23502v1)
+  * [Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs](https://arxiv.org/pdf/2507.07990v1)<br>:house:[project](https://www.jshyun.me/projects/sttm)
 * MLLM
   * [Token Activation Map to Visually Explain Multimodal LLMs](https://arxiv.org/pdf/2506.23270v1)
   * [UrbanLLaVA: A Multi-modal Large Language Model for Urban Intelligence with Spatial Reasoning and Understanding](https://arxiv.org/pdf/2506.23219v1)<br>:star:[code](https://github.com/tsinghua-fib-lab/UrbanLLaVA)
   * [Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation](https://arxiv.org/pdf/2507.02859v1)
+  * [Corvid: Improving Multimodal Large Language Models Towards Chain-of-Thought Reasoning](https://arxiv.org/pdf/2507.07424v1)<br>:star:[code](https://mm-vl.github.io/corvid)
 
 ## Vision Transformer
 * [Boosting Generative Adversarial Transferability with Self-supervised Vision Transformer Features](http://arxiv.org/pdf/2506.21046v1)<br>:star:[code](https://github.com/spencerwooo/dSVA)
@@ -92,6 +103,8 @@
   * [TITAN: Query-Token based Domain Adaptive Adversarial Learning](http://arxiv.org/pdf/2506.21484v1)
 * 多模态学习
   * [G$^{2}$D: Boosting Multimodal Learning with Gradient-Guided Distillation](http://arxiv.org/pdf/2506.21514v1)<br>:star:[code](https://github.com/rAIson-Lab/G2D)
+* 多任务学习
+  * [Resolving Token-Space Gradient Conflicts: Token Space Manipulation for Transformer-Based Multi-Task Learning](https://arxiv.org/pdf/2507.07485v1)
 
 ##
 * [Gradient Short-Circuit: Efficient Out-of-Distribution Detection via Feature Intervention](https://arxiv.org/pdf/2507.01417v1)
@@ -118,6 +131,10 @@
 
 ## Object Pose Estimation(物体姿态估计)
 * [Deterministic Object Pose Confidence Region Estimation](https://arxiv.org/pdf/2506.22720v1)
+
+##
+* 关键点检测
+  * [Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection](https://arxiv.org/pdf/2507.07994v1)<br>:house:[project](https://subhajitmaity.me/DYKp)
 
 ## Deepfake Detection/AI生成图像检测
 * [Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection](https://arxiv.org/pdf/2507.02398v1)<br>:star:[code](https://github.com/rama0126/PwTF-DVD)
@@ -166,6 +183,8 @@
   * [VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding](https://arxiv.org/pdf/2506.22799v1)<br>:star:[code](https://sy-ja.github.io/votesplat/)
 * 深度估计
   * [DepthSync: Diffusion Guidance-Based Depth Synchronization for Scale- and Geometry-Consistent Video Depth Estimation](https://arxiv.org/pdf/2507.01603v1)
+* 深度补全
+  * [PacGDC: Label-Efficient Generalizable Depth Completion with Projection Ambiguity and Consistency](https://arxiv.org/pdf/2507.07374v1)<br>:star:[code](https://github.com/Wang-xjtu/PacGDC)
 * SM
   * [RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather](https://arxiv.org/pdf/2507.01653v1)
   * [Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts](https://arxiv.org/pdf/2507.04631v1)<br>:star:[code](https://github.com/cocowy1/SMoE-Stereo)
@@ -193,6 +212,8 @@
   * [MCAM: Multimodal Causal Analysis Model for Ego-Vehicle-Level Driving Video Understanding](https://arxiv.org/pdf/2507.06072v1)<br>:star:[code](https://github.com/SixCorePeach/MCAM)
 
 ## Person Re-Identification(行人重识别)
+* 换衣重识别
+  * [Colors See Colors Ignore: Clothes Changing ReID with Color Disentanglement](https://arxiv.org/pdf/2507.07230v1)<br>:star:[code](https://github.com/ppriyank/ICCV-CSCI-Person-ReID)
 * 终身重识别
   * [Self-Reinforcing Prototype Evolution with Dual-Knowledge Cooperation for Semi-Supervised Lifelong Person Re-Identification](https://arxiv.org/pdf/2507.01884v1)<br>:star:[code](https://github.com/zhoujiahuan1991/ICCV2025-SPRED)
 
@@ -209,6 +230,7 @@
 ## Object Track
 * [UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions](https://arxiv.org/pdf/2507.00648v1)<br>:star:[code](https://github.com/Z-Z188/UMDATrack)
 * [What You Have is What You Track: Adaptive and Robust Multimodal Tracking](https://arxiv.org/pdf/2507.05899v1)<br>:star:[code](https://github.com/supertyd/FlexTrack/tree/main)
+* [Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking](https://arxiv.org/pdf/2507.07483v1)
 
 ## Object Detection(目标检测) 
 * [DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic](http://arxiv.org/pdf/2506.21260v1)
@@ -220,6 +242,9 @@
   * [MambaFusion: Height-Fidelity Dense Global Fusion for Multi-modal 3D Object Detection](https://arxiv.org/pdf/2507.04369v1)
 * 域适应目标检测
   * [Boosting Domain Generalized and Adaptive Detection with Diffusion Models: Fitness, Generalization, and Transferability](http://arxiv.org/pdf/2506.21042v1)<br>:star:[code](https://github.com/heboyong/Fitness-Generalization-Transferability)
+
+## Biometrics
+* [DisenQ: Disentangling Q-Former for Activity-Biometrics](https://arxiv.org/pdf/2507.07262v1)
 
 ## Face
 * [FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models](https://arxiv.org/pdf/2507.02714v1)
@@ -280,6 +305,7 @@
   * [Democratizing High-Fidelity Co-Speech Gesture Video Generation](https://arxiv.org/pdf/2507.06812v1)
 * 图像编辑
   * [ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation](https://arxiv.org/pdf/2507.01496v1)<br>:star:[code](https://wlaud1001.github.io/ReFlex/)
+  * [ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation](https://arxiv.org/pdf/2507.07317v1)
 * 图像渐变
   * [FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model](https://arxiv.org/pdf/2507.01953v1)<br>:star:[code](https://yukangcao.github.io/FreeMorph/)
 * 视频生成
@@ -337,6 +363,7 @@
 * [TeethGenerator: A two-stage framework for paired pre- and post-orthodontic 3D dental data generation](https://arxiv.org/pdf/2507.04685v1)<br>:star:[code](https://github.com/lcshhh/teeth_generator)
 * [Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations](https://arxiv.org/pdf/2507.05260v1)<br>:star:[code](http://github.com/Xiangxu-0103/LiMA)
 * [IAP: Invisible Adversarial Patch Attack through Perceptibility-Aware Localization and Perturbation Optimization](https://arxiv.org/pdf/2507.06856v1)
+* [Synchronizing Task Behavior: Aligning Multiple Tasks during Test-Time Training](https://arxiv.org/pdf/2507.07778v1)
 
 ## 2020 年论文分类汇总戳这里
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers) 
