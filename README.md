@@ -26,7 +26,7 @@
 
 
 
-## 7月16日更新 29 篇，共计 166+29 篇。
+## 7月16日更新 39 篇，共计 166+39 篇。
 * [Disentangling Instance and Scene Contexts for 3D Semantic Scene Completion](https://arxiv.org/pdf/2507.08555v1)<br>:star:[code](https://github.com/Enyu-Liu/DISC)
 * [From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning](https://arxiv.org/pdf/2507.08380v1)
 * [Cracking Instance Jigsaw Puzzles: An Alternative to Multiple Instance Learning for Whole Slide Image Analysis](https://arxiv.org/pdf/2507.08178v1)<br>:star:[code](https://github.com/xiwenc1/MIL-JigsawPuzzles)
@@ -56,6 +56,17 @@
 * [IM-LUT: Interpolation Mixing Look-Up Tables for Image Super-Resolution](https://arxiv.org/pdf/2507.09923v1)
 * [Supercharging Floorplan Localization with Semantic Rays](https://arxiv.org/pdf/2507.09291v1)
 * [When Schrödinger Bridge Meets Real-World Image Dehazing with Unpaired Training](https://arxiv.org/pdf/2507.09524v1)<br>:star:[code](https://github.com/ywxjm/DehazeSB)
+
+* [CharaConsist: Fine-Grained Consistent Character Generation](https://arxiv.org/pdf/2507.11533v1)<br>:star:[code](https://murray-wang.github.io/CharaConsist/)<br>:star:[code](https://github.com/Murray-Wang/CharaConsist)
+* [Personalized OVSS: Understanding Personal Concept in Open-Vocabulary Semantic Segmentation](https://arxiv.org/pdf/2507.11030v1)
+* [ViewSRD: 3D Visual Grounding via Structured Multi-View Decomposition](https://arxiv.org/pdf/2507.11261v1)
+* [Integrating Biological Knowledge for Robust Microscopy Image Profiling on De Novo Cell Lines](https://arxiv.org/pdf/2507.10737v1)
+* [Task-Oriented Human Grasp Synthesis via Context- and Task-Aware Diffusers](https://arxiv.org/pdf/2507.11287v1)<br>:star:[code](https://hcis-lab.github.io/TOHGS/)
+* [Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation](https://arxiv.org/pdf/2507.11055v1)
+* [MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network](https://arxiv.org/pdf/2507.11333v1)<br>:star:[code](https://github.com/JianfeiJ/MonoMVSNet)
+* [CWNet: Causal Wavelet Network for Low-Light Image Enhancement](https://arxiv.org/pdf/2507.10689v1)<br>:star:[code](https://github.com/bywlzts/CWNet-Causal-Wavelet-Network)
+* [GeoDistill: Geometry-Guided Self-Distillation for Weakly Supervised Cross-View Localization](https://arxiv.org/pdf/2507.10935v1)<br>:star:[code](https://github.com/tongshw/GeoDistill)
+* [MMOne: Representing Multiple Modalities in One Scene](https://arxiv.org/pdf/2507.11129v1)<br>:star:[code](https://github.com/Neal2020GitHub/MMOne)
 
 
 
@@ -178,6 +189,7 @@
 * [MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation](https://arxiv.org/pdf/2506.23151v1)<br>:star:[code](https://github.com/msu-video-group/memfof)
 
 ## Robot
+* [GeoDistill: Geometry-Guided Self-Distillation for Weakly Supervised Cross-View Localization](https://arxiv.org/pdf/2507.10935v1)<br>:star:[code](https://github.com/tongshw/GeoDistill)
 * 机器人
   * [RoboPearls: Editable Video Simulation for Robot Manipulation](https://arxiv.org/pdf/2506.22756v1)
 * SLAM
@@ -186,6 +198,7 @@
 ## Human-Object Interaction Detection(人机交互)
 * [Prompt Guidance and Human Proximal Perception for HOT Prediction with Regional Joint Loss](https://arxiv.org/pdf/2507.01630v1)<br>:star:[code](https://github.com/YuxiaoWang-AI/P3HOT)
 * [Bilateral Collaboration with Large Vision-Language Models for Open Vocabulary Human-Object Interaction Detection](https://arxiv.org/pdf/2507.06510v1)
+* [Task-Oriented Human Grasp Synthesis via Context- and Task-Aware Diffusers](https://arxiv.org/pdf/2507.11287v1)<br>:star:[code](https://hcis-lab.github.io/TOHGS/)
 
 ## Autonomous Driving
 * [Epona: Autoregressive Diffusion World Model for Autonomous Driving](https://arxiv.org/pdf/2506.24113v1)<br>:star:[code](https://kevin-thu.github.io/Epona/)<br>:star:[code](https://github.com/Kevin-thu/Epona/)
@@ -207,6 +220,7 @@
 
 ## 3D
 * [GeoProg3D: Compositional Visual Reasoning for City-Scale 3D Language Fields](https://arxiv.org/pdf/2506.23352v1)<br>:star:[code](https://snskysk.github.io/GeoProg3D/)
+* [ViewSRD: 3D Visual Grounding via Structured Multi-View Decomposition](https://arxiv.org/pdf/2507.11261v1)
 * 三维重建
   * [Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction](http://arxiv.org/pdf/2506.21401v1)<br>:star:[code](https://github.com/zhirui-gao/Curve-Gaussian)
   * [InstaScene: Towards Complete 3D Instance Decomposition and Reconstruction from Cluttered Scenes](https://arxiv.org/pdf/2507.08416v1)<br>:star:[code](https://zju3dv.github.io/instascene/)
@@ -221,6 +235,8 @@
 * SM
   * [RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather](https://arxiv.org/pdf/2507.01653v1)
   * [Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts](https://arxiv.org/pdf/2507.04631v1)<br>:star:[code](https://github.com/cocowy1/SMoE-Stereo)
+* MVS
+  * [MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network](https://arxiv.org/pdf/2507.11333v1)<br>:star:[code](https://github.com/JianfeiJ/MonoMVSNet)
 * 3DGS
   * [RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration](https://arxiv.org/pdf/2507.08136v1)<br>:star:[code](https://3dagentworld.github.io/reggs/)
 * Semantic Scene Completion(语义场景补全)
@@ -300,6 +316,8 @@
 ## Medical Image Progress(医学图像处理)
 * [Is Visual in-Context Learning for Compositional Medical Tasks within Reach?](https://arxiv.org/pdf/2507.00868v1)
 * [FB-Diff: Fourier Basis-guided Diffusion for Temporal Interpolation of 4D Medical Imaging](https://arxiv.org/pdf/2507.04547v1)
+* [Integrating Biological Knowledge for Robust Microscopy Image Profiling on De Novo Cell Lines](https://arxiv.org/pdf/2507.10737v1)
+* [Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation](https://arxiv.org/pdf/2507.11055v1)
 * 医学图像融合
   * [UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments](https://arxiv.org/pdf/2506.22736v1)
 * 报告生成
@@ -324,6 +342,8 @@
 * 语义分割
   * 小样本语义分割
     * [Probabilistic Prototype Calibration of Vision-Language Models for Generalized Few-shot Semantic Segmentation](https://arxiv.org/pdf/2506.22979v1)<br>:star:[code](https://github.com/jliu4ai/FewCLIP)
+  * 开放词汇语义分割
+    * [Personalized OVSS: Understanding Personal Concept in Open-Vocabulary Semantic Segmentation](https://arxiv.org/pdf/2507.11030v1)
 * 指代图像分割
   * [DeRIS: Decoupling Perception and Cognition for Enhanced Referring Image Segmentation through Loopback Synergy](https://arxiv.org/pdf/2507.01738v1)<br>:star:[code](https://github.com/Dmmm1997/DeRIS)
 * 动作分割
@@ -344,6 +364,7 @@
   * [DC-AR: Efficient Masked Autoregressive Image Generation with Deep Compression Hybrid Tokenizer](https://arxiv.org/pdf/2507.04947v1)
 * 文本-图像
   * [Rethink Sparse Signals for Pose-guided Text-to-image Generation](http://arxiv.org/pdf/2506.20983v1)<br>:star:[code](https://github.com/DREAMXFAR/SP-Ctrl)
+  * [CharaConsist: Fine-Grained Consistent Character Generation](https://arxiv.org/pdf/2507.11533v1)<br>:star:[code](https://murray-wang.github.io/CharaConsist/)<br>:star:[code](https://github.com/Murray-Wang/CharaConsist)
 * 视频合成
   * [Causal-Entity Reflected Egocentric Traffic Accident Video Synthesis](https://arxiv.org/pdf/2506.23263v1)
   * [Democratizing High-Fidelity Co-Speech Gesture Video Generation](https://arxiv.org/pdf/2507.06812v1)
@@ -383,8 +404,11 @@
   * [EAMamba: Efficient All-Around Vision State Space Model for Image Restoration](http://arxiv.org/pdf/2506.22246v1)
 * 图像增强
   * [MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices](https://arxiv.org/pdf/2507.01838v1)<br>:star:[code](https://github.com/AVC2-UESTC/MobileIE.git)
+  * [CWNet: Causal Wavelet Network for Low-Light Image Enhancement](https://arxiv.org/pdf/2507.10689v1)<br>:star:[code](https://github.com/bywlzts/CWNet-Causal-Wavelet-Network)
+
 
 ## Other
+* [MMOne: Representing Multiple Modalities in One Scene](https://arxiv.org/pdf/2507.11129v1)<br>:star:[code](https://github.com/Neal2020GitHub/MMOne)
 * [PhysRig: Differentiable Physics-Based Skinning and Rigging Framework for Realistic Articulated Object Modeling](http://arxiv.org/pdf/2506.20936v1)
 * [EgoAdapt: Adaptive Multisensory Distillation and Policy Learning for Efficient Egocentric Perception](http://arxiv.org/pdf/2506.21080v1)
 * [Learning to See in the Extremely Dark](http://arxiv.org/pdf/2506.21132v1)<br>:star:[code](https://github.com/JianghaiSCU/SIED)
