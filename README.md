@@ -26,18 +26,16 @@
 
 
 
-## 7月17日更新 10 篇，共计 205+10 篇。
-* [IDFace: Face Template Protection for Efficient and Secure Identification](https://arxiv.org/pdf/2507.12050v1)
-* [AU-Blendshape for Fine-grained Stylized 3D Facial Expression Manipulation](https://arxiv.org/pdf/2507.12001v1)<br>:star:[code](https://github.com/wslh852/AUBlendNet.git)
-* [PROL : Rehearsal Free Continual Learning in Streaming Data via Prompt Online Learning](https://arxiv.org/pdf/2507.12305v1)<br>:star:[code](https://github.com/anwarmaxsum/PROL)
-* [Frequency-Dynamic Attention Modulation for Dense Prediction](https://arxiv.org/pdf/2507.12006v1)<br>:star:[code](https://github.com/Linwei-Chen/FDAM)
-* [AD-GS: Object-Aware B-Spline Gaussian Splatting for Self-Supervised Autonomous Driving](https://arxiv.org/pdf/2507.12137v1)
-* [SpatialTrackerV2: 3D Point Tracking Made Easy](https://arxiv.org/pdf/2507.12462v1)<br>:house:[project](https://huggingface.co/spaces/Yuxihenry/SpatialTrackerV2)<br>:star:[code](https://github.com/henry123-boy/SpaTrackerV2)
-* [Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics](https://arxiv.org/pdf/2507.12083v1)
-* [Dataset Ownership Verification for Pre-trained Masked Models](https://arxiv.org/pdf/2507.12022v1)<br>:star:[code](https://github.com/xieyc99/DOV4MM)
-* [Unsupervised Part Discovery via Descriptor-Based Masked Image Restoration with Optimized Constraints](https://arxiv.org/pdf/2507.11985v1)<br>:star:[code](https://github.com/Jiahao-UTS/MPAE)
-* [Learning Pixel-adaptive Multi-layer Perceptrons for Real-time Image Enhancement](https://arxiv.org/pdf/2507.12135v1)
-
+## 7月18日更新 9 篇，共计 215+9 篇。
+* [Efficient Adaptation of Pre-trained Vision Transformer underpinned by Approximately Orthogonal Fine-Tuning Strategy](https://arxiv.org/pdf/2507.13260v1)
+* [NeuraLeaf: Neural Parametric Leaf Models with Shape and Deformation Disentanglement](https://arxiv.org/pdf/2507.12714v1)<br>:star:[code](https://neuraleaf-yang.github.io/)
+* [Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities](https://arxiv.org/pdf/2507.13019v1)<br>:star:[code](https://crystalsixone.github.io/vln_pe.github.io/)
+* [SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation](https://arxiv.org/pdf/2507.12857v1)<br>:star:[code](https://github.com/HuangShiqi128/SCORE)
+* [Imbalance in Balance: Online Concept Balancing in Generation Models](https://arxiv.org/pdf/2507.13345v1)
+* [DMQ: Dissecting Outliers of Diffusion Models for Post-Training Quantization](https://arxiv.org/pdf/2507.12933v1)<br>:star:[code](https://github.com/LeeDongYeun/dmq)
+* [Weakly Supervised Visible-Infrared Person Re-Identification via Heterogeneous Expert Collaborative Consistency Learning](https://arxiv.org/pdf/2507.12942v1)
+* [Variance-Based Pruning for Accelerating and Compressing Trained Networks](https://arxiv.org/pdf/2507.12988v1)
+* [CT-ScanGaze: A Dataset and Baselines for 3D Volumetric Scanpath Modeling](https://arxiv.org/pdf/2507.12591v1)
 
 
 
@@ -64,6 +62,7 @@
 * 数据集
   * [Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning](https://arxiv.org/pdf/2507.04790v1)
   * [ProGait: A Multi-Purpose Video Dataset and Benchmark for Transfemoral Prosthesis Users](https://arxiv.org/pdf/2507.10223v1)<br>:star:[code](https://github.com/pittisl/ProGait)<br>:house:[project](https://huggingface.co/datasets/ericyxy98/ProGait)
+  * [CT-ScanGaze: A Dataset and Baselines for 3D Volumetric Scanpath Modeling](https://arxiv.org/pdf/2507.12591v1)
 * 数据蒸馏
   * [CaO$_2$: Rectifying Inconsistencies in Diffusion-Based Dataset Distillation](https://arxiv.org/pdf/2506.22637v1)<br>:star:[code](https://github.com/hatchetProject/CaO2)
   * [Dataset Distillation via Vision-Language Category Prototype](https://arxiv.org/pdf/2506.23580v1)<br>:star:[code](https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/)
@@ -72,6 +71,7 @@
 * [UnMix-NeRF: Spectral Unmixing Meets Neural Radiance Fields](http://arxiv.org/pdf/2506.21884v1)<br>:house:[project](https://www.factral.co/UnMix-NeRF)
 * [LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling](https://arxiv.org/pdf/2507.02363v1)<br>:star:[code](https://wujh2001.github.io/LocalDyGS/)
 * [A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields](https://arxiv.org/pdf/2507.04408v1)
+* [NeuraLeaf: Neural Parametric Leaf Models with Shape and Deformation Disentanglement](https://arxiv.org/pdf/2507.12714v1)<br>:star:[code](https://neuraleaf-yang.github.io/)
 
 ## Vision Language
 * [NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2506.23468v1)<br>:star:[code](https://github.com/Feliciaxyao/NavMorph)
@@ -79,6 +79,8 @@
 * [VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers](https://arxiv.org/pdf/2507.01016v1)<br>:star:[code](https://xiaoxiao0406.github.io/vqvla.github.io)
 * [ViLU: Learning Vision-Language Uncertainties for Failure Prediction](https://arxiv.org/pdf/2507.07620v1)<br>:star:[code](https://github.com/ykrmm/ViLU)
 * [PRISM: Reducing Spurious Implicit Biases in Vision-Language Models with LLM-Guided Embedding Projection](https://arxiv.org/pdf/2507.08979v1)<br>:star:[code](https://github.com/MahdiyarMM/PRISM)
+* VLN
+  * [Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities](https://arxiv.org/pdf/2507.13019v1)<br>:star:[code](https://crystalsixone.github.io/vln_pe.github.io/)
 * LLM
   * [LLM-enhanced Action-aware Multi-modal Prompt Tuning for Image-Text Matching](https://arxiv.org/pdf/2506.23502v1)
   * [Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs](https://arxiv.org/pdf/2507.07990v1)<br>:house:[project](https://www.jshyun.me/projects/sttm)
@@ -91,6 +93,7 @@
 
 ## Vision Transformer
 * [Boosting Generative Adversarial Transferability with Self-supervised Vision Transformer Features](http://arxiv.org/pdf/2506.21046v1)<br>:star:[code](https://github.com/spencerwooo/dSVA)
+* [Efficient Adaptation of Pre-trained Vision Transformer underpinned by Approximately Orthogonal Fine-Tuning Strategy](https://arxiv.org/pdf/2507.13260v1)
 
 ## Deep learning(深度学习)
 * RNN
@@ -131,8 +134,11 @@
 ##
 * 剪枝
   * [Partial Forward Blocking: A Novel Data Pruning Paradigm for Lossless Training Acceleration](https://arxiv.org/pdf/2506.23674v1)
+  * [Variance-Based Pruning for Accelerating and Compressing Trained Networks](https://arxiv.org/pdf/2507.12988v1)
 * KD
   * [Frequency-Aligned Knowledge Distillation for Lightweight Spatiotemporal Forecasting](https://arxiv.org/pdf/2507.02939v1)<br>:star:[code](https://github.com/itsnotacie/SDKD)
+* 量化
+  * [DMQ: Dissecting Outliers of Diffusion Models for Post-Training Quantization](https://arxiv.org/pdf/2507.12933v1)<br>:star:[code](https://github.com/LeeDongYeun/dmq)
 
 ## Scene Graph Generation(场景图生成)
 * [SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning](https://arxiv.org/pdf/2507.05798v1)
@@ -223,6 +229,8 @@
   * [Information-Bottleneck Driven Binary Neural Network for Change Detection](https://arxiv.org/pdf/2507.03504v1)
 * 目标检测
   * [Measuring the Impact of Rotation Equivariance on Aerial Object Detection](https://arxiv.org/pdf/2507.09896v1)
+* 分割
+  * [SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation](https://arxiv.org/pdf/2507.12857v1)<br>:star:[code](https://github.com/HuangShiqi128/SCORE)
 
 ## OCR
 * 文本生成
@@ -243,6 +251,8 @@
   * [Colors See Colors Ignore: Clothes Changing ReID with Color Disentanglement](https://arxiv.org/pdf/2507.07230v1)<br>:star:[code](https://github.com/ppriyank/ICCV-CSCI-Person-ReID)
 * 终身重识别
   * [Self-Reinforcing Prototype Evolution with Dual-Knowledge Cooperation for Semi-Supervised Lifelong Person Re-Identification](https://arxiv.org/pdf/2507.01884v1)<br>:star:[code](https://github.com/zhoujiahuan1991/ICCV2025-SPRED)
+* 红外可见光
+  * [Weakly Supervised Visible-Infrared Person Re-Identification via Heterogeneous Expert Collaborative Consistency Learning](https://arxiv.org/pdf/2507.12942v1)
 
 ## Action Recognition(动作识别)
 * [Frequency-Semantic Enhanced Variational Autoencoder for Zero-Shot Skeleton-based Action Recognition](http://arxiv.org/pdf/2506.22179v1)
@@ -420,6 +430,7 @@
 * [Boosting Multimodal Learning via Disentangled Gradient Learning](https://arxiv.org/pdf/2507.10213v1)<br>:star:[code](https://github.com/shicaiwei123/ICCV2025-GDL)
 * [Supercharging Floorplan Localization with Semantic Rays](https://arxiv.org/pdf/2507.09291v1)
 * [Dataset Ownership Verification for Pre-trained Masked Models](https://arxiv.org/pdf/2507.12022v1)<br>:star:[code](https://github.com/xieyc99/DOV4MM)
+* [Imbalance in Balance: Online Concept Balancing in Generation Models](https://arxiv.org/pdf/2507.13345v1)
 
 ## 2020 年论文分类汇总戳这里
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers) 
