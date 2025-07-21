@@ -26,16 +26,13 @@
 
 
 
-## 7月18日更新 9 篇，共计 215+9 篇。
-* [Efficient Adaptation of Pre-trained Vision Transformer underpinned by Approximately Orthogonal Fine-Tuning Strategy](https://arxiv.org/pdf/2507.13260v1)
-* [NeuraLeaf: Neural Parametric Leaf Models with Shape and Deformation Disentanglement](https://arxiv.org/pdf/2507.12714v1)<br>:star:[code](https://neuraleaf-yang.github.io/)
-* [Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities](https://arxiv.org/pdf/2507.13019v1)<br>:star:[code](https://crystalsixone.github.io/vln_pe.github.io/)
-* [SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation](https://arxiv.org/pdf/2507.12857v1)<br>:star:[code](https://github.com/HuangShiqi128/SCORE)
-* [Imbalance in Balance: Online Concept Balancing in Generation Models](https://arxiv.org/pdf/2507.13345v1)
-* [DMQ: Dissecting Outliers of Diffusion Models for Post-Training Quantization](https://arxiv.org/pdf/2507.12933v1)<br>:star:[code](https://github.com/LeeDongYeun/dmq)
-* [Weakly Supervised Visible-Infrared Person Re-Identification via Heterogeneous Expert Collaborative Consistency Learning](https://arxiv.org/pdf/2507.12942v1)
-* [Variance-Based Pruning for Accelerating and Compressing Trained Networks](https://arxiv.org/pdf/2507.12988v1)
-* [CT-ScanGaze: A Dataset and Baselines for 3D Volumetric Scanpath Modeling](https://arxiv.org/pdf/2507.12591v1)
+## 7月21日更新 5 篇，共计 224+5 篇。
+* [CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models](https://arxiv.org/pdf/2507.13984v1)
+* [SkySense V2: A Unified Foundation Model for Multi-modal Remote Sensing](https://arxiv.org/pdf/2507.13812v1)
+* [PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations](https://arxiv.org/pdf/2507.13891v1)
+* [DynFaceRestore: Balancing Fidelity and Quality in Diffusion-Guided Blind Face Restoration with Dynamic Blur-Level Mapping and Guidance](https://arxiv.org/pdf/2507.13797v1)
+* [Learning Deblurring Texture Prior from Unpaired Data with Diffusion Model](https://arxiv.org/pdf/2507.13599v1)
+
 
 
 
@@ -218,6 +215,7 @@
   * [MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network](https://arxiv.org/pdf/2507.11333v1)<br>:star:[code](https://github.com/JianfeiJ/MonoMVSNet)
 * 3DGS
   * [RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration](https://arxiv.org/pdf/2507.08136v1)<br>:star:[code](https://3dagentworld.github.io/reggs/)
+  * [PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations](https://arxiv.org/pdf/2507.13891v1)
 * Semantic Scene Completion(语义场景补全)
   * [Feed-Forward SceneDINO for Unsupervised Semantic Scene Completion](https://arxiv.org/pdf/2507.06230v1)<br>:star:[code](https://visinf.github.io/scenedino)<br>:star:[code](https://github.com/tum-vision/scenedino)
   * [Disentangling Instance and Scene Contexts for 3D Semantic Scene Completion](https://arxiv.org/pdf/2507.08555v1)<br>:star:[code](https://github.com/Enyu-Liu/DISC)
@@ -225,6 +223,7 @@
 ## UAV/RS/Satellite Image(无人机/遥感/卫星图像)
 * [Cross-modal Ship Re-Identification via Optical and SAR Imagery: A Novel Dataset and Method](http://arxiv.org/pdf/2506.22027v1)<br>:star:[code](https://github.com/Alioth2000/Hoss-ReID)
 * [LoD-Loc v2: Aerial Visual Localization over Low Level-of-Detail City Models using Explicit Silhouette Alignment](https://arxiv.org/pdf/2507.00659v1)
+* [SkySense V2: A Unified Foundation Model for Multi-modal Remote Sensing](https://arxiv.org/pdf/2507.13812v1)
 * 变化检测
   * [Information-Bottleneck Driven Binary Neural Network for Change Detection](https://arxiv.org/pdf/2507.03504v1)
 * 目标检测
@@ -288,6 +287,8 @@
 ## Face
 * [IDFace: Face Template Protection for Efficient and Secure Identification](https://arxiv.org/pdf/2507.12050v1)
 * [FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models](https://arxiv.org/pdf/2507.02714v1)
+* 人脸恢复
+  * [DynFaceRestore: Balancing Fidelity and Quality in Diffusion-Guided Blind Face Restoration with Dynamic Blur-Level Mapping and Guidance](https://arxiv.org/pdf/2507.13797v1)
 * 人脸表情识别
   * [Multimodal Prompt Alignment for Facial Expression Recognition](http://arxiv.org/pdf/2506.21017v1)
   * [AU-Blendshape for Fine-grained Stylized 3D Facial Expression Manipulation](https://arxiv.org/pdf/2507.12001v1)<br>:star:[code](https://github.com/wslh852/AUBlendNet.git)
@@ -381,6 +382,8 @@
 ## Image Progress(图像/视频处理)
 * 去噪
   * [Consistent Time-of-Flight Depth Denoising via Graph-Informed Geometric Attention](https://arxiv.org/pdf/2506.23542v1)<br>:star:[code](https://github.com/davidweidawang/GIGA-ToF)
+* 去模糊
+  * [Learning Deblurring Texture Prior from Unpaired Data with Diffusion Model](https://arxiv.org/pdf/2507.13599v1)
 * 图像去雾
   * [Frequency Domain-Based Diffusion Model for Unpaired Image Dehazing](https://arxiv.org/pdf/2507.01275v1)
   * [When Schrödinger Bridge Meets Real-World Image Dehazing with Unpaired Training](https://arxiv.org/pdf/2507.09524v1)<br>:star:[code](https://github.com/ywxjm/DehazeSB)
@@ -404,6 +407,7 @@
 * [Global and Local Entailment Learning for Natural World Imagery](http://arxiv.org/pdf/2506.21476v1)<br>:star:[code](https://vishu26.github.io/RCME/index.html)
 * [Attention to Burstiness: Low-Rank Bilinear Prompt Tuning](https://arxiv.org/pdf/2506.22908v1)
 * [Intervening in Black Box: Concept Bottleneck Model for Enhancing Human Neural Network Mutual Understanding](https://arxiv.org/pdf/2506.22803v1)<br>:star:[code](https://github.com/XiGuaBo/CBM-HNMU)
+* [CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models](https://arxiv.org/pdf/2507.13984v1)
 * [Learning Counterfactually Decoupled Attention for Open-World Model Attribution](https://arxiv.org/pdf/2506.23074v1)<br>:star:[code](https://github.com/yzheng97/CDAL)
 * [Where, What, Why: Towards Explainable Driver Attention Prediction](https://arxiv.org/pdf/2506.23088v1)
 * [VolumetricSMPL: A Neural Volumetric Body Model for Efficient Interactions, Contacts, and Collisions](https://arxiv.org/pdf/2506.23236v1)<br>:star:[code](https://markomih.github.io/VolumetricSMPL)
