@@ -26,16 +26,29 @@
 
 
 
-## 7月21日更新 5 篇，共计 224+5 篇。
-* [CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models](https://arxiv.org/pdf/2507.13984v1)
-* [SkySense V2: A Unified Foundation Model for Multi-modal Remote Sensing](https://arxiv.org/pdf/2507.13812v1)
-* [PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations](https://arxiv.org/pdf/2507.13891v1)
-* [DynFaceRestore: Balancing Fidelity and Quality in Diffusion-Guided Blind Face Restoration with Dynamic Blur-Level Mapping and Guidance](https://arxiv.org/pdf/2507.13797v1)
-* [Learning Deblurring Texture Prior from Unpaired Data with Diffusion Model](https://arxiv.org/pdf/2507.13599v1)
-
-
-
-
+## 7月22日更新 22 篇，共计 229+22 篇。
+* [HOLa: Zero-Shot HOI Detection with Low-Rank Decomposed VLM Feature Adaptation](https://arxiv.org/pdf/2507.15542v1)<br>:star:[code](https://github.com/ChelsieLei/HOLa)
+* [Distilling Parallel Gradients for Fast ODE Solvers of Diffusion Models](https://arxiv.org/pdf/2507.14797v1)<br>:star:[code](https://github.com/BeierZhu/EPD)
+* [To Label or Not to Label: PALM -- A Predictive Model for Evaluating Sample Efficiency in Active Learning Models](https://arxiv.org/pdf/2507.15381v1)<br>:star:[code](https://github.com/juliamachnio/PALM)
+* [DynImg: Key Frames with Visual Prompts are Good Representation for Multi-Modal Video Understanding](https://arxiv.org/pdf/2507.15569v1)
+* [One Last Attention for Your Vision-Language Model](https://arxiv.org/pdf/2507.15480v1)<br>:star:[code](https://github.com/khufia/RAda/tree/main)
+* [Hierarchical Cross-modal Prompt Learning for Vision-Language Models](https://arxiv.org/pdf/2507.14976v1)<br>:star:[code](https://github.com/zzeoZheng/HiCroPL)
+* [IRGPT: Understanding Real-world Infrared Image with Bi-cross-modal Curriculum on Large-scale Benchmark](https://arxiv.org/pdf/2507.14449v1)
+* [Towards Video Thinking Test: A Holistic Benchmark for Advanced Video Reasoning and Understanding](https://arxiv.org/pdf/2507.15028v1)<br>:star:[code](https://zhangyuanhan-ai.github.io/video-tt/)
+* [ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting](https://arxiv.org/pdf/2507.15454v1)<br>:star:[code](https://ruijiezhu94.github.io/ObjectGS_page)
+* [DiSCO-3D : Discovering and segmenting Sub-Concepts from Open-vocabulary queries in NeRF](https://arxiv.org/pdf/2507.14596v1)
+* [LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression](https://arxiv.org/pdf/2507.15686v1)<br>:star:[code](https://huangwenjie2023.github.io/LINR-PCGC/)
+* [Blended Point Cloud Diffusion for Localized Text-guided Shape Editing](https://arxiv.org/pdf/2507.15399v1)<br>:star:[code](https://tau-vailab.github.io/BlendedPC/)
+* [Quantifying and Narrowing the Unknown: Interactive Text-to-Video Retrieval via Uncertainty Minimization](https://arxiv.org/pdf/2507.15504v1)
+* [ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction](https://arxiv.org/pdf/2507.15803v1)
+* [MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction](https://arxiv.org/pdf/2507.15212v1)
+* [OmniVTON: Training-Free Universal Virtual Try-On](https://arxiv.org/pdf/2507.15037v1)<br>:star:[code](https://github.com/Jerome-Young/OmniVTON)
+* [PHATNet: A Physics-guided Haze Transfer Network for Domain-adaptive Real-world Image Dehazing](https://arxiv.org/pdf/2507.14826v1)
+* [MinCD-PnP: Learning 2D-3D Correspondences with Approximate Blind PnP](https://arxiv.org/pdf/2507.15257v1)
+* [DAViD: Data-efficient and Accurate Vision Models from Synthetic Data](https://arxiv.org/pdf/2507.15365v1)<br>:house:[project](https://aka.ms/DAViD)
+* [DCHM: Depth-Consistent Human Modeling for Multiview Detection](https://arxiv.org/pdf/2507.14505v1)<br>:star:[code](https://jiahao-ma.github.io/DCHM/)
+* [Open-set Cross Modal Generalization via Multimodal Unified Representation](https://arxiv.org/pdf/2507.14935v1)<br>:star:[code](https://github.com/haihuangcode/CMG)
+* [FreeCus: Free Lunch Subject-driven Customization in Diffusion Transformers](https://arxiv.org/pdf/2507.15249v1)<br>:star:[code](https://github.com/Monalissaa/FreeCus)
 
 ## 计算成像
 * [Single-Scanline Relative Pose Estimation for Rolling Shutter Cameras](http://arxiv.org/pdf/2506.22069v1)
@@ -56,6 +69,9 @@
 
 ## Dataset
 * [Context-Aware Academic Emotion Dataset and Benchmark](https://arxiv.org/pdf/2507.00586v1)<br>:star:[code](https://zgsfer.github.io/CAER)
+* 基准
+  * [IRGPT: Understanding Real-world Infrared Image with Bi-cross-modal Curriculum on Large-scale Benchmark](https://arxiv.org/pdf/2507.14449v1)
+  * [Towards Video Thinking Test: A Holistic Benchmark for Advanced Video Reasoning and Understanding](https://arxiv.org/pdf/2507.15028v1)<br>:star:[code](https://zhangyuanhan-ai.github.io/video-tt/)
 * 数据集
   * [Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning](https://arxiv.org/pdf/2507.04790v1)
   * [ProGait: A Multi-Purpose Video Dataset and Benchmark for Transfemoral Prosthesis Users](https://arxiv.org/pdf/2507.10223v1)<br>:star:[code](https://github.com/pittisl/ProGait)<br>:house:[project](https://huggingface.co/datasets/ericyxy98/ProGait)
@@ -67,6 +83,7 @@
 ## Neural Radiance Fields
 * [UnMix-NeRF: Spectral Unmixing Meets Neural Radiance Fields](http://arxiv.org/pdf/2506.21884v1)<br>:house:[project](https://www.factral.co/UnMix-NeRF)
 * [LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling](https://arxiv.org/pdf/2507.02363v1)<br>:star:[code](https://wujh2001.github.io/LocalDyGS/)
+* [DiSCO-3D : Discovering and segmenting Sub-Concepts from Open-vocabulary queries in NeRF](https://arxiv.org/pdf/2507.14596v1)
 * [A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields](https://arxiv.org/pdf/2507.04408v1)
 * [NeuraLeaf: Neural Parametric Leaf Models with Shape and Deformation Disentanglement](https://arxiv.org/pdf/2507.12714v1)<br>:star:[code](https://neuraleaf-yang.github.io/)
 
@@ -76,6 +93,8 @@
 * [VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers](https://arxiv.org/pdf/2507.01016v1)<br>:star:[code](https://xiaoxiao0406.github.io/vqvla.github.io)
 * [ViLU: Learning Vision-Language Uncertainties for Failure Prediction](https://arxiv.org/pdf/2507.07620v1)<br>:star:[code](https://github.com/ykrmm/ViLU)
 * [PRISM: Reducing Spurious Implicit Biases in Vision-Language Models with LLM-Guided Embedding Projection](https://arxiv.org/pdf/2507.08979v1)<br>:star:[code](https://github.com/MahdiyarMM/PRISM)
+* [One Last Attention for Your Vision-Language Model](https://arxiv.org/pdf/2507.15480v1)<br>:star:[code](https://github.com/khufia/RAda/tree/main)
+* [Hierarchical Cross-modal Prompt Learning for Vision-Language Models](https://arxiv.org/pdf/2507.14976v1)<br>:star:[code](https://github.com/zzeoZheng/HiCroPL)
 * VLN
   * [Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities](https://arxiv.org/pdf/2507.13019v1)<br>:star:[code](https://crystalsixone.github.io/vln_pe.github.io/)
 * LLM
@@ -97,6 +116,8 @@
   * [ResQ: A Novel Framework to Implement Residual Neural Networks on Analog Rydberg Atom Quantum Computers](http://arxiv.org/pdf/2506.21537v1)
 
 ## Machine learning(机器学习)
+* 主动学习
+  * [To Label or Not to Label: PALM -- A Predictive Model for Evaluating Sample Efficiency in Active Learning Models](https://arxiv.org/pdf/2507.15381v1)<br>:star:[code](https://github.com/juliamachnio/PALM)
 * 对比学习
   * [Vector Contrastive Learning For Pixel-Wise Pretraining In Medical Vision](http://arxiv.org/pdf/2506.20850v1)  
 * 强化学习
@@ -163,6 +184,8 @@
 
 ## Robot
 * [GeoDistill: Geometry-Guided Self-Distillation for Weakly Supervised Cross-View Localization](https://arxiv.org/pdf/2507.10935v1)<br>:star:[code](https://github.com/tongshw/GeoDistill)
+* 虚拟试穿
+  * [OmniVTON: Training-Free Universal Virtual Try-On](https://arxiv.org/pdf/2507.15037v1)<br>:star:[code](https://github.com/Jerome-Young/OmniVTON)
 * 机器人
   * [RoboPearls: Editable Video Simulation for Robot Manipulation](https://arxiv.org/pdf/2506.22756v1)
 * SLAM
@@ -172,6 +195,7 @@
 * [Prompt Guidance and Human Proximal Perception for HOT Prediction with Regional Joint Loss](https://arxiv.org/pdf/2507.01630v1)<br>:star:[code](https://github.com/YuxiaoWang-AI/P3HOT)
 * [Bilateral Collaboration with Large Vision-Language Models for Open Vocabulary Human-Object Interaction Detection](https://arxiv.org/pdf/2507.06510v1)
 * [Task-Oriented Human Grasp Synthesis via Context- and Task-Aware Diffusers](https://arxiv.org/pdf/2507.11287v1)<br>:star:[code](https://hcis-lab.github.io/TOHGS/)
+* [HOLa: Zero-Shot HOI Detection with Low-Rank Decomposed VLM Feature Adaptation](https://arxiv.org/pdf/2507.15542v1)<br>:star:[code](https://github.com/ChelsieLei/HOLa)
 
 ## Autonomous Driving(自动驾驶)
 * [Epona: Autoregressive Diffusion World Model for Autonomous Driving](https://arxiv.org/pdf/2506.24113v1)<br>:star:[code](https://kevin-thu.github.io/Epona/)<br>:star:[code](https://github.com/Kevin-thu/Epona/)
@@ -186,6 +210,8 @@
 * [StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning](http://arxiv.org/pdf/2506.21541v1)
 * [PointGAC: Geometric-Aware Codebook for Masked Point Cloud Modeling](https://arxiv.org/pdf/2507.04801v1)<br>:star:[code](https://github.com/LAB123-tech/PointGAC)
 * [Harnessing Text-to-Image Diffusion Models for Point Cloud Self-Supervised Learning](https://arxiv.org/pdf/2507.09102v1)<br>:star:[code](https://github.com/wdttt/PointSD)
+* [LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression](https://arxiv.org/pdf/2507.15686v1)<br>:star:[code](https://huangwenjie2023.github.io/LINR-PCGC/)
+* [Blended Point Cloud Diffusion for Localized Text-guided Shape Editing](https://arxiv.org/pdf/2507.15399v1)<br>:star:[code](https://tau-vailab.github.io/BlendedPC/)
 * 3D 点云
   * [Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation](http://arxiv.org/pdf/2506.22375v1)
 * 点云配准
@@ -200,8 +226,10 @@
 * 三维重建
   * [Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction](http://arxiv.org/pdf/2506.21401v1)<br>:star:[code](https://github.com/zhirui-gao/Curve-Gaussian)
   * [InstaScene: Towards Complete 3D Instance Decomposition and Reconstruction from Cluttered Scenes](https://arxiv.org/pdf/2507.08416v1)<br>:star:[code](https://zju3dv.github.io/instascene/)
+  * [MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction](https://arxiv.org/pdf/2507.15212v1)
 * 场景重建
   * [BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting](http://arxiv.org/pdf/2506.22099v1)<br>:star:[code](https://github.com/fudan-zvg/BezierGS)
+  * [ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting](https://arxiv.org/pdf/2507.15454v1)<br>:star:[code](https://ruijiezhu94.github.io/ObjectGS_page)
 * 三维场景理解
   * [VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding](https://arxiv.org/pdf/2506.22799v1)<br>:star:[code](https://sy-ja.github.io/votesplat/)
 * 深度估计
@@ -244,6 +272,7 @@
   * [Flash-VStream: Efficient Real-Time Understanding for Long Video Streams](https://arxiv.org/pdf/2506.23825v1)<br>:star:[code](https://github.com/IVGSZ/Flash-VStream)
   * [AuroraLong: Bringing RNNs Back to Efficient Open-Ended Video Understanding](https://arxiv.org/pdf/2507.02591v1)
   * [MCAM: Multimodal Causal Analysis Model for Ego-Vehicle-Level Driving Video Understanding](https://arxiv.org/pdf/2507.06072v1)<br>:star:[code](https://github.com/SixCorePeach/MCAM)
+  * [DynImg: Key Frames with Visual Prompts are Good Representation for Multi-Modal Video Understanding](https://arxiv.org/pdf/2507.15569v1)
 
 ## Person Re-Identification(行人重识别)
 * 换衣重识别
@@ -315,6 +344,10 @@
 * 3D医学
   * [Structure-aware Semantic Discrepancy and Consistency for 3D Medical Image Self-supervised Learning](https://arxiv.org/pdf/2507.02581v1)
 
+## Image/Video Retrieval(图像/视频检索)
+* 文本-视频检索
+  * [Quantifying and Narrowing the Unknown: Interactive Text-to-Video Retrieval via Uncertainty Minimization](https://arxiv.org/pdf/2507.15504v1)
+
 ## Image Classification(图像分类)
 * [Generate, Refine, and Encode: Leveraging Synthesized Novel Samples for On-the-Fly Fine-Grained Category Discovery](https://arxiv.org/pdf/2507.04051v1)
 * [Competitive Distillation: A Simple Learning Strategy for Improving Visual Classification](https://arxiv.org/pdf/2506.23285v1)
@@ -327,6 +360,8 @@
 * 全景分割
   * [PanSt3R: Multi-view Consistent Panoptic Segmentation](http://arxiv.org/pdf/2506.21348v1)
 * 语义分割
+  * 半监督语义分割
+    * [ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction](https://arxiv.org/pdf/2507.15803v1)
   * 小样本语义分割
     * [Probabilistic Prototype Calibration of Vision-Language Models for Generalized Few-shot Semantic Segmentation](https://arxiv.org/pdf/2506.22979v1)<br>:star:[code](https://github.com/jliu4ai/FewCLIP)
   * 开放词汇语义分割
@@ -341,6 +376,7 @@
 * [Sat2City: 3D City Generation from A Single Satellite Image with Cascaded Latent Diffusion](https://arxiv.org/pdf/2507.04403v1)
 * [QR-LoRA: Efficient and Disentangled Fine-tuning via QR Decomposition for Customized Generation](https://arxiv.org/pdf/2507.04599v1)
 * [Text Embedding Knows How to Quantize Text-Guided Diffusion Models](https://arxiv.org/pdf/2507.10340v1)
+* [Distilling Parallel Gradients for Fast ODE Solvers of Diffusion Models](https://arxiv.org/pdf/2507.14797v1)<br>:star:[code](https://github.com/BeierZhu/EPD)
 * 布局生成
   * [IGD: Instructional Graphic Design with Multimodal Layer Generation](https://arxiv.org/pdf/2507.09910v1)
 * 图像合成
@@ -387,6 +423,7 @@
 * 图像去雾
   * [Frequency Domain-Based Diffusion Model for Unpaired Image Dehazing](https://arxiv.org/pdf/2507.01275v1)
   * [When Schrödinger Bridge Meets Real-World Image Dehazing with Unpaired Training](https://arxiv.org/pdf/2507.09524v1)<br>:star:[code](https://github.com/ywxjm/DehazeSB)
+  * [PHATNet: A Physics-guided Haze Transfer Network for Domain-adaptive Real-world Image Dehazing](https://arxiv.org/pdf/2507.14826v1)
 * 修复
   * [DiGA3D: Coarse-to-Fine Diffusional Propagation of Geometry and Appearance for Versatile 3D Inpainting](https://arxiv.org/pdf/2507.00429v1)<br>:star:[code](https://rorisis.github.io/DiGA3D/)
 * 图像恢复
@@ -435,6 +472,11 @@
 * [Supercharging Floorplan Localization with Semantic Rays](https://arxiv.org/pdf/2507.09291v1)
 * [Dataset Ownership Verification for Pre-trained Masked Models](https://arxiv.org/pdf/2507.12022v1)<br>:star:[code](https://github.com/xieyc99/DOV4MM)
 * [Imbalance in Balance: Online Concept Balancing in Generation Models](https://arxiv.org/pdf/2507.13345v1)
+* [MinCD-PnP: Learning 2D-3D Correspondences with Approximate Blind PnP](https://arxiv.org/pdf/2507.15257v1)
+* [DAViD: Data-efficient and Accurate Vision Models from Synthetic Data](https://arxiv.org/pdf/2507.15365v1)<br>:house:[project](https://aka.ms/DAViD)
+* [DCHM: Depth-Consistent Human Modeling for Multiview Detection](https://arxiv.org/pdf/2507.14505v1)<br>:star:[code](https://jiahao-ma.github.io/DCHM/)
+* [Open-set Cross Modal Generalization via Multimodal Unified Representation](https://arxiv.org/pdf/2507.14935v1)<br>:star:[code](https://github.com/haihuangcode/CMG)
+* [FreeCus: Free Lunch Subject-driven Customization in Diffusion Transformers](https://arxiv.org/pdf/2507.15249v1)<br>:star:[code](https://github.com/Monalissaa/FreeCus)
 
 ## 2020 年论文分类汇总戳这里
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers) 
