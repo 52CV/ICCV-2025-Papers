@@ -26,29 +26,17 @@
 
 
 
-## 7月22日更新 22 篇，共计 229+22 篇。
-* [HOLa: Zero-Shot HOI Detection with Low-Rank Decomposed VLM Feature Adaptation](https://arxiv.org/pdf/2507.15542v1)<br>:star:[code](https://github.com/ChelsieLei/HOLa)
-* [Distilling Parallel Gradients for Fast ODE Solvers of Diffusion Models](https://arxiv.org/pdf/2507.14797v1)<br>:star:[code](https://github.com/BeierZhu/EPD)
-* [To Label or Not to Label: PALM -- A Predictive Model for Evaluating Sample Efficiency in Active Learning Models](https://arxiv.org/pdf/2507.15381v1)<br>:star:[code](https://github.com/juliamachnio/PALM)
-* [DynImg: Key Frames with Visual Prompts are Good Representation for Multi-Modal Video Understanding](https://arxiv.org/pdf/2507.15569v1)
-* [One Last Attention for Your Vision-Language Model](https://arxiv.org/pdf/2507.15480v1)<br>:star:[code](https://github.com/khufia/RAda/tree/main)
-* [Hierarchical Cross-modal Prompt Learning for Vision-Language Models](https://arxiv.org/pdf/2507.14976v1)<br>:star:[code](https://github.com/zzeoZheng/HiCroPL)
-* [IRGPT: Understanding Real-world Infrared Image with Bi-cross-modal Curriculum on Large-scale Benchmark](https://arxiv.org/pdf/2507.14449v1)
-* [Towards Video Thinking Test: A Holistic Benchmark for Advanced Video Reasoning and Understanding](https://arxiv.org/pdf/2507.15028v1)<br>:star:[code](https://zhangyuanhan-ai.github.io/video-tt/)
-* [ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting](https://arxiv.org/pdf/2507.15454v1)<br>:star:[code](https://ruijiezhu94.github.io/ObjectGS_page)
-* [DiSCO-3D : Discovering and segmenting Sub-Concepts from Open-vocabulary queries in NeRF](https://arxiv.org/pdf/2507.14596v1)
-* [LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression](https://arxiv.org/pdf/2507.15686v1)<br>:star:[code](https://huangwenjie2023.github.io/LINR-PCGC/)
-* [Blended Point Cloud Diffusion for Localized Text-guided Shape Editing](https://arxiv.org/pdf/2507.15399v1)<br>:star:[code](https://tau-vailab.github.io/BlendedPC/)
-* [Quantifying and Narrowing the Unknown: Interactive Text-to-Video Retrieval via Uncertainty Minimization](https://arxiv.org/pdf/2507.15504v1)
-* [ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction](https://arxiv.org/pdf/2507.15803v1)
-* [MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction](https://arxiv.org/pdf/2507.15212v1)
-* [OmniVTON: Training-Free Universal Virtual Try-On](https://arxiv.org/pdf/2507.15037v1)<br>:star:[code](https://github.com/Jerome-Young/OmniVTON)
-* [PHATNet: A Physics-guided Haze Transfer Network for Domain-adaptive Real-world Image Dehazing](https://arxiv.org/pdf/2507.14826v1)
-* [MinCD-PnP: Learning 2D-3D Correspondences with Approximate Blind PnP](https://arxiv.org/pdf/2507.15257v1)
-* [DAViD: Data-efficient and Accurate Vision Models from Synthetic Data](https://arxiv.org/pdf/2507.15365v1)<br>:house:[project](https://aka.ms/DAViD)
-* [DCHM: Depth-Consistent Human Modeling for Multiview Detection](https://arxiv.org/pdf/2507.14505v1)<br>:star:[code](https://jiahao-ma.github.io/DCHM/)
-* [Open-set Cross Modal Generalization via Multimodal Unified Representation](https://arxiv.org/pdf/2507.14935v1)<br>:star:[code](https://github.com/haihuangcode/CMG)
-* [FreeCus: Free Lunch Subject-driven Customization in Diffusion Transformers](https://arxiv.org/pdf/2507.15249v1)<br>:star:[code](https://github.com/Monalissaa/FreeCus)
+## 7月23日更新 9 篇，共计 251+9 篇。
+* [Task-Specific Zero-shot Quantization-Aware Training for Object Detection](https://arxiv.org/pdf/2507.16782v1)<br>:star:[code](https://github.com/DFQ-Dojo/dfq-toolkit)
+* [Local Dense Logit Relations for Enhanced Knowledge Distillation](https://arxiv.org/pdf/2507.15911v1)
+* [ReasonVQA: A Multi-hop Reasoning Benchmark with Structural Knowledge for Visual Question Answering](https://arxiv.org/pdf/2507.16403v1)
+* [Beyond Label Semantics: Language-Guided Action Anatomy for Few-shot Action Recognition](https://arxiv.org/pdf/2507.16287v1)
+* [Advancing Visual Large Language Model for Multi-granular Versatile Perception](https://arxiv.org/pdf/2507.16213v1)<br>:star:[code](https://github.com/xiangwentao666/MVP-LM)
+* [M-SpecGene: Generalized Foundation Model for RGBT Multispectral Vision](https://arxiv.org/pdf/2507.16318v1)<br>:star:[code](https://github.com/CalayZhou/M-SpecGene)
+* [Scale Your Instructions: Enhance the Instruction-Following Fidelity of Unified Image Generation Model by Self-Adaptive Attention Scaling](https://arxiv.org/pdf/2507.16240v1)<br>:star:[code](https://github.com/zhouchao-ops/SaaS)
+* [Is Tracking really more challenging in First Person Egocentric Vision?](https://arxiv.org/pdf/2507.16015v1)
+* [One Polyp Identifies All: One-Shot Polyp Segmentation with SAM via Cascaded Priors and Iterative Prompt Evolution](https://arxiv.org/pdf/2507.16337v1)
+
 
 ## 计算成像
 * [Single-Scanline Relative Pose Estimation for Rolling Shutter Cameras](http://arxiv.org/pdf/2506.22069v1)
@@ -100,6 +88,7 @@
 * LLM
   * [LLM-enhanced Action-aware Multi-modal Prompt Tuning for Image-Text Matching](https://arxiv.org/pdf/2506.23502v1)
   * [Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs](https://arxiv.org/pdf/2507.07990v1)<br>:house:[project](https://www.jshyun.me/projects/sttm)
+  * [Advancing Visual Large Language Model for Multi-granular Versatile Perception](https://arxiv.org/pdf/2507.16213v1)<br>:star:[code](https://github.com/xiangwentao666/MVP-LM)
 * MLLM
   * [Token Activation Map to Visually Explain Multimodal LLMs](https://arxiv.org/pdf/2506.23270v1)
   * [DisCo: Towards Distinct and Coherent Visual Encapsulation in Video MLLMs](https://arxiv.org/pdf/2507.10302v1)<br>:star:[code](https://github.com/ZJHTerry18/DisCo)
@@ -155,6 +144,7 @@
   * [Variance-Based Pruning for Accelerating and Compressing Trained Networks](https://arxiv.org/pdf/2507.12988v1)
 * KD
   * [Frequency-Aligned Knowledge Distillation for Lightweight Spatiotemporal Forecasting](https://arxiv.org/pdf/2507.02939v1)<br>:star:[code](https://github.com/itsnotacie/SDKD)
+  * [Local Dense Logit Relations for Enhanced Knowledge Distillation](https://arxiv.org/pdf/2507.15911v1)
 * 量化
   * [DMQ: Dissecting Outliers of Diffusion Models for Post-Training Quantization](https://arxiv.org/pdf/2507.12933v1)<br>:star:[code](https://github.com/LeeDongYeun/dmq)
 
@@ -181,6 +171,9 @@
 
 ## Optical Flow Estimation(光流估计)
 * [MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation](https://arxiv.org/pdf/2506.23151v1)<br>:star:[code](https://github.com/msu-video-group/memfof)
+
+## Visual Question Answering(视觉问答)
+* [ReasonVQA: A Multi-hop Reasoning Benchmark with Structural Knowledge for Visual Question Answering](https://arxiv.org/pdf/2507.16403v1)
 
 ## Robot
 * [GeoDistill: Geometry-Guided Self-Distillation for Weakly Supervised Cross-View Localization](https://arxiv.org/pdf/2507.10935v1)<br>:star:[code](https://github.com/tongshw/GeoDistill)
@@ -287,6 +280,8 @@
 * [DeSPITE: Exploring Contrastive Deep Skeleton-Pointcloud-IMU-Text Embeddings for Advanced Point Cloud Human Activity Understanding](http://arxiv.org/abs/2506.13897v1)
 * 动作预测
   * [Efficient Multi-Person Motion Prediction by Lightweight Spatial and Temporal Interactions](https://arxiv.org/pdf/2507.09446v1)<br>:star:[code](https://github.com/Yuanhong-Zheng/EMPMP)
+* 小样本动作识别
+  * [Beyond Label Semantics: Language-Guided Action Anatomy for Few-shot Action Recognition](https://arxiv.org/pdf/2507.16287v1)
 
 ## Human Motion
 * 人体运动分割
@@ -296,12 +291,14 @@
 ## Object Track
 * [SpatialTrackerV2: 3D Point Tracking Made Easy](https://arxiv.org/pdf/2507.12462v1)<br>:house:[project](https://huggingface.co/spaces/Yuxihenry/SpatialTrackerV2)<br>:star:[code](https://github.com/henry123-boy/SpaTrackerV2)
 * [UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions](https://arxiv.org/pdf/2507.00648v1)<br>:star:[code](https://github.com/Z-Z188/UMDATrack)
+* [Is Tracking really more challenging in First Person Egocentric Vision?](https://arxiv.org/pdf/2507.16015v1)
 * [What You Have is What You Track: Adaptive and Robust Multimodal Tracking](https://arxiv.org/pdf/2507.05899v1)<br>:star:[code](https://github.com/supertyd/FlexTrack/tree/main)
 * [Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking](https://arxiv.org/pdf/2507.07483v1)
 
 ## Object Detection(目标检测) 
 * [DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic](http://arxiv.org/pdf/2506.21260v1)
 * [Visual Textualization for Image Prompted Object Detection](https://arxiv.org/pdf/2506.23785v1)<br>:star:[code](https://github.com/WitGotFlg/VisTex-OVLM)
+* [Task-Specific Zero-shot Quantization-Aware Training for Object Detection](https://arxiv.org/pdf/2507.16782v1)<br>:star:[code](https://github.com/DFQ-Dojo/dfq-toolkit)
 * [PBCAT: Patch-based composite adversarial training against physically realizable attacks on object detection](https://arxiv.org/pdf/2506.23581v1)
 * [UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement](https://arxiv.org/pdf/2507.00721v1)<br>:star:[code](https://github.com/AMAP-ML/UPRE)
 * 三维目标检测
@@ -343,6 +340,8 @@
   * [Cracking Instance Jigsaw Puzzles: An Alternative to Multiple Instance Learning for Whole Slide Image Analysis](https://arxiv.org/pdf/2507.08178v1)<br>:star:[code](https://github.com/xiwenc1/MIL-JigsawPuzzles)
 * 3D医学
   * [Structure-aware Semantic Discrepancy and Consistency for 3D Medical Image Self-supervised Learning](https://arxiv.org/pdf/2507.02581v1)
+* 息肉分割
+  * [One Polyp Identifies All: One-Shot Polyp Segmentation with SAM via Cascaded Priors and Iterative Prompt Evolution](https://arxiv.org/pdf/2507.16337v1)
 
 ## Image/Video Retrieval(图像/视频检索)
 * 文本-视频检索
@@ -385,6 +384,7 @@
   * [Rethinking Discrete Tokens: Treating Them as Conditions for Continuous Autoregressive Image Synthesis](https://arxiv.org/pdf/2507.01756v1)
 * 图像生成
   * [DC-AR: Efficient Masked Autoregressive Image Generation with Deep Compression Hybrid Tokenizer](https://arxiv.org/pdf/2507.04947v1)
+  * [Scale Your Instructions: Enhance the Instruction-Following Fidelity of Unified Image Generation Model by Self-Adaptive Attention Scaling](https://arxiv.org/pdf/2507.16240v1)<br>:star:[code](https://github.com/zhouchao-ops/SaaS)
 * 文本-图像
   * [Rethink Sparse Signals for Pose-guided Text-to-image Generation](http://arxiv.org/pdf/2506.20983v1)<br>:star:[code](https://github.com/DREAMXFAR/SP-Ctrl)
   * [CharaConsist: Fine-Grained Consistent Character Generation](https://arxiv.org/pdf/2507.11533v1)<br>:star:[code](https://murray-wang.github.io/CharaConsist/)<br>:star:[code](https://github.com/Murray-Wang/CharaConsist)
@@ -477,6 +477,7 @@
 * [DCHM: Depth-Consistent Human Modeling for Multiview Detection](https://arxiv.org/pdf/2507.14505v1)<br>:star:[code](https://jiahao-ma.github.io/DCHM/)
 * [Open-set Cross Modal Generalization via Multimodal Unified Representation](https://arxiv.org/pdf/2507.14935v1)<br>:star:[code](https://github.com/haihuangcode/CMG)
 * [FreeCus: Free Lunch Subject-driven Customization in Diffusion Transformers](https://arxiv.org/pdf/2507.15249v1)<br>:star:[code](https://github.com/Monalissaa/FreeCus)
+* [M-SpecGene: Generalized Foundation Model for RGBT Multispectral Vision](https://arxiv.org/pdf/2507.16318v1)<br>:star:[code](https://github.com/CalayZhou/M-SpecGene)
 
 ## 2020 年论文分类汇总戳这里
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers) 
