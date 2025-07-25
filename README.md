@@ -26,7 +26,7 @@
 
 
 
-## 7月24日更新 13 篇，共计 260+13 篇。
+## 7月25日更新 23 篇，共计 260+23 篇。
 * [Monocular Semantic Scene Completion via Masked Recurrent Networks](https://arxiv.org/pdf/2507.17661v1)<br>:star:[code](https://github.com/alanWXZ/MonoMRN)
 * [InvRGB+L: Inverse Rendering of Complex Scenes with Unified Color and LiDAR Reflectance Modeling](https://arxiv.org/pdf/2507.17613v1)
 * [Dataset Distillation as Data Compression: A Rate-Utility Perspective](https://arxiv.org/pdf/2507.17221v1)
@@ -40,6 +40,17 @@
 * [PARTE: Part-Guided Texturing for 3D Human Reconstruction from a Single Image](https://arxiv.org/pdf/2507.17332v1)<br>:star:[code](https://hygenie1228.github.io/PARTE/)
 * [Large Learning Rates Simultaneously Achieve Robustness to Spurious Correlations and Compressibility](https://arxiv.org/pdf/2507.17748v1)
 * [Joint Asymmetric Loss for Learning with Noisy Labels](https://arxiv.org/pdf/2507.17692v1)<br>:star:[code](https://github.com/cswjl/joint-asymmetric-loss)
+* [WaveMamba: Wavelet-Driven Mamba Fusion for RGB-Infrared Object Detection](https://arxiv.org/pdf/2507.18173v1)
+* [Boosting Multi-View Indoor 3D Object Detection via Adaptive 3D Volume Construction](https://arxiv.org/pdf/2507.18331v1)<br>:star:[code](https://github.com/RM-Zhang/SGCDet)
+* [LMM-Det: Make Large Multimodal Models Excel in Object Detection](https://arxiv.org/pdf/2507.18300v1)<br>:star:[code](https://github.com/360CVGroup/LMM-Det)
+* [GeoAvatar: Adaptive Geometrical Gaussian Splatting for 3D Head Avatar](https://arxiv.org/pdf/2507.18155v1)<br>:star:[code](https://hahminlew.github.io/geoavatar/)
+* [DATA: Domain-And-Time Alignment for High-Quality Feature Fusion in Collaborative Perception](https://arxiv.org/pdf/2507.18237v1)<br>:star:[code](https://github.com/ChengchangTian/DATA)
+* [BokehDiff: Neural Lens Blur with One-Step Diffusion](https://arxiv.org/pdf/2507.18060v1)
+* [TeEFusion: Blending Text Embeddings to Distill Classifier-Free Guidance](https://arxiv.org/pdf/2507.18192v1)<br>:star:[code](https://github.com/AIDC-AI/TeEFusion)
+* [Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis](https://arxiv.org/pdf/2507.18569v1)
+* [Adaptive Articulated Object Manipulation On The Fly with Foundation Model Reasoning and Part Grounding](https://arxiv.org/pdf/2507.18276v1)
+* [LONG3R: Long Sequence Streaming 3D Reconstruction](https://arxiv.org/pdf/2507.18255v1)<br>:star:[code](https://zgchen33.github.io/LONG3R/)
+
 
 ## 计算成像
 * [Single-Scanline Relative Pose Estimation for Rolling Shutter Cameras](http://arxiv.org/pdf/2506.22069v1)
@@ -47,6 +58,7 @@
 ## Feature Matching(特征匹配)
 * [Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching](https://arxiv.org/pdf/2507.10318v1)
 * [CasP: Improving Semi-Dense Feature Matching Pipeline Leveraging Cascaded Correspondence Priors for Guidance](https://arxiv.org/pdf/2507.17312v1)<br>:star:[code](https://github.com/pq-chen/CasP)
+* [DATA: Domain-And-Time Alignment for High-Quality Feature Fusion in Collaborative Perception](https://arxiv.org/pdf/2507.18237v1)<br>:star:[code](https://github.com/ChengchangTian/DATA)
 
 ## Dense Prediction
 * [Frequency-Dynamic Attention Modulation for Dense Prediction](https://arxiv.org/pdf/2507.12006v1)<br>:star:[code](https://github.com/Linwei-Chen/FDAM)
@@ -81,6 +93,7 @@
 * [NeuraLeaf: Neural Parametric Leaf Models with Shape and Deformation Disentanglement](https://arxiv.org/pdf/2507.12714v1)<br>:star:[code](https://neuraleaf-yang.github.io/)
 * 渲染
   * [InvRGB+L: Inverse Rendering of Complex Scenes with Unified Color and LiDAR Reflectance Modeling](https://arxiv.org/pdf/2507.17613v1)
+  * [BokehDiff: Neural Lens Blur with One-Step Diffusion](https://arxiv.org/pdf/2507.18060v1)
 
 ## Vision Language
 * [NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2506.23468v1)<br>:star:[code](https://github.com/Feliciaxyao/NavMorph)
@@ -190,8 +203,10 @@
   * [OmniVTON: Training-Free Universal Virtual Try-On](https://arxiv.org/pdf/2507.15037v1)<br>:star:[code](https://github.com/Jerome-Young/OmniVTON)
 * 机器人
   * [RoboPearls: Editable Video Simulation for Robot Manipulation](https://arxiv.org/pdf/2506.22756v1)
+  * [Adaptive Articulated Object Manipulation On The Fly with Foundation Model Reasoning and Part Grounding](https://arxiv.org/pdf/2507.18276v1)
 * SLAM
   * [Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps](https://arxiv.org/pdf/2507.03737v1)<br>:star:[code](https://3dagentworld.github.io/S3PO-GS/)
+
 
 ## Human-Object Interaction Detection(人机交互)
 * [Prompt Guidance and Human Proximal Perception for HOT Prediction with Regional Joint Loss](https://arxiv.org/pdf/2507.01630v1)<br>:star:[code](https://github.com/YuxiaoWang-AI/P3HOT)
@@ -229,6 +244,7 @@
   * [Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction](http://arxiv.org/pdf/2506.21401v1)<br>:star:[code](https://github.com/zhirui-gao/Curve-Gaussian)
   * [InstaScene: Towards Complete 3D Instance Decomposition and Reconstruction from Cluttered Scenes](https://arxiv.org/pdf/2507.08416v1)<br>:star:[code](https://zju3dv.github.io/instascene/)
   * [MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction](https://arxiv.org/pdf/2507.15212v1)
+  * [LONG3R: Long Sequence Streaming 3D Reconstruction](https://arxiv.org/pdf/2507.18255v1)<br>:star:[code](https://zgchen33.github.io/LONG3R/)
 * 场景重建
   * [BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting](http://arxiv.org/pdf/2506.22099v1)<br>:star:[code](https://github.com/fudan-zvg/BezierGS)
   * [ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting](https://arxiv.org/pdf/2507.15454v1)<br>:star:[code](https://ruijiezhu94.github.io/ObjectGS_page)
@@ -310,6 +326,9 @@
 
 
 
+
+
+
 ## Object Detection(目标检测) 
 * [DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic](http://arxiv.org/pdf/2506.21260v1)
 * [Visual Textualization for Image Prompted Object Detection](https://arxiv.org/pdf/2506.23785v1)<br>:star:[code](https://github.com/WitGotFlg/VisTex-OVLM)
@@ -317,14 +336,18 @@
 * [PBCAT: Patch-based composite adversarial training against physically realizable attacks on object detection](https://arxiv.org/pdf/2506.23581v1)
 * [UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement](https://arxiv.org/pdf/2507.00721v1)<br>:star:[code](https://github.com/AMAP-ML/UPRE)
 * [SFUOD: Source-Free Unknown Object Detection](https://arxiv.org/pdf/2507.17373v1)
+* [LMM-Det: Make Large Multimodal Models Excel in Object Detection](https://arxiv.org/pdf/2507.18300v1)<br>:star:[code](https://github.com/360CVGroup/LMM-Det)
 * 三维目标检测
   * [OcRFDet: Object-Centric Radiance Fields for Multi-View 3D Object Detection in Autonomous Driving](https://arxiv.org/pdf/2506.23565v1)<br>:star:[code](https://github.com/Mingqj/OcRFDet)
   * [MambaFusion: Height-Fidelity Dense Global Fusion for Multi-modal 3D Object Detection](https://arxiv.org/pdf/2507.04369v1)
   * [Perspective-Invariant 3D Object Detection](https://arxiv.org/pdf/2507.17665v1)<br>:star:[code](https://pi3det.github.io)
+  * [Boosting Multi-View Indoor 3D Object Detection via Adaptive 3D Volume Construction](https://arxiv.org/pdf/2507.18331v1)<br>:star:[code](https://github.com/RM-Zhang/SGCDet)
 * 域适应目标检测
   * [Boosting Domain Generalized and Adaptive Detection with Diffusion Models: Fitness, Generalization, and Transferability](http://arxiv.org/pdf/2506.21042v1)<br>:star:[code](https://github.com/heboyong/Fitness-Generalization-Transferability)
 * 开放词汇目标检测
   * [Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection](https://arxiv.org/pdf/2507.17436v1)
+* 可见光红外目标检测
+  * [WaveMamba: Wavelet-Driven Mamba Fusion for RGB-Infrared Object Detection](https://arxiv.org/pdf/2507.18173v1)
 
 ## Biometrics
 * [DisenQ: Disentangling Q-Former for Activity-Biometrics](https://arxiv.org/pdf/2507.07262v1)
@@ -344,6 +367,8 @@
   * [CanonSwap: High-Fidelity and Consistent Video Face Swapping via Canonical Space Modulation](https://arxiv.org/abs/2507.02691)<br>:house:[project](https://luoxyhappy.github.io/CanonSwap/)
 * 活体检测
   * [Group-wise Scaling and Orthogonal Decomposition for Domain-Invariant Feature Extraction in Face Anti-Spoofing](https://arxiv.org/pdf/2507.04006v1)<br>:star:[code](https://github.com/SeungjinJung/GD-FAS)
+* 3D头部数字人生成
+  * [GeoAvatar: Adaptive Geometrical Gaussian Splatting for 3D Head Avatar](https://arxiv.org/pdf/2507.18155v1)<br>:star:[code](https://hahminlew.github.io/geoavatar/)
 
 ## Medical Image Progress(医学图像处理)
 * [Is Visual in-Context Learning for Compositional Medical Tasks within Reach?](https://arxiv.org/pdf/2507.00868v1)
@@ -410,9 +435,11 @@
 * 文本-图像
   * [Rethink Sparse Signals for Pose-guided Text-to-image Generation](http://arxiv.org/pdf/2506.20983v1)<br>:star:[code](https://github.com/DREAMXFAR/SP-Ctrl)
   * [CharaConsist: Fine-Grained Consistent Character Generation](https://arxiv.org/pdf/2507.11533v1)<br>:star:[code](https://murray-wang.github.io/CharaConsist/)<br>:star:[code](https://github.com/Murray-Wang/CharaConsist)
+  * [TeEFusion: Blending Text Embeddings to Distill Classifier-Free Guidance](https://arxiv.org/pdf/2507.18192v1)<br>:star:[code](https://github.com/AIDC-AI/TeEFusion)
 * 视频合成
   * [Causal-Entity Reflected Egocentric Traffic Accident Video Synthesis](https://arxiv.org/pdf/2506.23263v1)
   * [Democratizing High-Fidelity Co-Speech Gesture Video Generation](https://arxiv.org/pdf/2507.06812v1)
+  * [Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis](https://arxiv.org/pdf/2507.18569v1)
 * 图像编辑
   * [ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation](https://arxiv.org/pdf/2507.01496v1)<br>:star:[code](https://wlaud1001.github.io/ReFlex/)
   * [ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation](https://arxiv.org/pdf/2507.07317v1)
