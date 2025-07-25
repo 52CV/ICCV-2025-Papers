@@ -26,23 +26,27 @@
 
 
 
-## 7月23日更新 9 篇，共计 251+9 篇。
-* [Task-Specific Zero-shot Quantization-Aware Training for Object Detection](https://arxiv.org/pdf/2507.16782v1)<br>:star:[code](https://github.com/DFQ-Dojo/dfq-toolkit)
-* [Local Dense Logit Relations for Enhanced Knowledge Distillation](https://arxiv.org/pdf/2507.15911v1)
-* [ReasonVQA: A Multi-hop Reasoning Benchmark with Structural Knowledge for Visual Question Answering](https://arxiv.org/pdf/2507.16403v1)
-* [Beyond Label Semantics: Language-Guided Action Anatomy for Few-shot Action Recognition](https://arxiv.org/pdf/2507.16287v1)
-* [Advancing Visual Large Language Model for Multi-granular Versatile Perception](https://arxiv.org/pdf/2507.16213v1)<br>:star:[code](https://github.com/xiangwentao666/MVP-LM)
-* [M-SpecGene: Generalized Foundation Model for RGBT Multispectral Vision](https://arxiv.org/pdf/2507.16318v1)<br>:star:[code](https://github.com/CalayZhou/M-SpecGene)
-* [Scale Your Instructions: Enhance the Instruction-Following Fidelity of Unified Image Generation Model by Self-Adaptive Attention Scaling](https://arxiv.org/pdf/2507.16240v1)<br>:star:[code](https://github.com/zhouchao-ops/SaaS)
-* [Is Tracking really more challenging in First Person Egocentric Vision?](https://arxiv.org/pdf/2507.16015v1)
-* [One Polyp Identifies All: One-Shot Polyp Segmentation with SAM via Cascaded Priors and Iterative Prompt Evolution](https://arxiv.org/pdf/2507.16337v1)
-
+## 7月24日更新 13 篇，共计 260+13 篇。
+* [Monocular Semantic Scene Completion via Masked Recurrent Networks](https://arxiv.org/pdf/2507.17661v1)<br>:star:[code](https://github.com/alanWXZ/MonoMRN)
+* [InvRGB+L: Inverse Rendering of Complex Scenes with Unified Color and LiDAR Reflectance Modeling](https://arxiv.org/pdf/2507.17613v1)
+* [Dataset Distillation as Data Compression: A Rate-Utility Perspective](https://arxiv.org/pdf/2507.17221v1)
+* [CasP: Improving Semi-Dense Feature Matching Pipeline Leveraging Cascaded Correspondence Priors for Guidance](https://arxiv.org/pdf/2507.17312v1)<br>:star:[code](https://github.com/pq-chen/CasP)
+* [Toward Long-Tailed Online Anomaly Detection through Class-Agnostic Concepts](https://arxiv.org/pdf/2507.16946v1)<br>:house:[project](https://doi.org/10.5281/zenodo.16283852)
+* [Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection](https://arxiv.org/pdf/2507.17436v1)
+* [Perspective-Invariant 3D Object Detection](https://arxiv.org/pdf/2507.17665v1)<br>:star:[code](https://pi3det.github.io)
+* [SFUOD: Source-Free Unknown Object Detection](https://arxiv.org/pdf/2507.17373v1)
+* [HLFormer: Enhancing Partially Relevant Video Retrieval with Hyperbolic Learning](https://arxiv.org/pdf/2507.17402v1)<br>:star:[code](https://github.com/lijun2005/ICCV25-HLFormer)
+* [CNS-Bench: Benchmarking Image Classifier Robustness Under Continuous Nuisance Shifts](https://arxiv.org/pdf/2507.17651v1)<br>:star:[code](https://genintel.github.io/CNS)
+* [PARTE: Part-Guided Texturing for 3D Human Reconstruction from a Single Image](https://arxiv.org/pdf/2507.17332v1)<br>:star:[code](https://hygenie1228.github.io/PARTE/)
+* [Large Learning Rates Simultaneously Achieve Robustness to Spurious Correlations and Compressibility](https://arxiv.org/pdf/2507.17748v1)
+* [Joint Asymmetric Loss for Learning with Noisy Labels](https://arxiv.org/pdf/2507.17692v1)<br>:star:[code](https://github.com/cswjl/joint-asymmetric-loss)
 
 ## 计算成像
 * [Single-Scanline Relative Pose Estimation for Rolling Shutter Cameras](http://arxiv.org/pdf/2506.22069v1)
 
 ## Feature Matching(特征匹配)
 * [Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching](https://arxiv.org/pdf/2507.10318v1)
+* [CasP: Improving Semi-Dense Feature Matching Pipeline Leveraging Cascaded Correspondence Priors for Guidance](https://arxiv.org/pdf/2507.17312v1)<br>:star:[code](https://github.com/pq-chen/CasP)
 
 ## Dense Prediction
 * [Frequency-Dynamic Attention Modulation for Dense Prediction](https://arxiv.org/pdf/2507.12006v1)<br>:star:[code](https://github.com/Linwei-Chen/FDAM)
@@ -67,6 +71,7 @@
 * 数据蒸馏
   * [CaO$_2$: Rectifying Inconsistencies in Diffusion-Based Dataset Distillation](https://arxiv.org/pdf/2506.22637v1)<br>:star:[code](https://github.com/hatchetProject/CaO2)
   * [Dataset Distillation via Vision-Language Category Prototype](https://arxiv.org/pdf/2506.23580v1)<br>:star:[code](https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/)
+  * [Dataset Distillation as Data Compression: A Rate-Utility Perspective](https://arxiv.org/pdf/2507.17221v1)
 
 ## Neural Radiance Fields
 * [UnMix-NeRF: Spectral Unmixing Meets Neural Radiance Fields](http://arxiv.org/pdf/2506.21884v1)<br>:house:[project](https://www.factral.co/UnMix-NeRF)
@@ -74,6 +79,8 @@
 * [DiSCO-3D : Discovering and segmenting Sub-Concepts from Open-vocabulary queries in NeRF](https://arxiv.org/pdf/2507.14596v1)
 * [A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields](https://arxiv.org/pdf/2507.04408v1)
 * [NeuraLeaf: Neural Parametric Leaf Models with Shape and Deformation Disentanglement](https://arxiv.org/pdf/2507.12714v1)<br>:star:[code](https://neuraleaf-yang.github.io/)
+* 渲染
+  * [InvRGB+L: Inverse Rendering of Complex Scenes with Unified Color and LiDAR Reflectance Modeling](https://arxiv.org/pdf/2507.17613v1)
 
 ## Vision Language
 * [NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2506.23468v1)<br>:star:[code](https://github.com/Feliciaxyao/NavMorph)
@@ -129,6 +136,8 @@
 ##
 * [Gradient Short-Circuit: Efficient Out-of-Distribution Detection via Feature Intervention](https://arxiv.org/pdf/2507.01417v1)
 * [NegRefine: Refining Negative Label-Based Zero-Shot OOD Detection](https://arxiv.org/pdf/2507.09795v1)<br>:star:[code](https://github.com/ah-ansari/NegRefine)
+* 异常检测
+  * [Toward Long-Tailed Online Anomaly Detection through Class-Agnostic Concepts](https://arxiv.org/pdf/2507.16946v1)<br>:house:[project](https://doi.org/10.5281/zenodo.16283852)
 
 ##
 * 零样本
@@ -240,6 +249,7 @@
 * Semantic Scene Completion(语义场景补全)
   * [Feed-Forward SceneDINO for Unsupervised Semantic Scene Completion](https://arxiv.org/pdf/2507.06230v1)<br>:star:[code](https://visinf.github.io/scenedino)<br>:star:[code](https://github.com/tum-vision/scenedino)
   * [Disentangling Instance and Scene Contexts for 3D Semantic Scene Completion](https://arxiv.org/pdf/2507.08555v1)<br>:star:[code](https://github.com/Enyu-Liu/DISC)
+  * [Monocular Semantic Scene Completion via Masked Recurrent Networks](https://arxiv.org/pdf/2507.17661v1)<br>:star:[code](https://github.com/alanWXZ/MonoMRN)
 
 ## UAV/RS/Satellite Image(无人机/遥感/卫星图像)
 * [Cross-modal Ship Re-Identification via Optical and SAR Imagery: A Novel Dataset and Method](http://arxiv.org/pdf/2506.22027v1)<br>:star:[code](https://github.com/Alioth2000/Hoss-ReID)
@@ -287,6 +297,9 @@
 * 人体运动分割
   * [Temporal Rate Reduction Clustering for Human Motion Segmentation](http://arxiv.org/pdf/2506.21249v1)
 
+## pose
+* 人体重建
+  * [PARTE: Part-Guided Texturing for 3D Human Reconstruction from a Single Image](https://arxiv.org/pdf/2507.17332v1)<br>:star:[code](https://hygenie1228.github.io/PARTE/)
 
 ## Object Track
 * [SpatialTrackerV2: 3D Point Tracking Made Easy](https://arxiv.org/pdf/2507.12462v1)<br>:house:[project](https://huggingface.co/spaces/Yuxihenry/SpatialTrackerV2)<br>:star:[code](https://github.com/henry123-boy/SpaTrackerV2)
@@ -295,17 +308,23 @@
 * [What You Have is What You Track: Adaptive and Robust Multimodal Tracking](https://arxiv.org/pdf/2507.05899v1)<br>:star:[code](https://github.com/supertyd/FlexTrack/tree/main)
 * [Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking](https://arxiv.org/pdf/2507.07483v1)
 
+
+
 ## Object Detection(目标检测) 
 * [DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic](http://arxiv.org/pdf/2506.21260v1)
 * [Visual Textualization for Image Prompted Object Detection](https://arxiv.org/pdf/2506.23785v1)<br>:star:[code](https://github.com/WitGotFlg/VisTex-OVLM)
 * [Task-Specific Zero-shot Quantization-Aware Training for Object Detection](https://arxiv.org/pdf/2507.16782v1)<br>:star:[code](https://github.com/DFQ-Dojo/dfq-toolkit)
 * [PBCAT: Patch-based composite adversarial training against physically realizable attacks on object detection](https://arxiv.org/pdf/2506.23581v1)
 * [UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement](https://arxiv.org/pdf/2507.00721v1)<br>:star:[code](https://github.com/AMAP-ML/UPRE)
+* [SFUOD: Source-Free Unknown Object Detection](https://arxiv.org/pdf/2507.17373v1)
 * 三维目标检测
   * [OcRFDet: Object-Centric Radiance Fields for Multi-View 3D Object Detection in Autonomous Driving](https://arxiv.org/pdf/2506.23565v1)<br>:star:[code](https://github.com/Mingqj/OcRFDet)
   * [MambaFusion: Height-Fidelity Dense Global Fusion for Multi-modal 3D Object Detection](https://arxiv.org/pdf/2507.04369v1)
+  * [Perspective-Invariant 3D Object Detection](https://arxiv.org/pdf/2507.17665v1)<br>:star:[code](https://pi3det.github.io)
 * 域适应目标检测
   * [Boosting Domain Generalized and Adaptive Detection with Diffusion Models: Fitness, Generalization, and Transferability](http://arxiv.org/pdf/2506.21042v1)<br>:star:[code](https://github.com/heboyong/Fitness-Generalization-Transferability)
+* 开放词汇目标检测
+  * [Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection](https://arxiv.org/pdf/2507.17436v1)
 
 ## Biometrics
 * [DisenQ: Disentangling Q-Former for Activity-Biometrics](https://arxiv.org/pdf/2507.07262v1)
@@ -344,12 +363,15 @@
   * [One Polyp Identifies All: One-Shot Polyp Segmentation with SAM via Cascaded Priors and Iterative Prompt Evolution](https://arxiv.org/pdf/2507.16337v1)
 
 ## Image/Video Retrieval(图像/视频检索)
+* 视频检索
+  * [HLFormer: Enhancing Partially Relevant Video Retrieval with Hyperbolic Learning](https://arxiv.org/pdf/2507.17402v1)<br>:star:[code](https://github.com/lijun2005/ICCV25-HLFormer)
 * 文本-视频检索
   * [Quantifying and Narrowing the Unknown: Interactive Text-to-Video Retrieval via Uncertainty Minimization](https://arxiv.org/pdf/2507.15504v1)
 
 ## Image Classification(图像分类)
 * [Generate, Refine, and Encode: Leveraging Synthesized Novel Samples for On-the-Fly Fine-Grained Category Discovery](https://arxiv.org/pdf/2507.04051v1)
 * [Competitive Distillation: A Simple Learning Strategy for Improving Visual Classification](https://arxiv.org/pdf/2506.23285v1)
+* [CNS-Bench: Benchmarking Image Classifier Robustness Under Continuous Nuisance Shifts](https://arxiv.org/pdf/2507.17651v1)<br>:star:[code](https://genintel.github.io/CNS)
 
 ## Image Segmentation(图像分割)
 * [SAM4D: Segment Anything in Camera and LiDAR Streams](http://arxiv.org/pdf/2506.21547v1)<br>:star:[code](https://SAM4D-Project.github.io)
@@ -478,6 +500,8 @@
 * [Open-set Cross Modal Generalization via Multimodal Unified Representation](https://arxiv.org/pdf/2507.14935v1)<br>:star:[code](https://github.com/haihuangcode/CMG)
 * [FreeCus: Free Lunch Subject-driven Customization in Diffusion Transformers](https://arxiv.org/pdf/2507.15249v1)<br>:star:[code](https://github.com/Monalissaa/FreeCus)
 * [M-SpecGene: Generalized Foundation Model for RGBT Multispectral Vision](https://arxiv.org/pdf/2507.16318v1)<br>:star:[code](https://github.com/CalayZhou/M-SpecGene)
+* [Large Learning Rates Simultaneously Achieve Robustness to Spurious Correlations and Compressibility](https://arxiv.org/pdf/2507.17748v1)
+* [Joint Asymmetric Loss for Learning with Noisy Labels](https://arxiv.org/pdf/2507.17692v1)<br>:star:[code](https://github.com/cswjl/joint-asymmetric-loss)
 
 ## 2020 年论文分类汇总戳这里
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers) 
