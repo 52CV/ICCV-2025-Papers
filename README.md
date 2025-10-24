@@ -26,31 +26,210 @@
 
 
 
-## 10月21日更新 17 篇，共计 433+17 篇。
+## 10月24日更新 177 篇，共计 450+177 篇。
+* [SummDiff Generative Modeling of Video Summarization with Diffusion](http://arxiv.org/abs/2510.08458)
+* [VideoLLaMB Long Streaming Video Understanding with Recurrent Memory Bridges](http://arxiv.org/abs/2409.01071)
+* [HiERO Understanding the Hierarchy of Human Behavior Enhances Reasoning on Egocentric Videos](http://arxiv.org/abs/2505.12911)
+* [FVGen Accelerating Novel-View Synthesis with Adversarial Video Diffusion Distillation](http://arxiv.org/abs/2508.06392)
+* [Open-Vocabulary Octree-Graph for 3D Scene Understanding](http://arxiv.org/abs/2411.16253)<br>:star:[code](https://github.com/yifeisu/OV-Octree-Graph)
+* [FlexGen Flexible Multi-View Generation from Text and Image Inputs](http://arxiv.org/abs/2410.10745)
+* [OminiControl Minimal and Universal Control for Diffusion Transformer](http://arxiv.org/abs/2411.15098)
+* [Zeroth-Order Fine-Tuning of LLMs in Random Subspaces](http://arxiv.org/abs/2410.08989)<br>:star:[code](https://github.com/zimingyy/SubZero)
+* [Pinco Position-induced Consistent Adapter for Diffusion Transformer in Foreground-conditioned Inpainting](http://arxiv.org/abs/2412.03812)
+* [SyncDiff Synchronized Motion Diffusion for Multi-Body Human-Object Interaction Synthesis](http://arxiv.org/abs/2412.20104)
+* [GSOT3D Towards Generic 3D Single Object Tracking in the Wild](http://arxiv.org/abs/2412.02129)<br>:star:[code](https://github.com/ailovejinx/GSOT3D)
+* [UnZipLoRA Separating Content and Style from a Single Image](http://arxiv.org/abs/2412.04465)
+* [FlowDPS  Flow-Driven Posterior Sampling for Inverse Problems](http://arxiv.org/abs/2503.08136)
+* [Closed-Loop Transfer for Weakly-supervised Affordance Grounding](https://openaccess.thecvf.com/content/ICCV2025/papers/Tang_Closed-Loop_Transfer_for_Weakly-supervised_Affordance_Grounding_ICCV_2025_paper.pdf)
+* [ReconDreamer Harmonizing Generative and Reconstructive Models for Driving Scene Representation](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhao_ReconDreamer_Harmonizing_Generative_and_Reconstructive_Models_for_Driving_Scene_Representation_ICCV_2025_paper.pdf)
+* [AdaDCP Learning an Adapter with Discrete Cosine Prior for Clear-to-Adverse Domain Generalization](https://openaccess.thecvf.com/content/ICCV2025/papers/Bi_AdaDCP_Learning_an_Adapter_with_Discrete_Cosine_Prior_for_Clear-to-Adverse_ICCV_2025_paper.pdf)
+* [HERMES A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation](http://arxiv.org/abs/2501.14729)<br>:star:[code](https://github.com/LMD0311/HERMES)
+* [Enhancing Image Restoration Transformer via Adaptive Translation Equivariance](http://arxiv.org/abs/2506.18520)
+* [ScenePainter Semantically Consistent Perpetual 3D Scene Generation with Concept Relation Alignment](http://arxiv.org/abs/2507.19058)
+* [Free4D Tuning-free 4D Scene Generation with Spatial-Temporal Consistency](http://arxiv.org/abs/2503.20785)
+* [Generative Zoo](http://arxiv.org/abs/2412.08101)
+* [Instruction-Oriented Preference Alignment for Enhancing Multi-Modal Comprehension Capability of MLLMs](http://arxiv.org/abs/2503.20309)
+* [RapVerse Coherent Vocals and Whole-Body Motion Generation from Text](http://arxiv.org/abs/2405.20336)
+* [MoFRR Mixture of Diffusion Models for Face Retouching Restoration](http://arxiv.org/abs/2507.19770)
+* [SFUOD Source-Free Unknown Object Detection](http://arxiv.org/abs/2507.17373)
+* [Event-based Tiny Object Detection A Benchmark Dataset and Baseline](http://arxiv.org/abs/2506.23575)
+* [ESCNetEdge-Semantic Collaborative Network for Camouflaged Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Ye_ESCNetEdge-Semantic_Collaborative_Network_for_Camouflaged_Object_Detection_ICCV_2025_paper.pdf)
+* [UniEgoMotion A Unified Model for Egocentric Motion Reconstruction Forecasting and Generation](http://arxiv.org/abs/2508.01126)
+* [ToolVQA A Dataset for Multi-step Reasoning VQA with External Tools](http://arxiv.org/abs/2508.03284)<br>:star:[code](https://github.com/Fugtemypt123/ToolVQA-release)
+* [PixelStitch Structure-Preserving Pixel-Wise Bidirectional Warps for Unsupervised Image Stitching](https://openaccess.thecvf.com/content/ICCV2025/papers/Jin_PixelStitch_Structure-Preserving_Pixel-Wise_Bidirectional_Warps_for_Unsupervised_Image_Stitching_ICCV_2025_paper.pdf)
+* [Ross3D Reconstructive Visual Instruction Tuning with 3D-Awareness](http://arxiv.org/abs/2504.01901)
+* [LVFace Progressive Cluster Optimization for Large Vision Models in Face Recognition](http://arxiv.org/abs/2501.13420)<br>:star:[code](https://github.com/bytedance/LVFace)
+* [VLR-Driver Large Vision-Language-Reasoning Models for Embodied Autonomous Driving](https://openaccess.thecvf.com/content/ICCV2025/papers/Kong_VLR-Driver_Large_Vision-Language-Reasoning_Models_for_Embodied_Autonomous_Driving_ICCV_2025_paper.pdf)
+* [ResGS Residual Densification of 3D Gaussian for Efficient Detail Recovery](http://arxiv.org/abs/2412.07494)
+* [Language Driven Occupancy Prediction](http://arxiv.org/abs/2411.16072)
+* [E-NeMF Event-based Neural Motion Field for Novel Space-time View Synthesis of Dynamic Scenes](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_E-NeMF_Event-based_Neural_Motion_Field_for_Novel_Space-time_View_Synthesis_ICCV_2025_paper.pdf)
+* [Optimal Transport for Brain-Image Alignment Unveiling Redundancy and Synergy in Neural Information Processing](http://arxiv.org/abs/2503.10663)<br>:star:[code](https://github.com/NKUShaw/OT-Alignment4brain-to-image)
+* [Erasing More Than Intended How Concept Erasure Degrades the Generation of Non-Target Concepts](http://arxiv.org/abs/2501.09833)
+-----------------------------------------------------
+* [From Gaze to Movement Predicting Visual Attention for Autonomous Driving Human-Machine Interaction based on Programmatic Imitation Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Huang_From_Gaze_to_Movement_Predicting_Visual_Attention_for_Autonomous_Driving_ICCV_2025_paper.pdf)
+* [Unsupervised RGB-D Point Cloud Registration for Scenes with Low Overlap and Photometric Inconsistency](https://openaccess.thecvf.com/content/ICCV2025/papers/Shou_Unsupervised_RGB-D_Point_Cloud_Registration_for_Scenes_with_Low_Overlap_ICCV_2025_paper.pdf)
+* [MM-IFEngine Towards Multimodal Instruction Following](https://openaccess.thecvf.com/content/ICCV2025/papers/Ding_MM-IFEngine_Towards_Multimodal_Instruction_Following_ICCV_2025_paper.pdf)
+* [ROADWork A Dataset and Benchmark for Learning to Recognize Observe Analyze and Drive Through Work Zones](https://openaccess.thecvf.com/content/ICCV2025/papers/Ghosh_ROADWork_A_Dataset_and_Benchmark_for_Learning_to_Recognize_Observe_ICCV_2025_paper.pdf)
+* [Gradient Decomposition and Alignment for Incremental Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Luo_Gradient_Decomposition_and_Alignment_for_Incremental_Object_Detection_ICCV_2025_paper.pdf)
+* [Why LVLMs Are More Prone to Hallucinations in Longer Responses The Role of Context](https://openaccess.thecvf.com/content/ICCV2025/papers/Zheng_Why_LVLMs_Are_More_Prone_to_Hallucinations_in_Longer_Responses_ICCV_2025_paper.pdf)
+* [VisionMath Vision-Form Mathematical Problem-Solving](https://openaccess.thecvf.com/content/ICCV2025/papers/Ma_VisionMath_Vision-Form_Mathematical_Problem-Solving_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/mengqiDyangge/VisionMath)
+* [Demeter A Parametric Model of Crop Plant Morphology from the Real World](https://openaccess.thecvf.com/content/ICCV2025/papers/Cheng_Demeter_A_Parametric_Model_of_Crop_Plant_Morphology_from_the_ICCV_2025_paper.pdf)
+* [Automated Red Teaming for Text-to-Image Models through Feedback-Guided Prompt Iteration with Vision-Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Xu_Automated_Red_Teaming_for_Text-to-Image_Models_through_Feedback-Guided_Prompt_Iteration_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/Weiww-Xu/FGPI)
+* [CoA-VLA Improving Vision-Language-Action Models via Visual-Text Chain-of-Affordance](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_CoA-VLA_Improving_Vision-Language-Action_Models_via_Visual-Text_Chain-of-Affordance_ICCV_2025_paper.pdf)
+* [ZFusion Efficient Deep Compositional Zero-shot Learning for Blind Image Super-Resolution with Generative Diffusion Prior](https://openaccess.thecvf.com/content/ICCV2025/papers/Esmaeilzehi_ZFusion_Efficient_Deep_Compositional_Zero-shot_Learning_for_Blind_Image_Super-Resolution_ICCV_2025_paper.pdf)
+* [Head2Body Body Pose Generation from Multi-sensory Head-mounted Inputs](https://openaccess.thecvf.com/content/ICCV2025/papers/Tran_Head2Body_Body_Pose_Generation_from_Multi-sensory_Head-mounted_Inputs_ICCV_2025_paper.pdf)
+* [PAN-Crafter Learning Modality-Consistent Alignment for PAN-Sharpening](https://openaccess.thecvf.com/content/ICCV2025/papers/Do_PAN-Crafter_Learning_Modality-Consistent_Alignment_for_PAN-Sharpening_ICCV_2025_paper.pdf)
+* [CoStoDet-DDPM Collaborative Training of Stochastic and Deterministic Models Improves Surgical Workflow Anticipation and Recognition](https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_CoStoDet-DDPM_Collaborative_Training_of_Stochastic_and_Deterministic_Models_Improves_Surgical_ICCV_2025_paper.pdf)
+* [RareCLIP Rarity-aware Online Zero-shot Industrial Anomaly Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/He_RareCLIP_Rarity-aware_Online_Zero-shot_Industrial_Anomaly_Detection_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/hjf02/RareCLIP)
+* [ArgMatch Adaptive Refinement Gathering for Efficient Dense Matching](https://openaccess.thecvf.com/content/ICCV2025/papers/Deng_ArgMatch_Adaptive_Refinement_Gathering_for_Efficient_Dense_Matching_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/ACuOoOoO/argmatch)
+* [Any-SSR How Recursive Least Squares Works in Continual Learning of Large Language Model](https://openaccess.thecvf.com/content/ICCV2025/papers/Tong_Any-SSR_How_Recursive_Least_Squares_Works_in_Continual_Learning_of_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/ZHUANGHP/Any-SSR)
+* [Spherical Epipolar Rectification for Deep Two-View Absolute Depth Estimation](https://openaccess.thecvf.com/content/ICCV2025/papers/Brousseau_Spherical_Epipolar_Rectification_for_Deep_Two-View_Absolute_Depth_Estimation_ICCV_2025_paper.pdf)
+* [SANA-Sprint One-Step Diffusion with Continuous-Time Consistency Distillation](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_SANA-Sprint_One-Step_Diffusion_with_Continuous-Time_Consistency_Distillation_ICCV_2025_paper.pdf)
+* [Prior2Former - Evidential Modeling of Mask Transformers for Assumption-Free Open-World Panoptic Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Schmidt_Prior2Former_-_Evidential_Modeling_of_Mask_Transformers_for_Assumption-Free_Open-World_ICCV_2025_paper.pdf)
+-------------------------------------------------------------------------------------------------
+* [Scaling Action Detection AdaTAD with Transformer-Enhanced Temporal-Spatial Adaptation](https://openaccess.thecvf.com/content/ICCV2025/papers/Agrawal_Scaling_Action_Detection_AdaTAD_with_Transformer-Enhanced_Temporal-Spatial_Adaptation_ICCV_2025_paper.pdf)
+* [MMAD Multi-label Micro-Action Detection in Videos](http://arxiv.org/abs/2407.05311)<br>:star:[code](https://github.com/VUT-HFUT/Micro-Action)
+* [DyGS-SLAM Real-Time Accurate Localization and Gaussian Reconstruction for Dynamic Scenes](https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_DyGS-SLAM_Real-Time_Accurate_Localization_and_Gaussian_Reconstruction_for_Dynamic_Scenes_ICCV_2025_paper.pdf)
+* [4D Gaussian Splatting SLAM](http://arxiv.org/abs/2503.16710)
+* [ToF-Splatting Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration](https://openaccess.thecvf.com/content/ICCV2025/papers/Conti_ToF-Splatting_Dense_SLAM_using_Sparse_Time-of-Flight_Depth_and_Multi-Frame_Integration_ICCV_2025_paper.pdf)
+* [Benchmarking Egocentric Visual-Inertial SLAM at City Scale](http://arxiv.org/abs/2509.26639)
+* [SuperEvent Cross-Modal Learning of Event-based Keypoint Detection for SLAM](http://arxiv.org/abs/2504.00139)<br>:house:[project](https://ethz-mrl.github.io/SuperEvent)
+* [SEGS-SLAM Structure-enhanced 3D Gaussian Splatting SLAM with Appearance Embedding](https://openaccess.thecvf.com/content/ICCV2025/papers/Wen_SEGS-SLAM_Structure-enhanced_3D_Gaussian_Splatting_SLAM_with_Appearance_Embedding_ICCV_2025_paper.pdf)<br>:house:[project](https://segs-slam.github.io/)
+* [Underwater Visual SLAM with Depth Uncertainty and Medium Modeling](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Underwater_Visual_SLAM_with_Depth_Uncertainty_and_Medium_Modeling_ICCV_2025_paper.pdf)
+-------------------------------------------------------------------------------
+* [Learning Precise Affordances from Egocentric Videos for Robotic Manipulation](http://arxiv.org/abs/2408.10123)<br>:house:[project](https://reagan1311.github.io/affgrasp)
+* [iManip Skill-Incremental Learning for Robotic Manipulation](http://arxiv.org/abs/2503.07087)
+* [RoBridge A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation](http://arxiv.org/abs/2505.01709)
+* [EC-Flow Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_EC-Flow_Enabling_Versatile_Robotic_Manipulation_from_Action-Unlabeled_Videos_via_Embodiment-Centric_ICCV_2025_paper.pdf)<br>:house:[project](https://ec-flow1.github.io/)
+* [A0 An Affordance-Aware Hierarchical Model for General Robotic Manipulation](http://arxiv.org/abs/2504.12636)
+* [Rethinking Bimanual Robotic Manipulation Learning with Decoupled Interaction Framework](http://arxiv.org/abs/2503.09186)
+* [GWM Towards Scalable Gaussian World Models for Robotic Manipulation](http://arxiv.org/abs/2508.17600)
+-----------------------------------------------------------------------------------
+* [Embodied Navigation with Auxiliary Task of Action Description Prediction](https://openaccess.thecvf.com/content/ICCV2025/papers/Kondoh_Embodied_Navigation_with_Auxiliary_Task_of_Action_Description_Prediction_ICCV_2025_paper.pdf)
+* [EmbodiedSplat Personalized Real-to-Sim-to-Real Navigation with Gaussian Splats from a Mobile Device](http://arxiv.org/abs/2509.17430)<br>:house:[project](https://gchhablani.github.io/embodied-splat)
+* [GUIOdyssey A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices](http://arxiv.org/abs/2406.08451)
+* [Learning on the Go A Meta-learning Object Navigation Model](https://openaccess.thecvf.com/content/ICCV2025/papers/Qin_Learning_on_the_Go_A_Meta-learning_Object_Navigation_Model_ICCV_2025_paper.pdf)
+* [RoboTrom-Nav A Unified Framework for Embodied Navigation Integrating Perception Planning and Prediction](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhong_RoboTrom-Nav_A_Unified_Framework_for_Embodied_Navigation_Integrating_Perception_Planning_ICCV_2025_paper.pdf)
+* [MoMa-Kitchen A 100K Benchmark for Affordance-Grounded Last-Mile Navigation in Mobile Manipulation](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_MoMa-Kitchen_A_100K_Benchmark_for_Affordance-Grounded_Last-Mile_Navigation_in_Mobile_ICCV_2025_paper.pdf)
+* [Active Perception Meets Rule-Guided RL A Two-Phase Approach for Precise Object Navigation in Complex Environments](https://openaccess.thecvf.com/content/ICCV2025/papers/Qin_Active_Perception_Meets_Rule-Guided_RL_A_Two-Phase_Approach_for_Precise_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/qinliangql/APRR)
+* [SAME Learning Generic Language-Guided Visual Navigation with State-Adaptive Mixture of Experts](http://arxiv.org/abs/2412.05552)
+* [Collaborative Instance Object Navigation Leveraging Uncertainty-Awareness to Minimize Human-Agent Dialogues](http://arxiv.org/abs/2412.01250)
+* [CogNav Cognitive Process Modeling for Object Goal Navigation with LLMs](http://arxiv.org/abs/2412.10439)
+* [DialNav Multi-turn Dialog Navigation with a Remote Guide](http://arxiv.org/abs/2509.12894)<br>:house:[project](https://happilee12.github.io/DialNav)
+* [monoVLN Bridging the Observation Gap between Monocular and Panoramic Vision and Language Navigation](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_monoVLN_Bridging_the_Observation_Gap_between_Monocular_and_Panoramic_Vision_ICCV_2025_paper.pdf)
+* [Moto Latent Motion Token as the Bridging Language for Learning Robot Manipulation from Videos](http://arxiv.org/abs/2412.04445)
+* [IRASim A Fine-Grained World Model for Robot Manipulation](http://arxiv.org/abs/2406.14540)<br>:house:[project](https://gen-irasim.github.io/)
+* [G-DexGrasp Generalizable Dexterous Grasping Synthesis Via Part-Aware Prior Retrieval and Prior-Assisted Generation](https://openaccess.thecvf.com/content/ICCV2025/papers/Jian_G-DexGrasp_Generalizable_Dexterous_Grasping_Synthesis_Via_Part-Aware_Prior_Retrieval_and_ICCV_2025_paper.pdf)
+* [DexH2R A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover](http://arxiv.org/abs/2506.23152)
+* [OVA-Fields Weakly Supervised Open-Vocabulary Affordance Fields for Robot Operational Part Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Su_OVA-Fields_Weakly_Supervised_Open-Vocabulary_Affordance_Fields_for_Robot_Operational_Part_ICCV_2025_paper.pdf)
+* [Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control](http://arxiv.org/abs/2505.15304)
+* [Learning 4D Embodied World Models](http://arxiv.org/abs/2504.20995)
+* [RobAVA A Large-scale Dataset and Baseline Towards Video based Robotic Arm Action Understanding](https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_RobAVA_A_Large-scale_Dataset_and_Baseline_Towards_Video_based_Robotic_ICCV_2025_paper.pdf)
+* [RoboAnnotatorX A Comprehensive and Universal Annotation Framework for Accurate Understanding of Long-horizon Robot Demonstration](https://openaccess.thecvf.com/content/ICCV2025/papers/Kou_RoboAnnotatorX_A_Comprehensive_and_Universal_Annotation_Framework_for_Accurate_Understanding_ICCV_2025_paper.pdf)
+* [4D Visual Pre-training for Robot Learning](http://arxiv.org/abs/2508.17230)<br>:house:[project](https://4d-visual-pretraining.github.io/)
+* [LookOut Real-World Humanoid Egocentric Navigation](https://openaccess.thecvf.com/content/ICCV2025/papers/Pan_LookOut_Real-World_Humanoid_Egocentric_Navigation_ICCV_2025_paper.pdf)
+* [CityNav A Large-Scale Dataset for Real-World Aerial Navigation](http://arxiv.org/abs/2406.14240)
+* [Function-centric Bayesian Network for Zero-Shot Object Goal Navigation](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Function-centric_Bayesian_Network_for_Zero-Shot_Object_Goal_Navigation_ICCV_2025_paper.pdf)
+-------------------------------------------------------------------
+* [Environment-Agnostic Pose Generating Environment-independent Object Representations for 6D Pose Estimation](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Environment-Agnostic_Pose_Generating_Environment-independent_Object_Representations_for_6D_Pose_Estimation_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/acmff22/EA6D) :house:[project](https://github.com/acmff22/EA6D)
+* [Ultra-Precision 6DoF Pose Estimation Using 2-D Interpolated Discrete Fourier Transform](https://openaccess.thecvf.com/content/ICCV2025/papers/Shi_Ultra-Precision_6DoF_Pose_Estimation_Using_2-D_Interpolated_Discrete_Fourier_Transform_ICCV_2025_paper.pdf)
+* [Prior-aware Dynamic Temporal Modeling Framework for Sequential 3D Hand Pose Estimation](https://openaccess.thecvf.com/content/ICCV2025/papers/Ren_Prior-aware_Dynamic_Temporal_Modeling_Framework_for_Sequential_3D_Hand_Pose_ICCV_2025_paper.pdf)
+* [HccePose(BF) Predicting Front  Back Surfaces to Construct Ultra-Dense 2D-3D Correspondences for Pose Estimation](http://arxiv.org/abs/2510.10177)
+* [RePoseD Efficient Relative Pose Estimation With Known Depth Information](https://openaccess.thecvf.com/content/ICCV2025/papers/Ding_RePoseD_Efficient_Relative_Pose_Estimation_With_Known_Depth_Information_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/kocurvik/mdrp)
+* [Scaling 3D Compositional Models for Robust Classification and Pose Estimation](https://openaccess.thecvf.com/content/ICCV2025/papers/Yuan_Scaling_3D_Compositional_Models_for_Robust_Classification_and_Pose_Estimation_ICCV_2025_paper.pdf)
+* [DRaM-LHM A Quaternion Framework for Iterative Camera Pose Estimation](https://openaccess.thecvf.com/content/ICCV2025/papers/Lin_DRaM-LHM_A_Quaternion_Framework_for_Iterative_Camera_Pose_Estimation_ICCV_2025_paper.pdf)
+* [ForestFormer3D A Unified Framework for End-to-End Segmentation of Forest LiDAR 3D Point Clouds](http://arxiv.org/abs/2506.16991)<br>:house:[project](https://bxiang233.github.io/FF3D)
+* [Domain-aware Category-level Geometry Learning Segmentation for 3D Point Clouds](http://arxiv.org/abs/2508.11265)<br>:star:[code](https://github.com/ChicalH/DCGL)
+* [GroundFlow A Plug-in Module for Temporal Reasoning on 3D Point Cloud Sequential Grounding](http://arxiv.org/abs/2506.21188)
+* [Tree Skeletonization from 3D Point Clouds by Denoising Diffusion](https://openaccess.thecvf.com/content/ICCV2025/papers/Marks_Tree_Skeletonization_from_3D_Point_Clouds_by_Denoising_Diffusion_ICCV_2025_paper.pdf)
+* [TrackAny3D Transferring Pretrained 3D Models for Category-unified 3D Point Cloud Tracking](http://arxiv.org/abs/2507.19908)
+* [BUFFER-X Towards Zero-Shot Point Cloud Registration in Diverse Scenes](https://openaccess.thecvf.com/content/ICCV2025/papers/Seo_BUFFER-X_Towards_Zero-Shot_Point_Cloud_Registration_in_Diverse_Scenes_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/MIT-SPARK/BUFFER-X)
+* [Revisiting Point Cloud Completion Are We Ready For The Real-World](http://arxiv.org/abs/2411.17580)
+* [Geometric Alignment and Prior Modulation for View-Guided Point Cloud Completion on Unseen Categories](https://openaccess.thecvf.com/content/ICCV2025/papers/Xiu_Geometric_Alignment_and_Prior_Modulation_for_View-Guided_Point_Cloud_Completion_ICCV_2025_paper.pdf)
+* [Purge-Gate Backpropagation-Free Test-Time Adaptation for Point Clouds Classification via Token purging](https://openaccess.thecvf.com/content/ICCV2025/papers/Yazdanpanah_Purge-Gate_Backpropagation-Free_Test-Time_Adaptation_for_Point_Clouds_Classification_via_Token_ICCV_2025_paper.pdf)
+* [Efficient Spiking Point Mamba for Point Cloud Analysis](http://arxiv.org/abs/2504.14371)<br>:star:[code](https://github.com/PeppaWu/SPM)
+* [Noise2Score3D Tweedies Approach for Unsupervised Point Cloud Denoising](https://openaccess.thecvf.com/content/ICCV2025/papers/Wei_Noise2Score3D_Tweedies_Approach_for_Unsupervised_Point_Cloud_Denoising_ICCV_2025_paper.pdf)
+* [Generalized Few-Shot Point Cloud Segmentation via LLM-Assisted Hyper-Relation Matching](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Generalized_Few-Shot_Point_Cloud_Segmentation_via_LLM-Assisted_Hyper-Relation_Matching_ICCV_2025_paper.pdf)
+* [Mitigating Geometric Degradation in Fast DownSampling via FastAdapter for Point Cloud Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_Mitigating_Geometric_Degradation_in_Fast_DownSampling_via_FastAdapter_for_Point_ICCV_2025_paper.pdf)
+* [UST-SSM Unified Spatio-Temporal State Space Models for Point Cloud Video Modeling](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_UST-SSM_Unified_Spatio-Temporal_State_Space_Models_for_Point_Cloud_Video_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/wangzy01/UST-SSM)
+* [Omni-scene Perception-oriented Point Cloud Geometry Enhancement for Coordinate Quantization](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Omni-scene_Perception-oriented_Point_Cloud_Geometry_Enhancement_for_Coordinate_Quantization_ICCV_2025_paper.pdf)
+* [A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds](http://arxiv.org/abs/2504.09129)
+* [GenFlow3D Generative Scene Flow Estimation and Prediction on Point Cloud Sequences](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_GenFlow3D_Generative_Scene_Flow_Estimation_and_Prediction_on_Point_Cloud_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/ustc-hlli/GenFlow3D)
+* [Feature Extraction and Representation of Pre-training Point Cloud Based on Diffusion Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Qiu_Feature_Extraction_and_Representation_of_Pre-training_Point_Cloud_Based_on_ICCV_2025_paper.pdf)
+* [Leaps and Bounds An Improved Point Cloud Winding Number Formulation for Fast Normal Estimation and Surface Reconstruction](https://openaccess.thecvf.com/content/ICCV2025/papers/Koneputugodage_Leaps_and_Bounds_An_Improved_Point_Cloud_Winding_Number_Formulation_ICCV_2025_paper.pdf)
+* [Serialization based Point Cloud Oversegmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_Serialization_based_Point_Cloud_Oversegmentation_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/CHL-glitch/SPCNet)
+* [Towards More Diverse and Challenging Pre-training for Point Cloud Learning Self-Supervised Cross Reconstruction with Decoupled Views](http://arxiv.org/abs/2509.01250)<br>:star:[code](https://github.com/aHapBean/Point-PQAE)
+* [Liberated-GS 3D Gaussian Splatting Independent from SfM Point Clouds](https://openaccess.thecvf.com/content/ICCV2025/papers/Pan_Liberated-GS_3D_Gaussian_Splatting_Independent_from_SfM_Point_Clouds_ICCV_2025_paper.pdf)
+* [CAD-Recode Reverse Engineering CAD Code from Point Clouds](https://openaccess.thecvf.com/content/ICCV2025/papers/Rukhovich_CAD-Recode_Reverse_Engineering_CAD_Code_from_Point_Clouds_ICCV_2025_paper.pdf)
+* [Constraint-Aware Feature Learning for Parametric Point Cloud](http://arxiv.org/abs/2411.07747)
+* [Egocentric Action-aware Inertial Localization in Point Clouds with Vision-Language Guidance](http://arxiv.org/abs/2505.14346)
+* [DiffPCI Large Motion Point Cloud frame Interpolation with Diffusion Model](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_DiffPCI_Large_Motion_Point_Cloud_frame_Interpolation_with_Diffusion_Model_ICCV_2025_paper.pdf)
+* [Mixed Signals A Diverse Point Cloud Dataset for Heterogeneous LiDAR V2X Collaboration](http://arxiv.org/abs/2502.14156)
+* [DAP-MAE Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Gao_DAP-MAE_Domain-Adaptive_Point_Cloud_Masked_Autoencoder_for_Effective_Cross-Domain_Learning_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/CVI-SZU/DAP-MAE)
+* [Interpretable point cloud classification using multiple instance learning](https://openaccess.thecvf.com/content/ICCV2025/papers/De_Vries_Interpretable_point_cloud_classification_using_multiple_instance_learning_ICCV_2025_paper.pdf)
+* [CounterPC Counterfactual Feature Realignment for Unsupervised Domain Adaptation on Point Clouds](https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_CounterPC_Counterfactual_Feature_Realignment_for_Unsupervised_Domain_Adaptation_on_Point_ICCV_2025_paper.pdf)
+* [Partially Matching Submap Helps Uncertainty Modeling and Propagation for Text to Point Cloud Localization](https://openaccess.thecvf.com/content/ICCV2025/papers/Feng_Partially_Matching_Submap_Helps_Uncertainty_Modeling_and_Propagation_for_Text_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/Afoolbird/PMSH)
+* [DiffRefine Diffusion-based Proposal Specific Point Cloud Densification for Cross-Domain Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Shin_DiffRefine_Diffusion-based_Proposal_Specific_Point_Cloud_Densification_for_Cross-Domain_Object_ICCV_2025_paper.pdf)
+* [Point Cloud Self-supervised Learning via 3D to Multi-view Masked Learner](http://arxiv.org/abs/2311.10887)
+* [RARE Refine Any Registration of Pairwise Point Clouds via Zero-Shot Learning](http://arxiv.org/abs/2507.19950)<br>:star:[code](https://github.com/zhengcy-lambo/RARE.git)
+* [FlowSeek Optical Flow Made Easier with Depth Foundation Models and Motion Bases](http://arxiv.org/abs/2509.05297)
+* [PriOr-Flow Enhancing Primitive Panoramic Optical Flow with Orthogonal View](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_PriOr-Flow_Enhancing_Primitive_Panoramic_Optical_Flow_with_Orthogonal_View_ICCV_2025_paper.pdf)
+* [Flow4Agent Long-form Video Understanding via Motion Prior from Optical Flow](http://arxiv.org/abs/2510.05836)
+* [EMatch A Unified Framework for Event-based Optical Flow and Stereo Matching](http://arxiv.org/abs/2407.21735)
+* [Removing Cost Volumes from Optical Flow Estimators](https://openaccess.thecvf.com/content/ICCV2025/papers/Kiefhaber_Removing_Cost_Volumes_from_Optical_Flow_Estimators_ICCV_2025_paper.pdf)
+* [Language Decoupling with Fine-grained Knowledge Guidance for Referring Multi-object Tracking](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Language_Decoupling_with_Fine-grained_Knowledge_Guidance_for_Referring_Multi-object_Tracking_ICCV_2025_paper.pdf)
+* [VOVTrack Exploring the Potentiality in Raw Videos for Open-Vocabulary Multi-Object Tracking](https://openaccess.thecvf.com/content/ICCV2025/papers/Qian_VOVTrack_Exploring_the_Potentiality_in_Raw_Videos_for_Open-Vocabulary_Multi-Object_ICCV_2025_paper.pdf)
+* [LA-MOTR End-to-End Multi-Object Tracking by Learnable Association](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_LA-MOTR_End-to-End_Multi-Object_Tracking_by_Learnable_Association_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/PenK1nG/LA-MOTR)
+* [General Compression Framework for Efficient Transformer Object Tracking](http://arxiv.org/abs/2409.17564)<br>:star:[code](https://github.com/LingyiHongfd/CompressTracker)
+* [BoxDreamer Dreaming Box Corners for Generalizable Object Pose Estimation](http://arxiv.org/abs/2504.07955)
+* [MixRI Mixing Features of Reference Images for Novel Object Pose Estimation](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_MixRI_Mixing_Features_of_Reference_Images_for_Novel_Object_Pose_ICCV_2025_paper.pdf)
+* [From Easy to Hard Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision](http://arxiv.org/abs/2412.11154)<br>:star:[code](https://github.com/YuChuang1205/PAL)
+* [Text-IRSTD Leveraging Semantic Text to Promote Infrared Small Target Detection in Complex Scenes](https://openaccess.thecvf.com/content/ICCV2025/papers/Huang_Text-IRSTD_Leveraging_Semantic_Text_to_Promote_Infrared_Small_Target_Detection_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/Zhengsy0407/Text-IRSTD)
+* [Uncertainty-Aware Gradient Stabilization for Small Object Detection](http://arxiv.org/abs/2303.01803)
+* [DM-EFS Dynamically Multiplexed Expanded Features Set Form for Robust and Efficient Small Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Sharma_DM-EFS_Dynamically_Multiplexed_Expanded_Features_Set_Form_for_Robust_and_ICCV_2025_paper.pdf)
+* [Dual-Rate Dynamic Teacher for Source-Free Domain Adaptive Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/He_Dual-Rate_Dynamic_Teacher_for_Source-Free_Domain_Adaptive_Object_Detection_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/qih96/DDT)
+* [Debiased Teacher for Day-to-Night Domain Adaptive Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Cui_Debiased_Teacher_for_Day-to-Night_Domain_Adaptive_Object_Detection_ICCV_2025_paper.pdf)
+* [Benefit From Seen Enhancing Open-Vocabulary Object Detection by Bridging Visual and Textual Co-Occurrence Knowledge](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Benefit_From_Seen_Enhancing_Open-Vocabulary_Object_Detection_by_Bridging_Visual_ICCV_2025_paper.pdf)
+* [OpenRSD Towards Open-prompts for Object Detection in Remote Sensing Images](http://arxiv.org/abs/2503.06146)
+* [Dual Domain Control via Active Learning for Remote Sensing Domain Incremental Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_Dual_Domain_Control_via_Active_Learning_for_Remote_Sensing_Domain_ICCV_2025_paper.pdf)
+* [Active Learning Meets Foundation Models Fast Remote Sensing Data Annotation for Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Burges_Active_Learning_Meets_Foundation_Models_Fast_Remote_Sensing_Data_Annotation_ICCV_2025_paper.pdf)
+* [LLM-Assisted Semantic Guidance for Sparsely Annotated Remote Sensing Object Detection](http://arxiv.org/abs/2509.16970)
+* [Fusion Meets Diverse Conditions A High-diversity Benchmark and Baseline for UAV-based Multimodal Object Detection with Condition Cues](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Fusion_Meets_Diverse_Conditions_A_High-diversity_Benchmark_and_Baseline_for_ICCV_2025_paper.pdf)
+* [STEP-DETR Advancing DETR-based Semi-Supervised Object Detection with Super Teacher and Pseudo-Label Guided Text Queries](https://openaccess.thecvf.com/content/ICCV2025/papers/Shehzadi_STEP-DETR_Advancing_DETR-based_Semi-Supervised_Object_Detection_with_Super_Teacher_and_ICCV_2025_paper.pdf)
+* [Power of Cooperative Supervision Multiple Teachers Framework for Advanced 3D Semi-Supervised Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Lee_Power_of_Cooperative_Supervision_Multiple_Teachers_Framework_for_Advanced_3D_ICCV_2025_paper.pdf)
+* [ASGS Single-Domain Generalizable Open-Set Object Detection via Adaptive Subgraph Searching](https://openaccess.thecvf.com/content/ICCV2025/papers/Yuan_ASGS_Single-Domain_Generalizable_Open-Set_Object_Detection_via_Adaptive_Subgraph_Searching_ICCV_2025_paper.pdf)
+* [Gradient-Reweighted Adversarial Camouflage for Physical Object Detection Evasion](https://openaccess.thecvf.com/content/ICCV2025/papers/Liang_Gradient-Reweighted_Adversarial_Camouflage_for_Physical_Object_Detection_Evasion_ICCV_2025_paper.pdf)
+* [Unified Category-Level Object Detection and Pose Estimation from RGB Images using 3D Prototypes](http://arxiv.org/abs/2508.02157)
+* [Cycle-Consistent Learning for Joint Layout-to-Image Generation and Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Cai_Cycle-Consistent_Learning_for_Joint_Layout-to-Image_Generation_and_Object_Detection_ICCV_2025_paper.pdf)
+* [Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning](http://arxiv.org/abs/2503.11780)<br>:star:[code](https://github.com/Zhao-Tian-yi/M2D-LIF)
+* [Automated Model Evaluation for Object Detection via Prediction Consistency and Reliability](http://arxiv.org/abs/2508.12082)<br>:star:[code](https://github.com/YonseiML/autoeval-det)
+* [Diffusion-based Source-biased Model for Single Domain Generalized Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Jiang_Diffusion-based_Source-biased_Model_for_Single_Domain_Generalized_Object_Detection_ICCV_2025_paper.pdf)
+* [VISO Accelerating In-orbit Object Detection with Language-Guided Mask Learning and Sparse Inference](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_VISO_Accelerating_In-orbit_Object_Detection_with_Language-Guided_Mask_Learning_and_ICCV_2025_paper.pdf)
+* [Beyond RGB Adaptive Parallel Processing for RAW Object Detection](http://arxiv.org/abs/2503.13163)
+* [Dark-ISP Enhancing RAW Image Processing for Low-Light Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Guo_Dark-ISP_Enhancing_RAW_Image_Processing_for_Low-Light_Object_Detection_ICCV_2025_paper.pdf)
+* [DoppDrive Doppler-Driven Temporal Aggregation for Improved Radar Object Detection](http://arxiv.org/abs/2508.12330)<br>:house:[project](https://yuvalhg.github.io/DoppDrive) :house:[project](https://yuvalhg.github.io/DoppDrive/)
+* [Continual Adaptation Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios](http://arxiv.org/abs/2506.24063)
+----------------------------------------------------------------------------
 
-* [Who is a Better Talker: Subjective and Objective Quality Assessment for AI-Generated Talking Heads](http://arxiv.org/abs/2507.23343)<br>:star:[code](https://github.com/zyj-2000/Talker.)
-* [LayerAnimate: Layer-level Control for Animation](http://arxiv.org/abs/2501.08295)
-* [ROADWork: A Dataset and Benchmark for Learning to Recognize, Observe, Analyze and Drive Through Work Zones](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Ghosh_ROADWork_A_Dataset_ICCV_2025_supplemental.pdf)
-* [Gradient Decomposition and Alignment for Incremental Object Detection](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Luo_Gradient_Decomposition_and_ICCV_2025_supplemental.pdf)
-* [From Gaze to Movement: Predicting Visual Attention for Autonomous Driving Human-Machine Interaction based on Programmatic Imitation Learning](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Huang_From_Gaze_to_ICCV_2025_supplemental.pdf)
-* [Improving Large Vision and Language Models by Learning from a Panel of Peers](http://arxiv.org/abs/2509.01610)
-* [Federated Representation Angle Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Yi_Federated_Representation_Angle_Learning_ICCV_2025_paper.pdf)
-* [Why LVLMs Are More Prone to Hallucinations in Longer Responses: The Role of Context](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Zheng_Why_LVLMs_Are_ICCV_2025_supplemental.pdf)
-* [Training-Free Personalization via Retrieval and Reasoning on Fingerprints](http://arxiv.org/abs/2503.18623)
-* [How Far are AI-generated Videos from Simulating the 3D Visual World: A Learned 3D Evaluation Approach](http://arxiv.org/abs/2406.19568)
-* [Rethinking Detecting Salient and Camouflaged Objects in Unconstrained Scenes](http://arxiv.org/abs/2412.10943)<br>:star:[code](https://github.com/ssecv/USCNet)
-* [OccluGaussian: Occlusion-Aware Gaussian Splatting for Large Scene Reconstruction and Rendering](http://arxiv.org/abs/2503.16177)<br>:house:[project](https://occlugaussian.github.io)
-* [VisionMath: Vision-Form Mathematical Problem-Solving](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Ma_VisionMath_Vision-Form_Mathematical_ICCV_2025_supplemental.pdf)<br>:star:[code](https://github.com/mengqiDyangge/VisionMath.)
-* [MM-IFEngine: Towards Multimodal Instruction Following](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Ding_MM-IFEngine_Towards_Multimodal_ICCV_2025_supplemental.pdf)
-* [Gradient Extrapolation for Debiased Representation Learning](http://arxiv.org/abs/2503.13236)<br>:house:[project](https://gerne-debias.github.io/)
-* [Less-to-More Generalization: Unlocking More Controllability by In-Context Generation](http://arxiv.org/abs/2504.02160)<br>:star:[code](https://github.com/bytedance/UNO.)
-* [Towards a Unified Copernicus Foundation Model for Earth Vision](http://arxiv.org/abs/2503.11849)<br>:star:[code](https://github.com/zhu-xlab/Copernicus-FM)
+
+
+
+
+
+
+
+
+
 
 
 ## 计算成像
 * [Single-Scanline Relative Pose Estimation for Rolling Shutter Cameras](http://arxiv.org/pdf/2506.22069v1)
 * [Estimating 2D Camera Motion with Hybrid Motion Basis](https://arxiv.org/pdf/2507.22480v1)<br>:star:[code](https://lhaippp.github.io/CamFlow/)<br>:star:[code](https://github.com/lhaippp/camflow)
 * [Super Resolved Imaging with Adaptive Optics](https://arxiv.org/pdf/2508.04648v1)<br>:house:[project](https://www.cs.toronto.edu/~robin/aosr/)
+* [HccePose(BF) Predicting Front  Back Surfaces to Construct Ultra-Dense 2D-3D Correspondences for Pose Estimation](http://arxiv.org/abs/2510.10177)
+* [RePoseD Efficient Relative Pose Estimation With Known Depth Information](https://openaccess.thecvf.com/content/ICCV2025/papers/Ding_RePoseD_Efficient_Relative_Pose_Estimation_With_Known_Depth_Information_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/kocurvik/mdrp)
+* [Scaling 3D Compositional Models for Robust Classification and Pose Estimation](https://openaccess.thecvf.com/content/ICCV2025/papers/Yuan_Scaling_3D_Compositional_Models_for_Robust_Classification_and_Pose_Estimation_ICCV_2025_paper.pdf)
+* [DRaM-LHM A Quaternion Framework for Iterative Camera Pose Estimation](https://openaccess.thecvf.com/content/ICCV2025/papers/Lin_DRaM-LHM_A_Quaternion_Framework_for_Iterative_Camera_Pose_Estimation_ICCV_2025_paper.pdf)
 
 ## Feature Matching(特征匹配)
 * [Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching](https://arxiv.org/pdf/2507.10318v1)
@@ -76,6 +255,10 @@
 * 指纹
   * [Training-Free Personalization via Retrieval and Reasoning on Fingerprints](http://arxiv.org/abs/2503.18623)
 
+## Industrial Anomaly Detection(工业异常检测)
+* [RareCLIP Rarity-aware Online Zero-shot Industrial Anomaly Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/He_RareCLIP_Rarity-aware_Online_Zero-shot_Industrial_Anomaly_Detection_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/hjf02/RareCLIP)
+
+
 ## Animation(动画)
 * [LayerAnimate: Layer-level Control for Animation](http://arxiv.org/abs/2501.08295)
 * [Occlusion-robust Stylization for Drawing-based 3D Animation](https://arxiv.org/pdf/2508.00398v1)
@@ -88,13 +271,13 @@
 
 ## Dataset
 * [Context-Aware Academic Emotion Dataset and Benchmark](https://arxiv.org/pdf/2507.00586v1)<br>:star:[code](https://zgsfer.github.io/CAER)
+* [ROADWork A Dataset and Benchmark for Learning to Recognize Observe Analyze and Drive Through Work Zones](https://openaccess.thecvf.com/content/ICCV2025/papers/Ghosh_ROADWork_A_Dataset_and_Benchmark_for_Learning_to_Recognize_Observe_ICCV_2025_paper.pdf)
 * 基准
   * [IRGPT: Understanding Real-world Infrared Image with Bi-cross-modal Curriculum on Large-scale Benchmark](https://arxiv.org/pdf/2507.14449v1)
   * [Towards Video Thinking Test: A Holistic Benchmark for Advanced Video Reasoning and Understanding](https://arxiv.org/pdf/2507.15028v1)<br>:star:[code](https://zhangyuanhan-ai.github.io/video-tt/)
 * 数据集
   * [Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning](https://arxiv.org/pdf/2507.04790v1)
   * [ProGait: A Multi-Purpose Video Dataset and Benchmark for Transfemoral Prosthesis Users](https://arxiv.org/pdf/2507.10223v1)<br>:star:[code](https://github.com/pittisl/ProGait)<br>:house:[project](https://huggingface.co/datasets/ericyxy98/ProGait)
-  * [ROADWork: A Dataset and Benchmark for Learning to Recognize, Observe, Analyze and Drive Through Work Zones](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Ghosh_ROADWork_A_Dataset_ICCV_2025_supplemental.pdf)
   * [CT-ScanGaze: A Dataset and Baselines for 3D Volumetric Scanpath Modeling](https://arxiv.org/pdf/2507.12591v1)
   * [Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions](https://arxiv.org/pdf/2508.04681v1)<br>:star:[code](https://liangxuy.github.io/InterVLA/)<br>:star:[code](https://github.com/liangxuy/intervla)
   * [HumanOLAT: A Large-Scale Dataset for Full-Body Human Relighting and Novel-View Synthesis](https://arxiv.org/pdf/2508.09137v1)<br>:house:[project](https://vcai.mpi-inf.mpg.de/projects/HumanOLAT/)
@@ -116,12 +299,15 @@
   * [OccluGaussian: Occlusion-Aware Gaussian Splatting for Large Scene Reconstruction and Rendering](http://arxiv.org/abs/2503.16177)<br>:house:[project](https://occlugaussian.github.io)
 * 逆向渲染
   * [Neural Multi-View Self-Calibrated Photometric Stereo without Photometric Stereo Cues](https://arxiv.org/pdf/2507.23162v1)
+* NVS
+  * [FVGen Accelerating Novel-View Synthesis with Adversarial Video Diffusion Distillation](http://arxiv.org/abs/2508.06392)
+  * [E-NeMF Event-based Neural Motion Field for Novel Space-time View Synthesis of Dynamic Scenes](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_E-NeMF_Event-based_Neural_Motion_Field_for_Novel_Space-time_View_Synthesis_ICCV_2025_paper.pdf)
+
 
 ## Vision Language(视觉语言)
 * [NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2506.23468v1)<br>:star:[code](https://github.com/Feliciaxyao/NavMorph)
 * [Improving Large Vision and Language Models by Learning from a Panel of Peers](http://arxiv.org/abs/2509.01610)
 * [ONLY: One-Layer Intervention Sufficiently Mitigates Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2507.00898v1)<br>:star:[code](https://github.com/zifuwan/ONLY)<br>:star:[code](https://zifuwan.github.io/ONLY/)
-* [VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers](https://arxiv.org/pdf/2507.01016v1)<br>:star:[code](https://xiaoxiao0406.github.io/vqvla.github.io)
 * [ViLU: Learning Vision-Language Uncertainties for Failure Prediction](https://arxiv.org/pdf/2507.07620v1)<br>:star:[code](https://github.com/ykrmm/ViLU)
 * [PRISM: Reducing Spurious Implicit Biases in Vision-Language Models with LLM-Guided Embedding Projection](https://arxiv.org/pdf/2507.08979v1)<br>:star:[code](https://github.com/MahdiyarMM/PRISM)
 * [One Last Attention for Your Vision-Language Model](https://arxiv.org/pdf/2507.15480v1)<br>:star:[code](https://github.com/khufia/RAda/tree/main)
@@ -129,12 +315,15 @@
 * [METEOR: Multi-Encoder Collaborative Token Pruning for Efficient Vision Language Models](https://arxiv.org/pdf/2507.20842v1)<br>:star:[code](https://github.com/YuchenLiu98/METEOR)
 * [ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking](https://arxiv.org/pdf/2507.19875v1)<br>:star:[code](https://github.com/XiaokunFeng/ATCTrack)
 * [AgroBench: Vision-Language Model Benchmark in Agriculture](https://arxiv.org/pdf/2507.20519v1)<br>:star:[code](https://dahlian00.github.io/AgroBenchPage/)
-* [Why LVLMs Are More Prone to Hallucinations in Longer Responses: The Role of Context](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Zheng_Why_LVLMs_Are_ICCV_2025_supplemental.pdf)
+* [MM-IFEngine Towards Multimodal Instruction Following](https://openaccess.thecvf.com/content/ICCV2025/papers/Ding_MM-IFEngine_Towards_Multimodal_Instruction_Following_ICCV_2025_paper.pdf)
 * VLN
   * [Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities](https://arxiv.org/pdf/2507.13019v1)<br>:star:[code](https://crystalsixone.github.io/vln_pe.github.io/)
+  * [monoVLN Bridging the Observation Gap between Monocular and Panoramic Vision and Language Navigation](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_monoVLN_Bridging_the_Observation_Gap_between_Monocular_and_Panoramic_Vision_ICCV_2025_paper.pdf)
 * LLM
   * [LLM-enhanced Action-aware Multi-modal Prompt Tuning for Image-Text Matching](https://arxiv.org/pdf/2506.23502v1)
   * [Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs](https://arxiv.org/pdf/2507.07990v1)<br>:house:[project](https://www.jshyun.me/projects/sttm)
+  * [Why LVLMs Are More Prone to Hallucinations in Longer Responses The Role of Context](https://openaccess.thecvf.com/content/ICCV2025/papers/Zheng_Why_LVLMs_Are_More_Prone_to_Hallucinations_in_Longer_Responses_ICCV_2025_paper.pdf)
+  * [Zeroth-Order Fine-Tuning of LLMs in Random Subspaces](http://arxiv.org/abs/2410.08989)<br>:star:[code](https://github.com/zimingyy/SubZero)
   * [Advancing Visual Large Language Model for Multi-granular Versatile Perception](https://arxiv.org/pdf/2507.16213v1)<br>:star:[code](https://github.com/xiangwentao666/MVP-LM)
 * MLLM
   * [Token Activation Map to Visually Explain Multimodal LLMs](https://arxiv.org/pdf/2506.23270v1)
@@ -144,12 +333,15 @@
   * [Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation](https://arxiv.org/pdf/2507.02859v1)
   * [BASIC: Boosting Visual Alignment with Intrinsic Refined Embeddings in Multimodal Large Language Models](https://arxiv.org/pdf/2508.06895v1)
   * [Corvid: Improving Multimodal Large Language Models Towards Chain-of-Thought Reasoning](https://arxiv.org/pdf/2507.07424v1)<br>:star:[code](https://mm-vl.github.io/corvid)
+  * [Instruction-Oriented Preference Alignment for Enhancing Multi-Modal Comprehension Capability of MLLMs](http://arxiv.org/abs/2503.20309)
 
 ## Vision Transformer
 * [Boosting Generative Adversarial Transferability with Self-supervised Vision Transformer Features](http://arxiv.org/pdf/2506.21046v1)<br>:star:[code](https://github.com/spencerwooo/dSVA)
 * [Efficient Adaptation of Pre-trained Vision Transformer underpinned by Approximately Orthogonal Fine-Tuning Strategy](https://arxiv.org/pdf/2507.13260v1)
 * [EA-ViT: Efficient Adaptation for Elastic Vision Transformer](https://arxiv.org/pdf/2507.19360v1)<br>:star:[code](https://github.com/zcxcf/EA-ViT)
 * [MixA-Q: Revisiting Activation Sparsity for Vision Transformers from a Mixed-Precision Quantization Perspective](https://arxiv.org/pdf/2507.19131v1)
+* [OminiControl Minimal and Universal Control for Diffusion Transformer](http://arxiv.org/abs/2411.15098)
+* [Pinco Position-induced Consistent Adapter for Diffusion Transformer in Foreground-conditioned Inpainting](http://arxiv.org/abs/2412.03812)
 
 ## Deep learning(深度学习)
 * RNN
@@ -173,6 +365,7 @@
   * [RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning](https://arxiv.org/pdf/2507.22553v1)
   * [Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models](https://arxiv.org/pdf/2508.00260v1)
   * [Divide-and-Conquer for Enhancing Unlabeled Learning, Stability, and Plasticity in Semi-supervised Continual Learning](https://arxiv.org/pdf/2508.05316v1)<br>:star:[code](https://github.com/NJUyued/USP4SSCL)
+  * [Any-SSR How Recursive Least Squares Works in Continual Learning of Large Language Model](https://openaccess.thecvf.com/content/ICCV2025/papers/Tong_Any-SSR_How_Recursive_Least_Squares_Works_in_Continual_Learning_of_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/ZHUANGHP/Any-SSR)
 * 对抗学习
   * [TITAN: Query-Token based Domain Adaptive Adversarial Learning](http://arxiv.org/pdf/2506.21484v1)
   * [ZIUM: Zero-Shot Intent-Aware Adversarial Attack on Unlearned Models](https://arxiv.org/pdf/2507.21985v1)
@@ -209,6 +402,7 @@
 * DG
   * [Bridging Domain Generalization to Multimodal Domain Generalization via Unified Representations](https://arxiv.org/pdf/2507.03304v1)
   * [Adversarial Data Augmentation for Single Domain Generalization via Lyapunov Exponent-Guided Optimization](https://arxiv.org/pdf/2507.04302v1)
+  * [AdaDCP Learning an Adapter with Discrete Cosine Prior for Clear-to-Adverse Domain Generalization](https://openaccess.thecvf.com/content/ICCV2025/papers/Bi_AdaDCP_Learning_an_Adapter_with_Discrete_Cosine_Prior_for_Clear-to-Adverse_ICCV_2025_paper.pdf)
 
 ##
 * [Representation Shift: Unifying Token Compression with FlashAttention](https://arxiv.org/pdf/2508.00367v1)<br>:star:[code](https://github.com/mlvlab/Representation-Shift)
@@ -231,11 +425,17 @@
 
 ## Object Pose Estimation(物体姿态估计)
 * [Deterministic Object Pose Confidence Region Estimation](https://arxiv.org/pdf/2506.22720v1)
+* [BoxDreamer Dreaming Box Corners for Generalizable Object Pose Estimation](http://arxiv.org/abs/2504.07955)
+* [MixRI Mixing Features of Reference Images for Novel Object Pose Estimation](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_MixRI_Mixing_Features_of_Reference_Images_for_Novel_Object_Pose_ICCV_2025_paper.pdf)
 * [Kaleidoscopic Background Attack: Disrupting Pose Estimation with Multi-Fold Radial Symmetry Textures](https://arxiv.org/pdf/2507.10265v1)<br>:star:[code](https://wakuwu.github.io/KBA)
+* [Environment-Agnostic Pose Generating Environment-independent Object Representations for 6D Pose Estimation](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Environment-Agnostic_Pose_Generating_Environment-independent_Object_Representations_for_6D_Pose_Estimation_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/acmff22/EA6D) :house:[project](https://github.com/acmff22/EA6D)
+* [Ultra-Precision 6DoF Pose Estimation Using 2-D Interpolated Discrete Fourier Transform](https://openaccess.thecvf.com/content/ICCV2025/papers/Shi_Ultra-Precision_6DoF_Pose_Estimation_Using_2-D_Interpolated_Discrete_Fourier_Transform_ICCV_2025_paper.pdf)
+
 
 ##
 * 关键点检测
   * [Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection](https://arxiv.org/pdf/2507.07994v1)<br>:house:[project](https://subhajitmaity.me/DYKp)
+
 
 ## Deepfake Detection/AI生成图像检测
 * [Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection](https://arxiv.org/pdf/2507.02398v1)<br>:star:[code](https://github.com/rama0126/PwTF-DVD)
@@ -249,11 +449,17 @@
 
 ## Optical Flow Estimation(光流估计)
 * [MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation](https://arxiv.org/pdf/2506.23151v1)<br>:star:[code](https://github.com/msu-video-group/memfof)
+* [FlowSeek Optical Flow Made Easier with Depth Foundation Models and Motion Bases](http://arxiv.org/abs/2509.05297)
+* [PriOr-Flow Enhancing Primitive Panoramic Optical Flow with Orthogonal View](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_PriOr-Flow_Enhancing_Primitive_Panoramic_Optical_Flow_with_Orthogonal_View_ICCV_2025_paper.pdf)
+* [Flow4Agent Long-form Video Understanding via Motion Prior from Optical Flow](http://arxiv.org/abs/2510.05836)
+* [EMatch A Unified Framework for Event-based Optical Flow and Stereo Matching](http://arxiv.org/abs/2407.21735)
+* [Removing Cost Volumes from Optical Flow Estimators](https://openaccess.thecvf.com/content/ICCV2025/papers/Kiefhaber_Removing_Cost_Volumes_from_Optical_Flow_Estimators_ICCV_2025_paper.pdf)
 
 ## Visual Question Answering(视觉问答)
 * [ReasonVQA: A Multi-hop Reasoning Benchmark with Structural Knowledge for Visual Question Answering](https://arxiv.org/pdf/2507.16403v1)
+* [ToolVQA A Dataset for Multi-step Reasoning VQA with External Tools](http://arxiv.org/abs/2508.03284)<br>:star:[code](https://github.com/Fugtemypt123/ToolVQA-release)
 * 数学问题解决
-  * [VisionMath: Vision-Form Mathematical Problem-Solving](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Ma_VisionMath_Vision-Form_Mathematical_ICCV_2025_supplemental.pdf)<br>:star:[code](https://github.com/mengqiDyangge/VisionMath.)
+  * [VisionMath Vision-Form Mathematical Problem-Solving](https://openaccess.thecvf.com/content/ICCV2025/papers/Ma_VisionMath_Vision-Form_Mathematical_Problem-Solving_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/mengqiDyangge/VisionMath)
 
 ## Robot
 * [GeoDistill: Geometry-Guided Self-Distillation for Weakly Supervised Cross-View Localization](https://arxiv.org/pdf/2507.10935v1)<br>:star:[code](https://github.com/tongshw/GeoDistill)
@@ -264,15 +470,57 @@
   * [AR-VRM: Imitating Human Motions for Visual Robot Manipulation with Analogical Reasoning](https://arxiv.org/pdf/2508.07626v1)
   * [Adaptive Articulated Object Manipulation On The Fly with Foundation Model Reasoning and Part Grounding](https://arxiv.org/pdf/2507.18276v1)
   * [Recognizing Actions from Robotic View for Natural Human-Robot Interaction](https://arxiv.org/pdf/2507.22522v1)<br>:star:[code](https://github.com/wangzy01/ACTIVE-Action-from-Robotic-View)
+  * [Moto Latent Motion Token as the Bridging Language for Learning Robot Manipulation from Videos](http://arxiv.org/abs/2412.04445)
+  * [IRASim A Fine-Grained World Model for Robot Manipulation](http://arxiv.org/abs/2406.14540)<br>:house:[project](https://gen-irasim.github.io/)
   * [On-Device Diffusion Transformer Policy for Efficient Robot Manipulation](https://arxiv.org/pdf/2508.00697v1)
   * [RAGNet: Large-scale Reasoning-based Affordance Segmentation Benchmark towards General Grasping](https://arxiv.org/pdf/2507.23734v1)<br>:star:[code](https://github.com/wudongming97/AffordanceNet)
   * [PASG: A Closed-Loop Framework for Automated Geometric Primitive Extraction and Semantic Anchoring in Robotic Manipulation](https://arxiv.org/pdf/2508.05976v1)
+  * [Learning Precise Affordances from Egocentric Videos for Robotic Manipulation](http://arxiv.org/abs/2408.10123)<br>:house:[project](https://reagan1311.github.io/affgrasp)
+  * [iManip Skill-Incremental Learning for Robotic Manipulation](http://arxiv.org/abs/2503.07087)
+  * [RoBridge A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation](http://arxiv.org/abs/2505.01709)
+  * [EC-Flow Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_EC-Flow_Enabling_Versatile_Robotic_Manipulation_from_Action-Unlabeled_Videos_via_Embodiment-Centric_ICCV_2025_paper.pdf)<br>:house:[project](https://ec-flow1.github.io/)
+  * [A0 An Affordance-Aware Hierarchical Model for General Robotic Manipulation](http://arxiv.org/abs/2504.12636)
+  * [Rethinking Bimanual Robotic Manipulation Learning with Decoupled Interaction Framework](http://arxiv.org/abs/2503.09186)
+  * [GWM Towards Scalable Gaussian World Models for Robotic Manipulation](http://arxiv.org/abs/2508.17600)
+  * [Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control](http://arxiv.org/abs/2505.15304)
+  * [Learning 4D Embodied World Models](http://arxiv.org/abs/2504.20995)
+  * [RobAVA A Large-scale Dataset and Baseline Towards Video based Robotic Arm Action Understanding](https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_RobAVA_A_Large-scale_Dataset_and_Baseline_Towards_Video_based_Robotic_ICCV_2025_paper.pdf)
+  * [RoboAnnotatorX A Comprehensive and Universal Annotation Framework for Accurate Understanding of Long-horizon Robot Demonstration](https://openaccess.thecvf.com/content/ICCV2025/papers/Kou_RoboAnnotatorX_A_Comprehensive_and_Universal_Annotation_Framework_for_Accurate_Understanding_ICCV_2025_paper.pdf)
+  * [4D Visual Pre-training for Robot Learning](http://arxiv.org/abs/2508.17230)<br>:house:[project](https://4d-visual-pretraining.github.io/)
+  * [G-DexGrasp Generalizable Dexterous Grasping Synthesis Via Part-Aware Prior Retrieval and Prior-Assisted Generation](https://openaccess.thecvf.com/content/ICCV2025/papers/Jian_G-DexGrasp_Generalizable_Dexterous_Grasping_Synthesis_Via_Part-Aware_Prior_Retrieval_and_ICCV_2025_paper.pdf)
+  * [DexH2R A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover](http://arxiv.org/abs/2506.23152)
+  * [OVA-Fields Weakly Supervised Open-Vocabulary Affordance Fields for Robot Operational Part Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Su_OVA-Fields_Weakly_Supervised_Open-Vocabulary_Affordance_Fields_for_Robot_Operational_Part_ICCV_2025_paper.pdf)
   * Object Discovery
     * [Ensemble Foreground Management for Unsupervised Object Discovery](https://arxiv.org/pdf/2507.20860v1)<br>:star:[code](https://github.com/YFaris/UnionCut)
 * SLAM
   * [Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps](https://arxiv.org/pdf/2507.03737v1)<br>:star:[code](https://3dagentworld.github.io/S3PO-GS/)
-* 视觉导航
+  * [DyGS-SLAM Real-Time Accurate Localization and Gaussian Reconstruction for Dynamic Scenes](https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_DyGS-SLAM_Real-Time_Accurate_Localization_and_Gaussian_Reconstruction_for_Dynamic_Scenes_ICCV_2025_paper.pdf)
+  * [4D Gaussian Splatting SLAM](http://arxiv.org/abs/2503.16710)
+  * [ToF-Splatting Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration](https://openaccess.thecvf.com/content/ICCV2025/papers/Conti_ToF-Splatting_Dense_SLAM_using_Sparse_Time-of-Flight_Depth_and_Multi-Frame_Integration_ICCV_2025_paper.pdf)
+  * [Benchmarking Egocentric Visual-Inertial SLAM at City Scale](http://arxiv.org/abs/2509.26639)
+  * [SuperEvent Cross-Modal Learning of Event-based Keypoint Detection for SLAM](http://arxiv.org/abs/2504.00139)<br>:house:[project](https://ethz-mrl.github.io/SuperEvent)
+  * [SEGS-SLAM Structure-enhanced 3D Gaussian Splatting SLAM with Appearance Embedding](https://openaccess.thecvf.com/content/ICCV2025/papers/Wen_SEGS-SLAM_Structure-enhanced_3D_Gaussian_Splatting_SLAM_with_Appearance_Embedding_ICCV_2025_paper.pdf)<br>:house:[project](https://segs-slam.github.io/)
+  * [Underwater Visual SLAM with Depth Uncertainty and Medium Modeling](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Underwater_Visual_SLAM_with_Depth_Uncertainty_and_Medium_Modeling_ICCV_2025_paper.pdf)
+* 导航
   * [IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation](https://arxiv.org/pdf/2508.00823v1)<br>:star:[code](https://gwxuan.github.io/IGL-Nav/)<br>:star:[code](https://github.com/gwxuan/igl-nav)
+  * [Embodied Navigation with Auxiliary Task of Action Description Prediction](https://openaccess.thecvf.com/content/ICCV2025/papers/Kondoh_Embodied_Navigation_with_Auxiliary_Task_of_Action_Description_Prediction_ICCV_2025_paper.pdf)
+  * [EmbodiedSplat Personalized Real-to-Sim-to-Real Navigation with Gaussian Splats from a Mobile Device](http://arxiv.org/abs/2509.17430)<br>:house:[project](https://gchhablani.github.io/embodied-splat)
+  * [GUIOdyssey A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices](http://arxiv.org/abs/2406.08451)
+  * [Learning on the Go A Meta-learning Object Navigation Model](https://openaccess.thecvf.com/content/ICCV2025/papers/Qin_Learning_on_the_Go_A_Meta-learning_Object_Navigation_Model_ICCV_2025_paper.pdf)
+  * [RoboTrom-Nav A Unified Framework for Embodied Navigation Integrating Perception Planning and Prediction](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhong_RoboTrom-Nav_A_Unified_Framework_for_Embodied_Navigation_Integrating_Perception_Planning_ICCV_2025_paper.pdf)
+  * [MoMa-Kitchen A 100K Benchmark for Affordance-Grounded Last-Mile Navigation in Mobile Manipulation](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_MoMa-Kitchen_A_100K_Benchmark_for_Affordance-Grounded_Last-Mile_Navigation_in_Mobile_ICCV_2025_paper.pdf)
+  * [Active Perception Meets Rule-Guided RL A Two-Phase Approach for Precise Object Navigation in Complex Environments](https://openaccess.thecvf.com/content/ICCV2025/papers/Qin_Active_Perception_Meets_Rule-Guided_RL_A_Two-Phase_Approach_for_Precise_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/qinliangql/APRR)
+  * [SAME Learning Generic Language-Guided Visual Navigation with State-Adaptive Mixture of Experts](http://arxiv.org/abs/2412.05552)
+  * [Collaborative Instance Object Navigation Leveraging Uncertainty-Awareness to Minimize Human-Agent Dialogues](http://arxiv.org/abs/2412.01250)
+  * [CogNav Cognitive Process Modeling for Object Goal Navigation with LLMs](http://arxiv.org/abs/2412.10439)
+  * [DialNav Multi-turn Dialog Navigation with a Remote Guide](http://arxiv.org/abs/2509.12894)<br>:house:[project](https://happilee12.github.io/DialNav)
+  * [LookOut Real-World Humanoid Egocentric Navigation](https://openaccess.thecvf.com/content/ICCV2025/papers/Pan_LookOut_Real-World_Humanoid_Egocentric_Navigation_ICCV_2025_paper.pdf)
+  * [CityNav A Large-Scale Dataset for Real-World Aerial Navigation](http://arxiv.org/abs/2406.14240)
+  * [Function-centric Bayesian Network for Zero-Shot Object Goal Navigation](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Function-centric_Bayesian_Network_for_Zero-Shot_Object_Goal_Navigation_ICCV_2025_paper.pdf)
+
+
+
+
 
 ## Human-Object Interaction Detection(人机交互)
 * [Prompt Guidance and Human Proximal Perception for HOT Prediction with Regional Joint Loss](https://arxiv.org/pdf/2507.01630v1)<br>:star:[code](https://github.com/YuxiaoWang-AI/P3HOT)
@@ -280,6 +528,7 @@
 * [Task-Oriented Human Grasp Synthesis via Context- and Task-Aware Diffusers](https://arxiv.org/pdf/2507.11287v1)<br>:star:[code](https://hcis-lab.github.io/TOHGS/)
 * [HOLa: Zero-Shot HOI Detection with Low-Rank Decomposed VLM Feature Adaptation](https://arxiv.org/pdf/2507.15542v1)<br>:star:[code](https://github.com/ChelsieLei/HOLa)
 * [Contact-Aware Amodal Completion for Human-Object Interaction via Multi-Regional Inpainting](https://arxiv.org/pdf/2508.00427v1)
+* [SyncDiff Synchronized Motion Diffusion for Multi-Body Human-Object Interaction Synthesis](http://arxiv.org/abs/2412.20104)
 
 ## Autonomous Driving(自动驾驶)
 * [Epona: Autoregressive Diffusion World Model for Autonomous Driving](https://arxiv.org/pdf/2506.24113v1)<br>:star:[code](https://kevin-thu.github.io/Epona/)<br>:star:[code](https://github.com/Kevin-thu/Epona/)
@@ -288,14 +537,20 @@
 * [3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation](https://arxiv.org/pdf/2507.01367v1)<br>:star:[code](https://github.com/TRLou/PGA)
 * [Towards Accurate and Efficient 3D Object Detection for Autonomous Driving: A Mixture of Experts Computing System on Edge](https://arxiv.org/pdf/2507.04123v1)
 * [GS-Occ3D: Scaling Vision-only Occupancy Reconstruction for Autonomous Driving with Gaussian Splatting](https://arxiv.org/pdf/2507.19451v1)<br>:star:[code](https://gs-occ3d.github.io/)
-* [From Gaze to Movement: Predicting Visual Attention for Autonomous Driving Human-Machine Interaction based on Programmatic Imitation Learning](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Huang_From_Gaze_to_ICCV_2025_supplemental.pdf)
+* [From Gaze to Movement Predicting Visual Attention for Autonomous Driving Human-Machine Interaction based on Programmatic Imitation Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Huang_From_Gaze_to_Movement_Predicting_Visual_Attention_for_Autonomous_Driving_ICCV_2025_paper.pdf)
 * [MamV2XCalib: V2X-based Target-less Infrastructure Camera Calibration with State Space Model](https://arxiv.org/pdf/2507.23595v1)<br>:star:[code](https://github.com/zhuyaoye/MamV2XCalib)
+* [VLR-Driver Large Vision-Language-Reasoning Models for Embodied Autonomous Driving](https://openaccess.thecvf.com/content/ICCV2025/papers/Kong_VLR-Driver_Large_Vision-Language-Reasoning_Models_for_Embodied_Autonomous_Driving_ICCV_2025_paper.pdf)
 * [RoboTron-Sim: Improving Real-World Driving via Simulated Hard-Case](https://arxiv.org/pdf/2508.04642v1)<br>:star:[code](https://stars79689.github.io/RoboTron-Sim/)<br>:star:[code](https://github.com/stars79689/robotron-sim)
 * 三维占据
   * [Occupancy Learning with Spatiotemporal Memory](https://arxiv.org/pdf/2508.04705v1)<br>:star:[code](https://matthew-leng.github.io/stocc)
 * 轨迹预测
   * [Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics](https://arxiv.org/pdf/2507.12083v1)
   * [Generative Active Learning for Long-tail Trajectory Prediction via Controllable Diffusion Model](https://arxiv.org/pdf/2507.22615v1)
+* VLA
+  * [CoA-VLA Improving Vision-Language-Action Models via Visual-Text Chain-of-Affordance](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_CoA-VLA_Improving_Vision-Language-Action_Models_via_Visual-Text_Chain-of-Affordance_ICCV_2025_paper.pdf)
+  * [VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers](https://arxiv.org/pdf/2507.01016v1)<br>:star:[code](https://xiaoxiao0406.github.io/vqvla.github.io)
+* 占用预测
+  * [Language Driven Occupancy Prediction](http://arxiv.org/abs/2411.16072)
 
 ## Point Cloud(点云)
 * [GAP: Gaussianize Any Point Clouds with Text Guidance](https://arxiv.org/pdf/2508.05631v1)<br>:star:[code](https://weiqi-zhang.github.io/GAP)<br>:star:[code](https://github.com/weiqi-zhang/gap)
@@ -305,16 +560,54 @@
 * [LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression](https://arxiv.org/pdf/2507.15686v1)<br>:star:[code](https://huangwenjie2023.github.io/LINR-PCGC/)
 * [Blended Point Cloud Diffusion for Localized Text-guided Shape Editing](https://arxiv.org/pdf/2507.15399v1)<br>:star:[code](https://tau-vailab.github.io/BlendedPC/)
 * [UPP: Unified Point-Level Prompting for Robust Point Cloud Analysis](https://arxiv.org/pdf/2507.18997v1)<br>:star:[code](https://github.com/zhoujiahuan1991/ICCV2025-UPP)
+* [Efficient Spiking Point Mamba for Point Cloud Analysis](http://arxiv.org/abs/2504.14371)<br>:star:[code](https://github.com/PeppaWu/SPM)
 * [Guiding Diffusion-Based Articulated Object Generation by Partial Point Cloud Alignment and Physical Plausibility Constraints](https://arxiv.org/pdf/2508.00558v1)
 * [Robust 3D Object Detection using Probabilistic Point Clouds from Single-Photon LiDARs](https://arxiv.org/pdf/2508.00169v1)<br>:star:[code](https://bhavyagoyal.github.io/ppc)<br>:star:[code](https://github.com/bhavyagoyal/ppc)
+* [UST-SSM Unified Spatio-Temporal State Space Models for Point Cloud Video Modeling](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_UST-SSM_Unified_Spatio-Temporal_State_Space_Models_for_Point_Cloud_Video_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/wangzy01/UST-SSM)
+* [Omni-scene Perception-oriented Point Cloud Geometry Enhancement for Coordinate Quantization](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Omni-scene_Perception-oriented_Point_Cloud_Geometry_Enhancement_for_Coordinate_Quantization_ICCV_2025_paper.pdf)
+* [A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds](http://arxiv.org/abs/2504.09129)
+* [GenFlow3D Generative Scene Flow Estimation and Prediction on Point Cloud Sequences](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_GenFlow3D_Generative_Scene_Flow_Estimation_and_Prediction_on_Point_Cloud_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/ustc-hlli/GenFlow3D)
+* [Feature Extraction and Representation of Pre-training Point Cloud Based on Diffusion Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Qiu_Feature_Extraction_and_Representation_of_Pre-training_Point_Cloud_Based_on_ICCV_2025_paper.pdf)
+* [Leaps and Bounds An Improved Point Cloud Winding Number Formulation for Fast Normal Estimation and Surface Reconstruction](https://openaccess.thecvf.com/content/ICCV2025/papers/Koneputugodage_Leaps_and_Bounds_An_Improved_Point_Cloud_Winding_Number_Formulation_ICCV_2025_paper.pdf)
+* [Serialization based Point Cloud Oversegmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_Serialization_based_Point_Cloud_Oversegmentation_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/CHL-glitch/SPCNet)
+* [Towards More Diverse and Challenging Pre-training for Point Cloud Learning Self-Supervised Cross Reconstruction with Decoupled Views](http://arxiv.org/abs/2509.01250)<br>:star:[code](https://github.com/aHapBean/Point-PQAE)
+* [Liberated-GS 3D Gaussian Splatting Independent from SfM Point Clouds](https://openaccess.thecvf.com/content/ICCV2025/papers/Pan_Liberated-GS_3D_Gaussian_Splatting_Independent_from_SfM_Point_Clouds_ICCV_2025_paper.pdf)
+* [CAD-Recode Reverse Engineering CAD Code from Point Clouds](https://openaccess.thecvf.com/content/ICCV2025/papers/Rukhovich_CAD-Recode_Reverse_Engineering_CAD_Code_from_Point_Clouds_ICCV_2025_paper.pdf)
+* [Constraint-Aware Feature Learning for Parametric Point Cloud](http://arxiv.org/abs/2411.07747)
+* [Egocentric Action-aware Inertial Localization in Point Clouds with Vision-Language Guidance](http://arxiv.org/abs/2505.14346)
+* [DiffPCI Large Motion Point Cloud frame Interpolation with Diffusion Model](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_DiffPCI_Large_Motion_Point_Cloud_frame_Interpolation_with_Diffusion_Model_ICCV_2025_paper.pdf)
+* [Mixed Signals A Diverse Point Cloud Dataset for Heterogeneous LiDAR V2X Collaboration](http://arxiv.org/abs/2502.14156)
+* [DAP-MAE Domain-Adaptive Point Cloud Masked Autoencoder for Effective Cross-Domain Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Gao_DAP-MAE_Domain-Adaptive_Point_Cloud_Masked_Autoencoder_for_Effective_Cross-Domain_Learning_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/CVI-SZU/DAP-MAE)
+* [Interpretable point cloud classification using multiple instance learning](https://openaccess.thecvf.com/content/ICCV2025/papers/De_Vries_Interpretable_point_cloud_classification_using_multiple_instance_learning_ICCV_2025_paper.pdf)
+* [CounterPC Counterfactual Feature Realignment for Unsupervised Domain Adaptation on Point Clouds](https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_CounterPC_Counterfactual_Feature_Realignment_for_Unsupervised_Domain_Adaptation_on_Point_ICCV_2025_paper.pdf)
+* [Partially Matching Submap Helps Uncertainty Modeling and Propagation for Text to Point Cloud Localization](https://openaccess.thecvf.com/content/ICCV2025/papers/Feng_Partially_Matching_Submap_Helps_Uncertainty_Modeling_and_Propagation_for_Text_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/Afoolbird/PMSH)
+* [DiffRefine Diffusion-based Proposal Specific Point Cloud Densification for Cross-Domain Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Shin_DiffRefine_Diffusion-based_Proposal_Specific_Point_Cloud_Densification_for_Cross-Domain_Object_ICCV_2025_paper.pdf)
+* [Point Cloud Self-supervised Learning via 3D to Multi-view Masked Learner](http://arxiv.org/abs/2311.10887)
+* [RARE Refine Any Registration of Pairwise Point Clouds via Zero-Shot Learning](http://arxiv.org/abs/2507.19950)<br>:star:[code](https://github.com/zhengcy-lambo/RARE.git)
 * 3D 点云
   * [Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation](http://arxiv.org/pdf/2506.22375v1)
   * [FastPoint: Accelerating 3D Point Cloud Model Inference via Sample Point Distance Prediction](https://arxiv.org/pdf/2507.23480v1)
+  * [ForestFormer3D A Unified Framework for End-to-End Segmentation of Forest LiDAR 3D Point Clouds](http://arxiv.org/abs/2506.16991)<br>:house:[project](https://bxiang233.github.io/FF3D)
+  * [Domain-aware Category-level Geometry Learning Segmentation for 3D Point Clouds](http://arxiv.org/abs/2508.11265)<br>:star:[code](https://github.com/ChicalH/DCGL)
+  * [GroundFlow A Plug-in Module for Temporal Reasoning on 3D Point Cloud Sequential Grounding](http://arxiv.org/abs/2506.21188)
+  * [Tree Skeletonization from 3D Point Clouds by Denoising Diffusion](https://openaccess.thecvf.com/content/ICCV2025/papers/Marks_Tree_Skeletonization_from_3D_Point_Clouds_by_Denoising_Diffusion_ICCV_2025_paper.pdf)
+  * [TrackAny3D Transferring Pretrained 3D Models for Category-unified 3D Point Cloud Tracking](http://arxiv.org/abs/2507.19908)
 * 点云配准
   * [TurboReg: TurboClique for Robust and Efficient Point Cloud Registration](https://arxiv.org/pdf/2507.01439v1)<br>:star:[code](https://github.com/Laka-3DV/TurboReg)
   * [Diff$^2$I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior](https://arxiv.org/pdf/2507.06651v1)
+  * [Unsupervised RGB-D Point Cloud Registration for Scenes with Low Overlap and Photometric Inconsistency](https://openaccess.thecvf.com/content/ICCV2025/papers/Shou_Unsupervised_RGB-D_Point_Cloud_Registration_for_Scenes_with_Low_Overlap_ICCV_2025_paper.pdf)
+  * [BUFFER-X Towards Zero-Shot Point Cloud Registration in Diverse Scenes](https://openaccess.thecvf.com/content/ICCV2025/papers/Seo_BUFFER-X_Towards_Zero-Shot_Point_Cloud_Registration_in_Diverse_Scenes_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/MIT-SPARK/BUFFER-X)
 * 点云分割
   * [All in One: Visual-Description-Guided Unified Point Cloud Segmentation](https://arxiv.org/pdf/2507.05211v1)<br>:star:[code](https://github.com/Hanzy1996/VDG-Uni3DSeg)
+  * [Generalized Few-Shot Point Cloud Segmentation via LLM-Assisted Hyper-Relation Matching](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Generalized_Few-Shot_Point_Cloud_Segmentation_via_LLM-Assisted_Hyper-Relation_Matching_ICCV_2025_paper.pdf)
+  * [Mitigating Geometric Degradation in Fast DownSampling via FastAdapter for Point Cloud Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_Mitigating_Geometric_Degradation_in_Fast_DownSampling_via_FastAdapter_for_Point_ICCV_2025_paper.pdf)
+* 点云补全
+  * [Revisiting Point Cloud Completion Are We Ready For The Real-World](http://arxiv.org/abs/2411.17580)
+  * [Geometric Alignment and Prior Modulation for View-Guided Point Cloud Completion on Unseen Categories](https://openaccess.thecvf.com/content/ICCV2025/papers/Xiu_Geometric_Alignment_and_Prior_Modulation_for_View-Guided_Point_Cloud_Completion_ICCV_2025_paper.pdf)
+* 点云分类
+  * [Purge-Gate Backpropagation-Free Test-Time Adaptation for Point Clouds Classification via Token purging](https://openaccess.thecvf.com/content/ICCV2025/papers/Yazdanpanah_Purge-Gate_Backpropagation-Free_Test-Time_Adaptation_for_Point_Clouds_Classification_via_Token_ICCV_2025_paper.pdf)
+* 点云去噪
+  * [Noise2Score3D Tweedies Approach for Unsupervised Point Cloud Denoising](https://openaccess.thecvf.com/content/ICCV2025/papers/Wei_Noise2Score3D_Tweedies_Approach_for_Unsupervised_Point_Cloud_Denoising_ICCV_2025_paper.pdf)
 
 ## 3D
 * [VertexRegen: Mesh Generation with Continuous Level of Detail](https://arxiv.org/pdf/2508.09062v1)<br>:star:[code](https://vertexregen.github.io/)
@@ -336,6 +629,7 @@
   * [MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction](https://arxiv.org/pdf/2507.15212v1)
   * [LONG3R: Long Sequence Streaming 3D Reconstruction](https://arxiv.org/pdf/2507.18255v1)<br>:star:[code](https://zgchen33.github.io/LONG3R/)
   * [H3R: Hybrid Multi-view Correspondence for Generalizable 3D Reconstruction](https://arxiv.org/pdf/2508.03118v1)<br>:star:[code](https://github.com/JiaHeng-DLUT/H3R)
+  * [Ross3D Reconstructive Visual Instruction Tuning with 3D-Awareness](http://arxiv.org/abs/2504.01901)
 * 场景重建
   * [BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting](http://arxiv.org/pdf/2506.22099v1)<br>:star:[code](https://github.com/fudan-zvg/BezierGS)
   * [ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting](https://arxiv.org/pdf/2507.15454v1)<br>:star:[code](https://ruijiezhu94.github.io/ObjectGS_page)
@@ -343,8 +637,11 @@
   * [ExploreGS: Explorable 3D Scene Reconstruction with Virtual Camera Samplings and Diffusion Priors](https://arxiv.org/pdf/2508.06014v1)<br>:star:[code](https://exploregs.github.io)<br>:star:[code](https://github.com/minsu1206/exploregs)
 * 三维场景理解
   * [VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding](https://arxiv.org/pdf/2506.22799v1)<br>:star:[code](https://sy-ja.github.io/votesplat/)
+  * [Open-Vocabulary Octree-Graph for 3D Scene Understanding](http://arxiv.org/abs/2411.16253)<br>:star:[code](https://github.com/yifeisu/OV-Octree-Graph)
+  * [HERMES A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation](http://arxiv.org/abs/2501.14729)<br>:star:[code](https://github.com/LMD0311/HERMES)
 * 深度估计
   * [DepthSync: Diffusion Guidance-Based Depth Synchronization for Scale- and Geometry-Consistent Video Depth Estimation](https://arxiv.org/pdf/2507.01603v1)
+  * [Spherical Epipolar Rectification for Deep Two-View Absolute Depth Estimation](https://openaccess.thecvf.com/content/ICCV2025/papers/Brousseau_Spherical_Epipolar_Rectification_for_Deep_Two-View_Absolute_Depth_Estimation_ICCV_2025_paper.pdf)
 * 深度补全
   * [PacGDC: Label-Efficient Generalizable Depth Completion with Projection Ambiguity and Consistency](https://arxiv.org/pdf/2507.07374v1)<br>:star:[code](https://github.com/Wang-xjtu/PacGDC)
 * SM
@@ -356,12 +653,17 @@
   * [RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration](https://arxiv.org/pdf/2507.08136v1)<br>:star:[code](https://3dagentworld.github.io/reggs/)
   * [PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations](https://arxiv.org/pdf/2507.13891v1)
   * [GaussianUpdate: Continual 3D Gaussian Splatting Update for Changing Environments](https://arxiv.org/pdf/2508.08867v1)
+  * [ResGS Residual Densification of 3D Gaussian for Efficient Detail Recovery](http://arxiv.org/abs/2412.07494)
 * Semantic Scene Completion(语义场景补全)
   * [Feed-Forward SceneDINO for Unsupervised Semantic Scene Completion](https://arxiv.org/pdf/2507.06230v1)<br>:star:[code](https://visinf.github.io/scenedino)<br>:star:[code](https://github.com/tum-vision/scenedino)
   * [Disentangling Instance and Scene Contexts for 3D Semantic Scene Completion](https://arxiv.org/pdf/2507.08555v1)<br>:star:[code](https://github.com/Enyu-Liu/DISC)
   * [Monocular Semantic Scene Completion via Masked Recurrent Networks](https://arxiv.org/pdf/2507.17661v1)<br>:star:[code](https://github.com/alanWXZ/MonoMRN)
 * 4D重建
   * [MonoFusion: Sparse-View 4D Reconstruction via Monocular Fusion](https://arxiv.org/pdf/2507.23782v1)<br>:star:[code](https://imnotprepared.github.io/research/25_DSR/)<br>:star:[code](https://github.com/ImNotPrepared/MonoFusion)
+* 场景生成
+  * [ScenePainter Semantically Consistent Perpetual 3D Scene Generation with Concept Relation Alignment](http://arxiv.org/abs/2507.19058)
+  * [Free4D Tuning-free 4D Scene Generation with Spatial-Temporal Consistency](http://arxiv.org/abs/2503.20785)
+
 
 ## UAV/RS/Satellite Image(无人机/遥感/卫星图像)
 * [UAVScenes: A Multi-Modal Dataset for UAVs](https://arxiv.org/pdf/2507.22412v1)<br>:star:[code](https://github.com/sijieaaa/UAVScenes)
@@ -369,6 +671,11 @@
 * [LoD-Loc v2: Aerial Visual Localization over Low Level-of-Detail City Models using Explicit Silhouette Alignment](https://arxiv.org/pdf/2507.00659v1)
 * [SkySense V2: A Unified Foundation Model for Multi-modal Remote Sensing](https://arxiv.org/pdf/2507.13812v1)
 * [Adapting Vehicle Detectors for Aerial Imagery to Unseen Domains with Weak Supervision](https://arxiv.org/pdf/2507.20976v1)<br>:star:[code](https://humansensinglab.github.io/AGenDA)
+* [OpenRSD Towards Open-prompts for Object Detection in Remote Sensing Images](http://arxiv.org/abs/2503.06146)
+* [Dual Domain Control via Active Learning for Remote Sensing Domain Incremental Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_Dual_Domain_Control_via_Active_Learning_for_Remote_Sensing_Domain_ICCV_2025_paper.pdf)
+* [Active Learning Meets Foundation Models Fast Remote Sensing Data Annotation for Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Burges_Active_Learning_Meets_Foundation_Models_Fast_Remote_Sensing_Data_Annotation_ICCV_2025_paper.pdf)
+* [LLM-Assisted Semantic Guidance for Sparsely Annotated Remote Sensing Object Detection](http://arxiv.org/abs/2509.16970)
+* [Fusion Meets Diverse Conditions A High-diversity Benchmark and Baseline for UAV-based Multimodal Object Detection with Condition Cues](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Fusion_Meets_Diverse_Conditions_A_High-diversity_Benchmark_and_Baseline_for_ICCV_2025_paper.pdf)
 * 变化检测
   * [Information-Bottleneck Driven Binary Neural Network for Change Detection](https://arxiv.org/pdf/2507.03504v1)
 * 目标检测
@@ -397,6 +704,9 @@
   * [AuroraLong: Bringing RNNs Back to Efficient Open-Ended Video Understanding](https://arxiv.org/pdf/2507.02591v1)
   * [MCAM: Multimodal Causal Analysis Model for Ego-Vehicle-Level Driving Video Understanding](https://arxiv.org/pdf/2507.06072v1)<br>:star:[code](https://github.com/SixCorePeach/MCAM)
   * [DynImg: Key Frames with Visual Prompts are Good Representation for Multi-Modal Video Understanding](https://arxiv.org/pdf/2507.15569v1)
+  * [VideoLLaMB Long Streaming Video Understanding with Recurrent Memory Bridges](http://arxiv.org/abs/2409.01071)
+* 视频摘要
+  * [SummDiff Generative Modeling of Video Summarization with Diffusion](http://arxiv.org/abs/2510.08458)
 * 视频时序定位
   * [Hierarchical Event Memory for Accurate and Low-latency Online Video Temporal Grounding](https://arxiv.org/pdf/2508.04546v1)<br>:star:[code](https://github.com/minghangz/OnVTG)
 
@@ -411,10 +721,11 @@
   * [Weakly Supervised Visible-Infrared Person Re-Identification via Heterogeneous Expert Collaborative Consistency Learning](https://arxiv.org/pdf/2507.12942v1)
 * 行为理解
   * [ViMoNet: A Multimodal Vision-Language Framework for Human Behavior Understanding from Motion and Video](https://arxiv.org/pdf/2508.09818v1)
+  * [HiERO Understanding the Hierarchy of Human Behavior Enhances Reasoning on Egocentric Videos](http://arxiv.org/abs/2505.12911)
 
 ## Action Recognition(动作识别)
 * [Frequency-Semantic Enhanced Variational Autoencoder for Zero-Shot Skeleton-based Action Recognition](http://arxiv.org/pdf/2506.22179v1)
-* [DeSPITE: Exploring Contrastive Deep Skeleton-Pointcloud-IMU-Text Embeddings for Advanced Point Cloud Human Activity Understanding](http://arxiv.org/abs/2506.13897v1)
+* [DeSPITE Exploring Contrastive Deep Skeleton-Pointcloud-IMU-Text Embeddings for Advanced Point Cloud Human Activity Understanding](https://openaccess.thecvf.com/content/ICCV2025/papers/Kreutz_DeSPITE_Exploring_Contrastive_Deep_Skeleton-Pointcloud-IMU-Text_Embeddings_for_Advanced_Point_Cloud_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/thkreutz/despite)
 * [Punching Bag vs. Punching Person: Motion Transferability in Videos](https://arxiv.org/pdf/2508.00085v1)<br>:star:[code](https://github.com/raiyaan-abdullah/Motion-Transfer)
 * 动作预测
   * [Efficient Multi-Person Motion Prediction by Lightweight Spatial and Temporal Interactions](https://arxiv.org/pdf/2507.09446v1)<br>:star:[code](https://github.com/Yuanhong-Zheng/EMPMP)
@@ -423,13 +734,20 @@
   * [Trokens: Semantic-Aware Relational Trajectory Tokens for Few-Shot Action Recognition](https://arxiv.org/pdf/2508.03695v1)<br>:star:[code](https://trokens-iccv25.github.io)<br>:star:[code](https://github.com/pulkitkumar95/trokens)
 * 时序动作分割
   * [Skeleton Motion Words for Unsupervised Skeleton-Based Temporal Action Segmentation](https://arxiv.org/pdf/2508.04513v1)<br>:star:[code](https://github.com/bachlab/SMQ)
+* 动作检测
+  * [Scaling Action Detection AdaTAD with Transformer-Enhanced Temporal-Spatial Adaptation](https://openaccess.thecvf.com/content/ICCV2025/papers/Agrawal_Scaling_Action_Detection_AdaTAD_with_Transformer-Enhanced_Temporal-Spatial_Adaptation_ICCV_2025_paper.pdf)
+  * [MMAD Multi-label Micro-Action Detection in Videos](http://arxiv.org/abs/2407.05311)<br>:star:[code](https://github.com/VUT-HFUT/Micro-Action)
+
 
 ## Human Motion
 * 人体运动分割
   * [Temporal Rate Reduction Clustering for Human Motion Segmentation](http://arxiv.org/pdf/2506.21249v1)
 * 运动生成
   * [PINO: Person-Interaction Noise Optimization for Long-Duration and Customizable Motion Generation of Arbitrary-Sized Groups](https://arxiv.org/pdf/2507.19292v1)<br>:star:[code](https://sinc865.github.io/pino/)
+  * [RapVerse Coherent Vocals and Whole-Body Motion Generation from Text](http://arxiv.org/abs/2405.20336)
   * [PUMPS: Skeleton-Agnostic Point-based Universal Motion Pre-Training for Synthesis in Human Motion Tasks](https://arxiv.org/pdf/2507.20170v1)
+* 运动重建
+  * [UniEgoMotion A Unified Model for Egocentric Motion Reconstruction Forecasting and Generation](http://arxiv.org/abs/2508.01126)
 
 ## pose
 * 人体重建
@@ -438,13 +756,23 @@
   * [SemGes: Semantics-aware Co-Speech Gesture Generation using Semantic Coherence and Relevance Learning](https://arxiv.org/pdf/2507.19359v1)<br>:star:[code](https://semgesture.github.io/)
 * 3D HPE
   * [DPoser-X: Diffusion Model as Robust 3D Whole-body Human Pose Prior](https://arxiv.org/pdf/2508.00599v1)<br>:star:[code](https://github.com/moonbow721/DPoser)
+* 人体姿态生成
+  * [Head2Body Body Pose Generation from Multi-sensory Head-mounted Inputs](https://openaccess.thecvf.com/content/ICCV2025/papers/Tran_Head2Body_Body_Pose_Generation_from_Multi-sensory_Head-mounted_Inputs_ICCV_2025_paper.pdf)
+* 手部姿态
+  * [Prior-aware Dynamic Temporal Modeling Framework for Sequential 3D Hand Pose Estimation](https://openaccess.thecvf.com/content/ICCV2025/papers/Ren_Prior-aware_Dynamic_Temporal_Modeling_Framework_for_Sequential_3D_Hand_Pose_ICCV_2025_paper.pdf)
 
 ## Object Track
 * [SpatialTrackerV2: 3D Point Tracking Made Easy](https://arxiv.org/pdf/2507.12462v1)<br>:house:[project](https://huggingface.co/spaces/Yuxihenry/SpatialTrackerV2)<br>:star:[code](https://github.com/henry123-boy/SpaTrackerV2)
+* [GSOT3D Towards Generic 3D Single Object Tracking in the Wild](http://arxiv.org/abs/2412.02129)<br>:star:[code](https://github.com/ailovejinx/GSOT3D)
 * [UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions](https://arxiv.org/pdf/2507.00648v1)<br>:star:[code](https://github.com/Z-Z188/UMDATrack)
 * [Is Tracking really more challenging in First Person Egocentric Vision?](https://arxiv.org/pdf/2507.16015v1)
 * [What You Have is What You Track: Adaptive and Robust Multimodal Tracking](https://arxiv.org/pdf/2507.05899v1)<br>:star:[code](https://github.com/supertyd/FlexTrack/tree/main)
 * [Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking](https://arxiv.org/pdf/2507.07483v1)
+* [General Compression Framework for Efficient Transformer Object Tracking](http://arxiv.org/abs/2409.17564)<br>:star:[code](https://github.com/LingyiHongfd/CompressTracker)
+* 多目标跟踪
+  * [Language Decoupling with Fine-grained Knowledge Guidance for Referring Multi-object Tracking](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Language_Decoupling_with_Fine-grained_Knowledge_Guidance_for_Referring_Multi-object_Tracking_ICCV_2025_paper.pdf)
+  * [VOVTrack Exploring the Potentiality in Raw Videos for Open-Vocabulary Multi-Object Tracking](https://openaccess.thecvf.com/content/ICCV2025/papers/Qian_VOVTrack_Exploring_the_Potentiality_in_Raw_Videos_for_Open-Vocabulary_Multi-Object_ICCV_2025_paper.pdf)
+  * [LA-MOTR End-to-End Multi-Object Tracking by Learnable Association](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_LA-MOTR_End-to-End_Multi-Object_Tracking_by_Learnable_Association_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/PenK1nG/LA-MOTR)
 
 
 
@@ -453,7 +781,7 @@
 
 ## Object Detection(目标检测) 
 * [DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic](http://arxiv.org/pdf/2506.21260v1)
-* [Gradient Decomposition and Alignment for Incremental Object Detection](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Luo_Gradient_Decomposition_and_ICCV_2025_supplemental.pdf)
+* [Gradient Decomposition and Alignment for Incremental Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Luo_Gradient_Decomposition_and_Alignment_for_Incremental_Object_Detection_ICCV_2025_paper.pdf)
 * [Visual Textualization for Image Prompted Object Detection](https://arxiv.org/pdf/2506.23785v1)<br>:star:[code](https://github.com/WitGotFlg/VisTex-OVLM)
 * [Task-Specific Zero-shot Quantization-Aware Training for Object Detection](https://arxiv.org/pdf/2507.16782v1)<br>:star:[code](https://github.com/DFQ-Dojo/dfq-toolkit)
 * [PBCAT: Patch-based composite adversarial training against physically realizable attacks on object detection](https://arxiv.org/pdf/2506.23581v1)
@@ -462,8 +790,24 @@
 * [LMM-Det: Make Large Multimodal Models Excel in Object Detection](https://arxiv.org/pdf/2507.18300v1)<br>:star:[code](https://github.com/360CVGroup/LMM-Det)
 * [Adversarial Attention Perturbations for Large Object Detection Transformers](https://arxiv.org/pdf/2508.02987v1)<br>:star:[code](https://github.com/zacharyyahn/AFOG)
 * [ForeSight: Multi-View Streaming Joint Object Detection and Trajectory Forecasting](https://arxiv.org/pdf/2508.07089v1)
+* [Gradient-Reweighted Adversarial Camouflage for Physical Object Detection Evasion](https://openaccess.thecvf.com/content/ICCV2025/papers/Liang_Gradient-Reweighted_Adversarial_Camouflage_for_Physical_Object_Detection_Evasion_ICCV_2025_paper.pdf)
+* [Unified Category-Level Object Detection and Pose Estimation from RGB Images using 3D Prototypes](http://arxiv.org/abs/2508.02157)
+* [Cycle-Consistent Learning for Joint Layout-to-Image Generation and Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Cai_Cycle-Consistent_Learning_for_Joint_Layout-to-Image_Generation_and_Object_Detection_ICCV_2025_paper.pdf)
+* [Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning](http://arxiv.org/abs/2503.11780)<br>:star:[code](https://github.com/Zhao-Tian-yi/M2D-LIF)
+* [Automated Model Evaluation for Object Detection via Prediction Consistency and Reliability](http://arxiv.org/abs/2508.12082)<br>:star:[code](https://github.com/YonseiML/autoeval-det)
+* [Diffusion-based Source-biased Model for Single Domain Generalized Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Jiang_Diffusion-based_Source-biased_Model_for_Single_Domain_Generalized_Object_Detection_ICCV_2025_paper.pdf)
+* [VISO Accelerating In-orbit Object Detection with Language-Guided Mask Learning and Sparse Inference](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_VISO_Accelerating_In-orbit_Object_Detection_with_Language-Guided_Mask_Learning_and_ICCV_2025_paper.pdf)
+* [Beyond RGB Adaptive Parallel Processing for RAW Object Detection](http://arxiv.org/abs/2503.13163)
+* [Dark-ISP Enhancing RAW Image Processing for Low-Light Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Guo_Dark-ISP_Enhancing_RAW_Image_Processing_for_Low-Light_Object_Detection_ICCV_2025_paper.pdf)
+* [DoppDrive Doppler-Driven Temporal Aggregation for Improved Radar Object Detection](http://arxiv.org/abs/2508.12330)<br>:house:[project](https://yuvalhg.github.io/DoppDrive) :house:[project](https://yuvalhg.github.io/DoppDrive/)
+* [Continual Adaptation Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios](http://arxiv.org/abs/2506.24063)
+* 小目标检测
+  * [Event-based Tiny Object Detection A Benchmark Dataset and Baseline](http://arxiv.org/abs/2506.23575)
+  * [Uncertainty-Aware Gradient Stabilization for Small Object Detection](http://arxiv.org/abs/2303.01803)
+  * [DM-EFS Dynamically Multiplexed Expanded Features Set Form for Robust and Efficient Small Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Sharma_DM-EFS_Dynamically_Multiplexed_Expanded_Features_Set_Form_for_Robust_and_ICCV_2025_paper.pdf)
 * 开集目标检测
   * [3D-MOOD: Lifting 2D to 3D for Monocular Open-Set Object Detection](https://arxiv.org/pdf/2507.23567v1)
+  * [ASGS Single-Domain Generalizable Open-Set Object Detection via Adaptive Subgraph Searching](https://openaccess.thecvf.com/content/ICCV2025/papers/Yuan_ASGS_Single-Domain_Generalizable_Open-Set_Object_Detection_via_Adaptive_Subgraph_Searching_ICCV_2025_paper.pdf)
 * 三维目标检测
   * [OcRFDet: Object-Centric Radiance Fields for Multi-View 3D Object Detection in Autonomous Driving](https://arxiv.org/pdf/2506.23565v1)<br>:star:[code](https://github.com/Mingqj/OcRFDet)
   * [MambaFusion: Height-Fidelity Dense Global Fusion for Multi-modal 3D Object Detection](https://arxiv.org/pdf/2507.04369v1)
@@ -471,12 +815,24 @@
   * [Boosting Multi-View Indoor 3D Object Detection via Adaptive 3D Volume Construction](https://arxiv.org/pdf/2507.18331v1)<br>:star:[code](https://github.com/RM-Zhang/SGCDet)
 * 伪装目标检测
   * [Rethinking Detecting Salient and Camouflaged Objects in Unconstrained Scenes](http://arxiv.org/abs/2412.10943)<br>:star:[code](https://github.com/ssecv/USCNet)
+  * [ESCNetEdge-Semantic Collaborative Network for Camouflaged Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Ye_ESCNetEdge-Semantic_Collaborative_Network_for_Camouflaged_Object_Detection_ICCV_2025_paper.pdf)
+* 半监督目标检测
+  * [STEP-DETR Advancing DETR-based Semi-Supervised Object Detection with Super Teacher and Pseudo-Label Guided Text Queries](https://openaccess.thecvf.com/content/ICCV2025/papers/Shehzadi_STEP-DETR_Advancing_DETR-based_Semi-Supervised_Object_Detection_with_Super_Teacher_and_ICCV_2025_paper.pdf)
+  * [Power of Cooperative Supervision Multiple Teachers Framework for Advanced 3D Semi-Supervised Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Lee_Power_of_Cooperative_Supervision_Multiple_Teachers_Framework_for_Advanced_3D_ICCV_2025_paper.pdf)
 * 域适应目标检测
   * [Boosting Domain Generalized and Adaptive Detection with Diffusion Models: Fitness, Generalization, and Transferability](http://arxiv.org/pdf/2506.21042v1)<br>:star:[code](https://github.com/heboyong/Fitness-Generalization-Transferability)
+  * [Dual-Rate Dynamic Teacher for Source-Free Domain Adaptive Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/He_Dual-Rate_Dynamic_Teacher_for_Source-Free_Domain_Adaptive_Object_Detection_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/qih96/DDT)
+  * [Debiased Teacher for Day-to-Night Domain Adaptive Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Cui_Debiased_Teacher_for_Day-to-Night_Domain_Adaptive_Object_Detection_ICCV_2025_paper.pdf)
 * 开放词汇目标检测
-  * [Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection](https://arxiv.org/pdf/2507.17436v1)
+  * [Dynamic-DINO Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_Dynamic-DINO_Fine-Grained_Mixture_of_Experts_Tuning_for_Real-time_Open-Vocabulary_Object_ICCV_2025_paper.pdf)
+  * [Benefit From Seen Enhancing Open-Vocabulary Object Detection by Bridging Visual and Textual Co-Occurrence Knowledge](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Benefit_From_Seen_Enhancing_Open-Vocabulary_Object_Detection_by_Bridging_Visual_ICCV_2025_paper.pdf)
 * 可见光红外目标检测
   * [WaveMamba: Wavelet-Driven Mamba Fusion for RGB-Infrared Object Detection](https://arxiv.org/pdf/2507.18173v1)
+* 红外小目标检测
+  * [From Easy to Hard Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision](http://arxiv.org/abs/2412.11154)<br>:star:[code](https://github.com/YuChuang1205/PAL)
+  * [Text-IRSTD Leveraging Semantic Text to Promote Infrared Small Target Detection in Complex Scenes](https://openaccess.thecvf.com/content/ICCV2025/papers/Huang_Text-IRSTD_Leveraging_Semantic_Text_to_Promote_Infrared_Small_Target_Detection_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/Zhengsy0407/Text-IRSTD)
+
+
 
 ## Biometrics
 * [DisenQ: Disentangling Q-Former for Activity-Biometrics](https://arxiv.org/pdf/2507.07262v1)
@@ -491,8 +847,11 @@
 ## Face
 * [IDFace: Face Template Protection for Efficient and Secure Identification](https://arxiv.org/pdf/2507.12050v1)
 * [FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models](https://arxiv.org/pdf/2507.02714v1)
+* 人脸识别
+  * [LVFace Progressive Cluster Optimization for Large Vision Models in Face Recognition](http://arxiv.org/abs/2501.13420)<br>:star:[code](https://github.com/bytedance/LVFace)
 * 人脸恢复
   * [DynFaceRestore: Balancing Fidelity and Quality in Diffusion-Guided Blind Face Restoration with Dynamic Blur-Level Mapping and Guidance](https://arxiv.org/pdf/2507.13797v1)
+  * [MoFRR Mixture of Diffusion Models for Face Retouching Restoration](http://arxiv.org/abs/2507.19770)
 * 人脸表情识别
   * [Multimodal Prompt Alignment for Facial Expression Recognition](http://arxiv.org/pdf/2506.21017v1)
   * [AU-Blendshape for Fine-grained Stylized 3D Facial Expression Manipulation](https://arxiv.org/pdf/2507.12001v1)<br>:star:[code](https://github.com/wslh852/AUBlendNet.git)
@@ -517,6 +876,8 @@
 * [M-Net: MRI Brain Tumor Sequential Segmentation Network via Mesh-Cast](https://arxiv.org/pdf/2507.20582v1)
 * [MetaScope: Optics-Driven Neural Network for Ultra-Micro Metalens Endoscopy](https://arxiv.org/pdf/2508.03596v1)<br>:star:[code](https://cuhk-aim-group.github.io/MetaScope/)<br>:star:[code](https://github.com/cuhk-aim-group/metascope)
 * [COME: Dual Structure-Semantic Learning with Collaborative MoE for Universal Lesion Detection Across Heterogeneous Ultrasound Datasets](https://arxiv.org/pdf/2508.09886v1)
+* [CoStoDet-DDPM Collaborative Training of Stochastic and Deterministic Models Improves Surgical Workflow Anticipation and Recognition](https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_CoStoDet-DDPM_Collaborative_Training_of_Stochastic_and_Deterministic_Models_Improves_Surgical_ICCV_2025_paper.pdf)
+* [Optimal Transport for Brain-Image Alignment Unveiling Redundancy and Synergy in Neural Information Processing](http://arxiv.org/abs/2503.10663)<br>:star:[code](https://github.com/NKUShaw/OT-Alignment4brain-to-image)
 * 医学图像融合
   * [UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments](https://arxiv.org/pdf/2506.22736v1)
 * 报告生成
@@ -570,6 +931,7 @@
     * [Conditional Latent Diffusion Models for Zero-Shot Instance Segmentation](https://arxiv.org/pdf/2508.04122v1)
 * 全景分割
   * [PanSt3R: Multi-view Consistent Panoptic Segmentation](http://arxiv.org/pdf/2506.21348v1)
+  * [Prior2Former - Evidential Modeling of Mask Transformers for Assumption-Free Open-World Panoptic Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Schmidt_Prior2Former_-_Evidential_Modeling_of_Mask_Transformers_for_Assumption-Free_Open-World_ICCV_2025_paper.pdf)
 * 语义分割
   * [Exploring Probabilistic Modeling Beyond Domain Generalization for Semantic Segmentation](https://arxiv.org/pdf/2507.21367v1)
   * [Revisiting Efficient Semantic Segmentation: Learning Offsets for Better Spatial and Class Feature Alignment](https://arxiv.org/pdf/2508.08811v1)<br>:star:[code](https://github.com/HVision-NKU/OffSeg)
@@ -599,6 +961,7 @@
 * [Distilling Parallel Gradients for Fast ODE Solvers of Diffusion Models](https://arxiv.org/pdf/2507.14797v1)<br>:star:[code](https://github.com/BeierZhu/EPD)
 * [Anti-Tamper Protection for Unauthorized Individual Image Generation](https://arxiv.org/pdf/2508.06325v1)<br>:star:[code](https://github.com/Seeyn/Anti-Tamper-Perturbation)
 * [Stable Diffusion Models are Secretly Good at Visual In-Context Learning](https://arxiv.org/pdf/2508.09949v1)
+* [FlexGen Flexible Multi-View Generation from Text and Image Inputs](http://arxiv.org/abs/2410.10745)
 * 布局生成
   * [IGD: Instructional Graphic Design with Multimodal Layer Generation](https://arxiv.org/pdf/2507.09910v1)
 * 图像合成
@@ -625,6 +988,7 @@
   * [Steering Guidance for Personalized Text-to-Image Diffusion Models](https://arxiv.org/pdf/2508.00319v1)
   * [PLA: Prompt Learning Attack against Text-to-Image Generative Models](https://arxiv.org/pdf/2508.03696v1)
   * [Draw Your Mind: Personalized Generation via Condition-Level Modeling in Text-to-Image Diffusion Models](https://arxiv.org/pdf/2508.03481v1)
+  * [Automated Red Teaming for Text-to-Image Models through Feedback-Guided Prompt Iteration with Vision-Language Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Xu_Automated_Red_Teaming_for_Text-to-Image_Models_through_Feedback-Guided_Prompt_Iteration_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/Weiww-Xu/FGPI)
 * 文本-视频
   * [TITAN-Guide: Taming Inference-Time AligNment for Guided Text-to-Video Diffusion Models](https://arxiv.org/pdf/2508.00289v1)<br>:star:[code](https://titanguide.github.io)
 * 视频合成
@@ -650,6 +1014,8 @@
   * [Gaussian Variation Field Diffusion for High-fidelity Video-to-4D Synthesis](https://arxiv.org/pdf/2507.23785v1)<br>:star:[code](https://gvfdiffusion.github.io/)<br>:star:[code](https://github.com/foreverfancy/gvfdiffusion)
 * 故事生成
   * [Lay2Story: Extending Diffusion Transformers for Layout-Togglable Story Generation](https://arxiv.org/pdf/2508.08949v1)
+* 图像拼接
+  * [PixelStitch Structure-Preserving Pixel-Wise Bidirectional Warps for Unsupervised Image Stitching](https://openaccess.thecvf.com/content/ICCV2025/papers/Jin_PixelStitch_Structure-Preserving_Pixel-Wise_Bidirectional_Warps_for_Unsupervised_Image_Stitching_ICCV_2025_paper.pdf)
 
 ## Image Captioning(图像字幕)
 * [CaptionSmiths: Flexibly Controlling Language Pattern in Image Captioning](https://arxiv.org/pdf/2507.01409v1)<br>:star:[code](https://github.com/omron-sinicx/captionsmiths)
@@ -665,6 +1031,7 @@
   * [Bridging Diffusion Models and 3D Representations: A 3D Consistent Super-Resolution Framework](https://arxiv.org/pdf/2508.04090v1)
   * [IM-LUT: Interpolation Mixing Look-Up Tables for Image Super-Resolution](https://arxiv.org/pdf/2507.09923v1)
   * [Fine-structure Preserved Real-world Image Super-resolution via Transfer VAE Training](https://arxiv.org/pdf/2507.20291v1)<br>:star:[code](https://github.com/Joyies/TVT)
+  * [ZFusion Efficient Deep Compositional Zero-shot Learning for Blind Image Super-Resolution with Generative Diffusion Prior](https://openaccess.thecvf.com/content/ICCV2025/papers/Esmaeilzehi_ZFusion_Efficient_Deep_Compositional_Zero-shot_Learning_for_Blind_Image_Super-Resolution_ICCV_2025_paper.pdf)
 * 视频超分辨率
   * [VSRM: A Robust Mamba-Based Framework for Video Super-Resolution](https://arxiv.org/pdf/2506.22762v1)
   * [TurboVSR: Fantastic Video Upscalers and Where to Find Them](https://arxiv.org/pdf/2506.23618v1)
@@ -687,6 +1054,7 @@
   * [Robust Adverse Weather Removal via Spectral-based Spatial Grouping](https://arxiv.org/pdf/2507.22498v1)
   * [Exploiting Diffusion Prior for Task-driven Image Restoration](https://arxiv.org/pdf/2507.22459v1)
   * [Reverse Convolution and Its Applications to Image Restoration](https://arxiv.org/pdf/2508.09824v1)<br>:star:[code](https://github.com/cszn/ConverseNet)
+  * [Enhancing Image Restoration Transformer via Adaptive Translation Equivariance](http://arxiv.org/abs/2506.18520)
 * 图像增强
   * [MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices](https://arxiv.org/pdf/2507.01838v1)<br>:star:[code](https://github.com/AVC2-UESTC/MobileIE.git)
   * [CWNet: Causal Wavelet Network for Low-Light Image Enhancement](https://arxiv.org/pdf/2507.10689v1)<br>:star:[code](https://github.com/bywlzts/CWNet-Causal-Wavelet-Network)
@@ -770,10 +1138,24 @@
 * [TRACE: Learning 3D Gaussian Physical Dynamics from Multi-view Videos](https://arxiv.org/pdf/2508.09811v1)<br>:star:[code](https://github.com/vLAR-group/TRACE)
 * [Combinative Matching for Geometric Shape Assembly](https://arxiv.org/pdf/2508.09780v1)<br>:star:[code](https://nahyuklee.github.io/cmnet)
 * [Harnessing Input-Adaptive Inference for Efficient VLN](https://arxiv.org/pdf/2508.09262v1)<br>:star:[code](https://github.com/secure-ai-systems-group/adaptive-vision-and-language-navigation)
-* [MM-IFEngine: Towards Multimodal Instruction Following](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Ding_MM-IFEngine_Towards_Multimodal_ICCV_2025_supplemental.pdf)
+
 * [Gradient Extrapolation for Debiased Representation Learning](http://arxiv.org/abs/2503.13236)<br>:house:[project](https://gerne-debias.github.io/)
 * [Less-to-More Generalization: Unlocking More Controllability by In-Context Generation](http://arxiv.org/abs/2504.02160)<br>:star:[code](https://github.com/bytedance/UNO.)
 * [Towards a Unified Copernicus Foundation Model for Earth Vision](http://arxiv.org/abs/2503.11849)<br>:star:[code](https://github.com/zhu-xlab/Copernicus-FM)
+* [UnZipLoRA Separating Content and Style from a Single Image](http://arxiv.org/abs/2412.04465)
+* [FlowDPS  Flow-Driven Posterior Sampling for Inverse Problems](http://arxiv.org/abs/2503.08136)
+
+* [Closed-Loop Transfer for Weakly-supervised Affordance Grounding](https://openaccess.thecvf.com/content/ICCV2025/papers/Tang_Closed-Loop_Transfer_for_Weakly-supervised_Affordance_Grounding_ICCV_2025_paper.pdf)
+
+* [ReconDreamer Harmonizing Generative and Reconstructive Models for Driving Scene Representation](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhao_ReconDreamer_Harmonizing_Generative_and_Reconstructive_Models_for_Driving_Scene_Representation_ICCV_2025_paper.pdf)
+* [Generative Zoo](http://arxiv.org/abs/2412.08101)
+* [PAN-Crafter Learning Modality-Consistent Alignment for PAN-Sharpening](https://openaccess.thecvf.com/content/ICCV2025/papers/Do_PAN-Crafter_Learning_Modality-Consistent_Alignment_for_PAN-Sharpening_ICCV_2025_paper.pdf)
+* [ArgMatch Adaptive Refinement Gathering for Efficient Dense Matching](https://openaccess.thecvf.com/content/ICCV2025/papers/Deng_ArgMatch_Adaptive_Refinement_Gathering_for_Efficient_Dense_Matching_ICCV_2025_paper.pdf)<br>:star:[code](https://github.com/ACuOoOoO/argmatch)
+* [SANA-Sprint One-Step Diffusion with Continuous-Time Consistency Distillation](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_SANA-Sprint_One-Step_Diffusion_with_Continuous-Time_Consistency_Distillation_ICCV_2025_paper.pdf)
+
+* [Erasing More Than Intended How Concept Erasure Degrades the Generation of Non-Target Concepts](http://arxiv.org/abs/2501.09833)
+* [Demeter A Parametric Model of Crop Plant Morphology from the Real World](https://openaccess.thecvf.com/content/ICCV2025/papers/Cheng_Demeter_A_Parametric_Model_of_Crop_Plant_Morphology_from_the_ICCV_2025_paper.pdf)
+
 
 ## 2020 年论文分类汇总戳这里
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers) 
